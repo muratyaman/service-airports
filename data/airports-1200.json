@@ -1,0 +1,4358 @@
+{
+  "AirportResource": {
+    "Airports": {
+      "Airport": [
+        {
+          "AirportCode": "UBJ",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 33.92583333,
+              "Longitude": 131.2744444
+            }
+          },
+          "CityCode": "UBJ",
+          "CountryCode": "JP",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Ube"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Ube"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "Yamaguchi\/Ube"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Ube"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Ube"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Ube"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Ube"
+              }
+            ]
+          },
+          "UtcOffset": 9,
+          "TimeZoneId": "Asia\/Tokyo"
+        },
+        {
+          "AirportCode": "UBP",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 15.24888889,
+              "Longitude": 104.8736111
+            }
+          },
+          "CityCode": "UBP",
+          "CountryCode": "TH",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Ubon Ratchathani - Muang Ubon"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Ubon Ratchathani - Muang Ubon"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Ubon Ratchathani - Muang Ubon"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Ubon Ratchathani - Muang Ubon"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Ubon Ratchathani - Muang Ubon"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Ubon Ratchathani - Muang Ubon"
+              }
+            ]
+          },
+          "UtcOffset": 7,
+          "TimeZoneId": "Asia\/Bangkok"
+        },
+        {
+          "AirportCode": "UDI",
+          "Position": {
+            "Coordinate": {
+              "Latitude": -18.89972222,
+              "Longitude": -48.23333333
+            }
+          },
+          "CityCode": "UDI",
+          "CountryCode": "BR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Uberlandia"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Uberlandia"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Uberlandia"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Uberlandia"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Uberlandia"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Uberlandia"
+              }
+            ]
+          },
+          "UtcOffset": -3,
+          "TimeZoneId": "America\/Sao_Paulo"
+        },
+        {
+          "AirportCode": "UDR",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 24.61472222,
+              "Longitude": 73.89583333
+            }
+          },
+          "CityCode": "UDR",
+          "CountryCode": "IN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Udaipur"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Udaipur"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Udaipur"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Udaipur"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Udaipur"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Udaipur"
+              }
+            ]
+          },
+          "UtcOffset": 5.5,
+          "TimeZoneId": "Asia\/Kolkata"
+        },
+        {
+          "AirportCode": "UFA",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 54.73333333,
+              "Longitude": 55.93333333
+            }
+          },
+          "CityCode": "UFA",
+          "CountryCode": "RU",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Ufa"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Ufa"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Уфа"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Ufa"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Ufa"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Ufa"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Ufa"
+              }
+            ]
+          },
+          "UtcOffset": 5,
+          "TimeZoneId": "Asia\/Yekaterinburg"
+        },
+        {
+          "AirportCode": "UIO",
+          "Position": {
+            "Coordinate": {
+              "Latitude": -0.130555556,
+              "Longitude": -78.35833333
+            }
+          },
+          "CityCode": "UIO",
+          "CountryCode": "EC",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": {
+              "@LanguageCode": "en",
+              "$": "Quito Mariscal Sucre Airport"
+            }
+          },
+          "UtcOffset": -5,
+          "TimeZoneId": "America\/Guayaquil"
+        },
+        {
+          "AirportCode": "UKB",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 34.75,
+              "Longitude": 135.1666667
+            }
+          },
+          "CityCode": "OSA",
+          "CountryCode": "JP",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "en",
+                "$": "Osaka - Kobe"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "Osaka - Kobe　神戸 - 大阪"
+              }
+            ]
+          },
+          "UtcOffset": 9,
+          "TimeZoneId": "Asia\/Tokyo"
+        },
+        {
+          "AirportCode": "ULN",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 47.9,
+              "Longitude": 106.8666667
+            }
+          },
+          "CityCode": "ULN",
+          "CountryCode": "MN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Ulan Bator"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Ulan Bator"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Ulaan Baatar"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Ulan Bator"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Ulan Bator"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Ulan Bator"
+              }
+            ]
+          },
+          "UtcOffset": 9,
+          "TimeZoneId": "Asia\/Ulaanbaatar"
+        },
+        {
+          "AirportCode": "ULY",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 54.26638889,
+              "Longitude": 48.21666667
+            }
+          },
+          "CityCode": "ULY",
+          "CountryCode": "RU",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Ulyanovsk"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Ulyanovsk"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Ульяновск"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Ulyanovsk"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Ulyanovsk"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Ulyanovsk"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Ulyanovsk"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Europe\/Moscow"
+        },
+        {
+          "AirportCode": "UME",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 63.79333333,
+              "Longitude": 20.28444444
+            }
+          },
+          "CityCode": "UME",
+          "CountryCode": "SE",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Umea"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Umea"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Umea"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Umea"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Umea"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Umea"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Europe\/Stockholm"
+        },
+        {
+          "AirportCode": "UPG",
+          "Position": {
+            "Coordinate": {
+              "Latitude": -5.066666667,
+              "Longitude": 119.55
+            }
+          },
+          "CityCode": "UPG",
+          "CountryCode": "ID",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Ujung Pandang"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Ujung Pandang"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Ujung Pandang"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Ujung Pandang"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Ujung Pandang"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Ujung Pandang"
+              }
+            ]
+          },
+          "UtcOffset": 8,
+          "TimeZoneId": "Asia\/Makassar"
+        },
+        {
+          "AirportCode": "URC",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 43,
+              "Longitude": 87
+            }
+          },
+          "CityCode": "URC",
+          "CountryCode": "CN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Urumqi"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Urumqi"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "烏魯木齊"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Urumqi"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Urumqi"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "乌鲁木齐"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Urumqi"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Urumqi"
+              }
+            ]
+          },
+          "UtcOffset": 8,
+          "TimeZoneId": "Asia\/Shanghai"
+        },
+        {
+          "AirportCode": "URT",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 9.133055556,
+              "Longitude": 99.31638889
+            }
+          },
+          "CityCode": "URT",
+          "CountryCode": "TH",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Surat Thani"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Surat Thani"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Surat Thani"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Surat Thani"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Surat Thani"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Surat Thani"
+              }
+            ]
+          },
+          "UtcOffset": 7,
+          "TimeZoneId": "Asia\/Bangkok"
+        },
+        {
+          "AirportCode": "USH",
+          "Position": {
+            "Coordinate": {
+              "Latitude": -54.8025,
+              "Longitude": -68.32777778
+            }
+          },
+          "CityCode": "USH",
+          "CountryCode": "AR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Ushuaia"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Ushuaia"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Ушуайя"
+              },
+              {
+                "@LanguageCode": "ko",
+                "$": "우수아이아"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "烏斯懷亞"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "ウスワイア"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Ushuaia"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Ushuaia"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Ushuaia"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "乌斯怀亚"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Ushuaia"
+              }
+            ]
+          },
+          "UtcOffset": -3,
+          "TimeZoneId": "America\/Argentina\/Buenos_Aires"
+        },
+        {
+          "AirportCode": "USK",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 55,
+              "Longitude": 37
+            }
+          },
+          "CityCode": "USK",
+          "CountryCode": "RU",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Usinsk"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Usinsk"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Усинск"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Usinsk"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Usinsk"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Usinsk"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Usinsk"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Europe\/Moscow"
+        },
+        {
+          "AirportCode": "USM",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 9.550555556,
+              "Longitude": 100.0663889
+            }
+          },
+          "CityCode": "USM",
+          "CountryCode": "TH",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Koh Samui"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Koh Samui"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Ko Samui"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Koh Samui"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Koh Samui"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Koh Samui"
+              }
+            ]
+          },
+          "UtcOffset": 7,
+          "TimeZoneId": "Asia\/Bangkok"
+        },
+        {
+          "AirportCode": "USN",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 35.59055556,
+              "Longitude": 129.3575
+            }
+          },
+          "CityCode": "USN",
+          "CountryCode": "KR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Ulsan"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Ulsan"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Ulsan"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Ulsan"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Ulsan"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Ulsan"
+              }
+            ]
+          },
+          "UtcOffset": 9,
+          "TimeZoneId": "Asia\/Seoul"
+        },
+        {
+          "AirportCode": "UTH",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 17.38472222,
+              "Longitude": 102.7927778
+            }
+          },
+          "CityCode": "UTH",
+          "CountryCode": "TH",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Udon Thani"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Udon Thani"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Udon Thani"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Udon Thani"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Udon Thani"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Udon Thani"
+              }
+            ]
+          },
+          "UtcOffset": 7,
+          "TimeZoneId": "Asia\/Bangkok"
+        },
+        {
+          "AirportCode": "UTN",
+          "Position": {
+            "Coordinate": {
+              "Latitude": -28.40055556,
+              "Longitude": 21.25333333
+            }
+          },
+          "CityCode": "UTN",
+          "CountryCode": "ZA",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Upington"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Upington"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Upington"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Upington"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Upington"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Upington"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Africa\/Johannesburg"
+        },
+        {
+          "AirportCode": "UTT",
+          "Position": {
+            "Coordinate": {
+              "Latitude": -31.58305556,
+              "Longitude": 28.78305556
+            }
+          },
+          "CityCode": "UTT",
+          "CountryCode": "ZA",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Umtata"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Umtata"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Umtata"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Umtata"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Umtata"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Umtata"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Africa\/Johannesburg"
+        },
+        {
+          "AirportCode": "UUS",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 46.96666667,
+              "Longitude": 142.75
+            }
+          },
+          "CityCode": "UUS",
+          "CountryCode": "RU",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Yuzhno Sakhalinsk"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Yuzhno Sakhalinsk"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Yuzhno Sakhalinsk"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Yuzhno Sakhalinsk"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Yuzhno Sakhalinsk"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Yuzhno Sakhalinsk"
+              }
+            ]
+          },
+          "UtcOffset": 11,
+          "TimeZoneId": "Asia\/Sakhalin"
+        },
+        {
+          "AirportCode": "UVF",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 13.73555556,
+              "Longitude": -60.95222222
+            }
+          },
+          "CityCode": "SLU",
+          "CountryCode": "LC",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Saint Lucia - Hewanorra"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Saint Lucia - Hewanorra"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Saint Lucia - Hewanorra"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Saint Lucia - Hewanorra"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Saint Lucia - Hewanorra"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Saint Lucia - Hewanorra"
+              }
+            ]
+          },
+          "UtcOffset": -4,
+          "TimeZoneId": "America\/St_Lucia"
+        },
+        {
+          "AirportCode": "VAA",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 44.92,
+              "Longitude": 4.970277778
+            }
+          },
+          "CityCode": "VAA",
+          "CountryCode": "FI",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Vaasa"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Vaasa"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Vaasa"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Vaasa"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Vaasa"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Vaasa"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Europe\/Helsinki"
+        },
+        {
+          "AirportCode": "VAN",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 38.45833333,
+              "Longitude": 43.33194444
+            }
+          },
+          "CityCode": "VAN",
+          "CountryCode": "TR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Van"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Van"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Van"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Van"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Van"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Van"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Europe\/Istanbul"
+        },
+        {
+          "AirportCode": "VAR",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 43.23222222,
+              "Longitude": 27.82555556
+            }
+          },
+          "CityCode": "VAR",
+          "CountryCode": "BG",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Varna"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Varna"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Varna"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Varna"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Varna"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Varna"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Europe\/Sofia"
+        },
+        {
+          "AirportCode": "VAS",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 39.81361111,
+              "Longitude": 36.90416667
+            }
+          },
+          "CityCode": "VAS",
+          "CountryCode": "TR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Sivas"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Sivas"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Sivas"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Sivas"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Sivas"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Sivas"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Europe\/Istanbul"
+        },
+        {
+          "AirportCode": "VCE",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 45.50666667,
+              "Longitude": 12.35
+            }
+          },
+          "CityCode": "VCE",
+          "CountryCode": "IT",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Venice - Marco Polo"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Venedig - Marco Polo"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "Veneza"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Venice - Marco Polo"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Venezia - Marco Polo"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Venice - Marco Polo"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Venice - Marco Polo"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Europe\/Rome"
+        },
+        {
+          "AirportCode": "VCT",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 28.85111111,
+              "Longitude": -96.91444444
+            }
+          },
+          "CityCode": "VCT",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Victoria"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Victoria"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Victoria"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Victoria"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Victoria"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Victoria"
+              }
+            ]
+          },
+          "UtcOffset": -5,
+          "TimeZoneId": "America\/Chicago"
+        },
+        {
+          "AirportCode": "VEL",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 40.43888889,
+              "Longitude": -109.5102778
+            }
+          },
+          "CityCode": "VEL",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Vernal"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Vernal"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Vernal"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Vernal"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Vernal"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Vernal"
+              }
+            ]
+          },
+          "UtcOffset": -6,
+          "TimeZoneId": "America\/Denver"
+        },
+        {
+          "AirportCode": "VER",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 19.15,
+              "Longitude": -96.18333333
+            }
+          },
+          "CityCode": "VER",
+          "CountryCode": "MX",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Vera Cruz"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Vera Cruz"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Vera Cruz"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Vera Cruz"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Vera Cruz"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Vera Cruz"
+              }
+            ]
+          },
+          "UtcOffset": -5,
+          "TimeZoneId": "America\/Mexico_City"
+        },
+        {
+          "AirportCode": "VFA",
+          "Position": {
+            "Coordinate": {
+              "Latitude": -18.09305556,
+              "Longitude": 25.84027778
+            }
+          },
+          "CityCode": "VFA",
+          "CountryCode": "ZW",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Victoria Falls"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Victoria Falls"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Victoria Falls"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Victoria Falls"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Victoria Falls"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Victoria Falls"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Africa\/Harare"
+        },
+        {
+          "AirportCode": "VGO",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 42.22638889,
+              "Longitude": -8.627777778
+            }
+          },
+          "CityCode": "VGO",
+          "CountryCode": "ES",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Vigo"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Vigo"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Vigo"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Vigo"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Vigo"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Vigo"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Europe\/Madrid"
+        },
+        {
+          "AirportCode": "VIE",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 48.11083333,
+              "Longitude": 16.55805556
+            }
+          },
+          "CityCode": "VIE",
+          "CountryCode": "AT",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Vienna International"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Wien International"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Вена"
+              },
+              {
+                "@LanguageCode": "ko",
+                "$": "빈"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "Viena"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Vienna International"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Vienna International"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Vienna International"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Vienna International"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "維也納"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "ウィーン"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "维也纳"
+              },
+              {
+                "@LanguageCode": "pl",
+                "$": "Wiedeń"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Europe\/Vienna"
+        },
+        {
+          "AirportCode": "VIX",
+          "Position": {
+            "Coordinate": {
+              "Latitude": -20.26444444,
+              "Longitude": -40.2875
+            }
+          },
+          "CityCode": "VIX",
+          "CountryCode": "BR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Vitoria"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Vitoria"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Vitoria"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Vitoria"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Vitoria"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Vitoria"
+              }
+            ]
+          },
+          "UtcOffset": -3,
+          "TimeZoneId": "America\/Sao_Paulo"
+        },
+        {
+          "AirportCode": "VKO",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 55.58333333,
+              "Longitude": 37.26666667
+            }
+          },
+          "CityCode": "MOW",
+          "CountryCode": "RU",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Moscow - Vnukovo"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Moscow - Vnukovo"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Moskau - Vnukovo"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Moscow - Vnukovo"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Moscow - Vnukovo"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Moscow - Vnukovo"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Europe\/Moscow"
+        },
+        {
+          "AirportCode": "VLC",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 39.48861111,
+              "Longitude": -0.481944444
+            }
+          },
+          "CityCode": "VLC",
+          "CountryCode": "ES",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Valencia"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Valencia"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Valencia"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Valencia"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Valencia"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Valencia"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Europe\/Madrid"
+        },
+        {
+          "AirportCode": "VLN",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 10.14638889,
+              "Longitude": -67.92916667
+            }
+          },
+          "CityCode": "VLN",
+          "CountryCode": "VE",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Valencia"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Valencia"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Valencia"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Valencia"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Valencia"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Valencia"
+              }
+            ]
+          },
+          "UtcOffset": -4,
+          "TimeZoneId": "America\/Caracas"
+        },
+        {
+          "AirportCode": "VNO",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 54.63333333,
+              "Longitude": 25.28333333
+            }
+          },
+          "CityCode": "VNO",
+          "CountryCode": "LT",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Vilnius"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Vilnius"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Вильнюс"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Vilnius"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Vilnius"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Vilnius"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Vilnius"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Europe\/Vilnius"
+        },
+        {
+          "AirportCode": "VNS",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 25.45194444,
+              "Longitude": 82.86305556
+            }
+          },
+          "CityCode": "VNS",
+          "CountryCode": "IN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Varanasi"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Varanasi"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Varanasi"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Varanasi"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Varanasi"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Varanasi"
+              }
+            ]
+          },
+          "UtcOffset": 5.5,
+          "TimeZoneId": "Asia\/Kolkata"
+        },
+        {
+          "AirportCode": "VNX",
+          "Position": {
+            "Coordinate": {
+              "Latitude": -22,
+              "Longitude": 35
+            }
+          },
+          "CityCode": "VNX",
+          "CountryCode": "MZ",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Vilanculos"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Vilanculos"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Vilankulos"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Vilanculos"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Vilanculos"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Vilanculos"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Africa\/Maputo"
+        },
+        {
+          "AirportCode": "VOG",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 48.75,
+              "Longitude": 44.5
+            }
+          },
+          "CityCode": "VOG",
+          "CountryCode": "RU",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Wolgograd"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Wolgograd"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Волгоград"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Volgograd"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Wolgograd"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Wolgograd"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Wolgograd"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Europe\/Moscow"
+        },
+        {
+          "AirportCode": "VOL",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 39,
+              "Longitude": 22
+            }
+          },
+          "CityCode": "VOL",
+          "CountryCode": "GR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Volos"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Volos"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Volos"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Volos"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Volos"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Volos"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Europe\/Athens"
+        },
+        {
+          "AirportCode": "VOZ",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 50,
+              "Longitude": 37
+            }
+          },
+          "CityCode": "VOZ",
+          "CountryCode": "RU",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Voronezh"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Voronezh"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Воронеж"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Voronezh"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Voronezh"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Voronezh"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Voronezh"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Europe\/Moscow"
+        },
+        {
+          "AirportCode": "VPS",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 30.40638889,
+              "Longitude": -86.83
+            }
+          },
+          "CityCode": "VPS",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Valparaiso - Fort Walton Beach"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Valparaiso - Fort Walton Beach"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Valparaiso - Fort Walton Beach"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Valparaiso - Fort Walton Beach"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Valparaiso - Fort Walton Beach"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Valparaiso - Fort Walton Beach"
+              }
+            ]
+          },
+          "UtcOffset": -5,
+          "TimeZoneId": "America\/Chicago"
+        },
+        {
+          "AirportCode": "VRA",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 23.12583333,
+              "Longitude": -81.29722222
+            }
+          },
+          "CityCode": "VRA",
+          "CountryCode": "CU",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Varadero"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Varadero"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Varadero"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Varadero"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Varadero"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Varadero"
+              }
+            ]
+          },
+          "UtcOffset": -4,
+          "TimeZoneId": "America\/Havana"
+        },
+        {
+          "AirportCode": "VRN",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 45.46666667,
+              "Longitude": 10.93333333
+            }
+          },
+          "CityCode": "VRN",
+          "CountryCode": "IT",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Verona"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Verona"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Verona"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Verona"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Verona"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Verona"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Europe\/Rome"
+        },
+        {
+          "AirportCode": "VSA",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 17.96666667,
+              "Longitude": -92.93333333
+            }
+          },
+          "CityCode": "VSA",
+          "CountryCode": "MX",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Villahermosa"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Villahermosa"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Villahermosa"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Villahermosa"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Villahermosa"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Villahermosa"
+              }
+            ]
+          },
+          "UtcOffset": -5,
+          "TimeZoneId": "America\/Mexico_City"
+        },
+        {
+          "AirportCode": "VTE",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 17.98472222,
+              "Longitude": 102.5666667
+            }
+          },
+          "CityCode": "VTE",
+          "CountryCode": "LA",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Vientiane"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Vientiane"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Вьентьян"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Vientiane"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Vientiane"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Vientiane"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Vientiane"
+              }
+            ]
+          },
+          "UtcOffset": 7,
+          "TimeZoneId": "Asia\/Vientiane"
+        },
+        {
+          "AirportCode": "VTZ",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 17.72111111,
+              "Longitude": 83.22472222
+            }
+          },
+          "CityCode": "VTZ",
+          "CountryCode": "IN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Vishakhapatnam"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Vishakhapatnam"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Vishakhapatnam"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Vishakhapatnam"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Vishakhapatnam"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Vishakhapatnam"
+              }
+            ]
+          },
+          "UtcOffset": 5.5,
+          "TimeZoneId": "Asia\/Kolkata"
+        },
+        {
+          "AirportCode": "VVI",
+          "Position": {
+            "Coordinate": {
+              "Latitude": -17.64472222,
+              "Longitude": -63.13527778
+            }
+          },
+          "CityCode": "SRZ",
+          "CountryCode": "BO",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Santa Cruz - Viru Viru International"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Santa Cruz - Viru Viru International"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Santa Cruz - Viru Viru International"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Santa Cruz - Viru Viru International"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Santa Cruz - Viru Viru International"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Santa Cruz - Viru Viru International"
+              }
+            ]
+          },
+          "UtcOffset": -4,
+          "TimeZoneId": "America\/La_Paz"
+        },
+        {
+          "AirportCode": "VVO",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 43.21666667,
+              "Longitude": 131.6666667
+            }
+          },
+          "CityCode": "VVO",
+          "CountryCode": "RU",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Vladivostok"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Vladivostok"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Vladivostok"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Vladivostok"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Vladivostok"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Vladivostok"
+              }
+            ]
+          },
+          "UtcOffset": 10,
+          "TimeZoneId": "Asia\/Vladivostok"
+        },
+        {
+          "AirportCode": "VXE",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 16.83333333,
+              "Longitude": -25.06666667
+            }
+          },
+          "CityCode": "VXE",
+          "CountryCode": "CV",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Sao Vicente"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Sao Vicente"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Sao Vicente"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Sao Vicente"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Sao Vicente"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Sao Vicente"
+              }
+            ]
+          },
+          "UtcOffset": -1,
+          "TimeZoneId": "Atlantic\/Cape_Verde"
+        },
+        {
+          "AirportCode": "WAG",
+          "Position": {
+            "Coordinate": {
+              "Latitude": -39.96666667,
+              "Longitude": 175.0241667
+            }
+          },
+          "CityCode": "WAG",
+          "CountryCode": "NZ",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Wanganui"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Wanganui"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Wanganui"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Wanganui"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Wanganui"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Wanganui"
+              }
+            ]
+          },
+          "UtcOffset": 12,
+          "TimeZoneId": "Pacific\/Auckland"
+        },
+        {
+          "AirportCode": "WAW",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 52.16666667,
+              "Longitude": 20.96666667
+            }
+          },
+          "CityCode": "WAW",
+          "CountryCode": "PL",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Warsaw"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Warschau"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "Varsóvia"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Warsaw"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Warsaw"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Warsaw"
+              },
+              {
+                "@LanguageCode": "pl",
+                "$": "Warszawa"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Warsaw"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Europe\/Warsaw"
+        },
+        {
+          "AirportCode": "WDH",
+          "Position": {
+            "Coordinate": {
+              "Latitude": -22.48333333,
+              "Longitude": 17.46666667
+            }
+          },
+          "CityCode": "WDH",
+          "CountryCode": "NA",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Windhoek - International"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Windhoek - International"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Windhoek - International"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Windhoek - International"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Windhoek - International"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Windhoek - International"
+              }
+            ]
+          },
+          "UtcOffset": 1,
+          "TimeZoneId": "Africa\/Windhoek"
+        },
+        {
+          "AirportCode": "WEH",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 37,
+              "Longitude": 122
+            }
+          },
+          "CityCode": "WEH",
+          "CountryCode": "CN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Weihai"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Weihai"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "威海"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Weihai"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Weihai"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "威海"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Weihai"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Weihai"
+              }
+            ]
+          },
+          "UtcOffset": 8,
+          "TimeZoneId": "Asia\/Shanghai"
+        },
+        {
+          "AirportCode": "WKJ",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 45,
+              "Longitude": 141
+            }
+          },
+          "CityCode": "WKJ",
+          "CountryCode": "JP",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Wakkanai"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Wakkanai"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "Wakkanai"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Wakkanai"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Wakkanai"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Wakkanai"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Wakkanai"
+              }
+            ]
+          },
+          "UtcOffset": 9,
+          "TimeZoneId": "Asia\/Tokyo"
+        },
+        {
+          "AirportCode": "WLG",
+          "Position": {
+            "Coordinate": {
+              "Latitude": -41.32388889,
+              "Longitude": 174.8013889
+            }
+          },
+          "CityCode": "WLG",
+          "CountryCode": "NZ",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Wellington International"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Wellington International"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Wellington International"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Wellington International"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Wellington International"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Wellington International"
+              }
+            ]
+          },
+          "UtcOffset": 12,
+          "TimeZoneId": "Pacific\/Auckland"
+        },
+        {
+          "AirportCode": "WNZ",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 27,
+              "Longitude": 120
+            }
+          },
+          "CityCode": "WNZ",
+          "CountryCode": "CN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Wenzhou"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Wenzhou"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Wenzhou"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Wenzhou"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Wenzhou"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Wenzhou"
+              }
+            ]
+          },
+          "UtcOffset": 8,
+          "TimeZoneId": "Asia\/Shanghai"
+        },
+        {
+          "AirportCode": "WRG",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 56.48444444,
+              "Longitude": -132.3666667
+            }
+          },
+          "CityCode": "WRG",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Wrangell"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Wrangell"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Wrangell"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Wrangell"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Wrangell"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Wrangell"
+              }
+            ]
+          },
+          "UtcOffset": -8,
+          "TimeZoneId": "America\/Anchorage"
+        },
+        {
+          "AirportCode": "WRL",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 43.9675,
+              "Longitude": -107.9530556
+            }
+          },
+          "CityCode": "WRL",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Worland"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Worland"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Worland"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Worland"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Worland"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Worland"
+              }
+            ]
+          },
+          "UtcOffset": -6,
+          "TimeZoneId": "America\/Denver"
+        },
+        {
+          "AirportCode": "WRO",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 51.1,
+              "Longitude": 16.88333333
+            }
+          },
+          "CityCode": "WRO",
+          "CountryCode": "PL",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Wroclaw"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Breslau\/Wroclaw"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Wroclaw"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Wroclaw"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Wroclaw"
+              },
+              {
+                "@LanguageCode": "pl",
+                "$": "Wrocław"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Wroclaw"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Europe\/Warsaw"
+        },
+        {
+          "AirportCode": "WUH",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 30.59777778,
+              "Longitude": 114.2427778
+            }
+          },
+          "CityCode": "WUH",
+          "CountryCode": "CN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Wuhan"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Wuhan"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "武漢"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Wuhan"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Wuhan"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "武汉"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Wuhan"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Wuhan"
+              }
+            ]
+          },
+          "UtcOffset": 8,
+          "TimeZoneId": "Asia\/Shanghai"
+        },
+        {
+          "AirportCode": "WUX",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 31,
+              "Longitude": 120
+            }
+          },
+          "CityCode": "WUX",
+          "CountryCode": "CN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Wuxi"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Wuxi"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "無錫"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Wuxi"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Wuxi"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Wuxi"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "无锡"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Wuxi"
+              }
+            ]
+          },
+          "UtcOffset": 8,
+          "TimeZoneId": "Asia\/Shanghai"
+        },
+        {
+          "AirportCode": "WVB",
+          "Position": {
+            "Coordinate": {
+              "Latitude": -22.97861111,
+              "Longitude": 14.65055556
+            }
+          },
+          "CityCode": "WVB",
+          "CountryCode": "NA",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Walvis Bay"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Walvis Bay"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Walvis Bay"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Walvis Bay"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Walvis Bay"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Walvis Bay"
+              }
+            ]
+          },
+          "UtcOffset": 1,
+          "TimeZoneId": "Africa\/Windhoek"
+        },
+        {
+          "AirportCode": "WXN",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 36,
+              "Longitude": 102
+            }
+          },
+          "CityCode": "WXN",
+          "CountryCode": "CN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Wanxian"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Wanxian"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "萬州"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Wanzhou"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Wanxian"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "万州"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Wanxian"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Wanxian"
+              }
+            ]
+          },
+          "UtcOffset": 8,
+          "TimeZoneId": "Asia\/Shanghai"
+        },
+        {
+          "AirportCode": "XER",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 48.54055556,
+              "Longitude": 7.632222222
+            }
+          },
+          "CityCode": "SXB",
+          "CountryCode": "FR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Strasbourg"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Straßburg Bus Station"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Strasbourg Bus Station"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Strasburgo - Autostazione"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Strasbourg Bus Station"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Strasbourg Bus Station"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Europe\/Paris"
+        },
+        {
+          "AirportCode": "XFN",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 32,
+              "Longitude": 112
+            }
+          },
+          "CityCode": "XFN",
+          "CountryCode": "CN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Xiangfan"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Xiangfan"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "襄陽"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Xiangyang"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Xiangfan"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Xiangfan"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "襄阳\\"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Xiangfan"
+              }
+            ]
+          },
+          "UtcOffset": 8,
+          "TimeZoneId": "Asia\/Shanghai"
+        },
+        {
+          "AirportCode": "XIL",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 43.96666667,
+              "Longitude": 116.0666667
+            }
+          },
+          "CityCode": "XIL",
+          "CountryCode": "CN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Xilinhot"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Xilinhot"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "內蒙古錫林浩特"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Xilnhot"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Xilinhot"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "内蒙古锡林浩特"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Xilinhot"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Xilinhot"
+              }
+            ]
+          },
+          "UtcOffset": 8,
+          "TimeZoneId": "Asia\/Shanghai"
+        },
+        {
+          "AirportCode": "XIY",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 34.44722222,
+              "Longitude": 108.7516667
+            }
+          },
+          "CityCode": "SIA",
+          "CountryCode": "CN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Xi'An - Xianyang"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Xi'An - Xianyang"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Xi'An - Xianyang"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Xi'An - Xianyang"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Xi'An - Xianyang"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Xi'An - Xianyang"
+              }
+            ]
+          },
+          "UtcOffset": 8,
+          "TimeZoneId": "Asia\/Shanghai"
+        },
+        {
+          "AirportCode": "XMN",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 24.46666667,
+              "Longitude": 118.1166667
+            }
+          },
+          "CityCode": "XMN",
+          "CountryCode": "CN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Xiamen"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Xiamen"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Xiamen"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Xiamen"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Xiamen"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Xiamen"
+              }
+            ]
+          },
+          "UtcOffset": 8,
+          "TimeZoneId": "Asia\/Shanghai"
+        },
+        {
+          "AirportCode": "XNA",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 36.28166667,
+              "Longitude": -94.30666667
+            }
+          },
+          "CityCode": "FYV",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": {
+              "@LanguageCode": "en",
+              "$": "Fayetteville, AR"
+            }
+          },
+          "UtcOffset": -5,
+          "TimeZoneId": "America\/Chicago"
+        },
+        {
+          "AirportCode": "XNN",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 36,
+              "Longitude": 101
+            }
+          },
+          "CityCode": "XNN",
+          "CountryCode": "CN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Xining"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Xining"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Xining"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Xining"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Xining"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Xining"
+              }
+            ]
+          },
+          "UtcOffset": 8,
+          "TimeZoneId": "Asia\/Shanghai"
+        },
+        {
+          "AirportCode": "XRY",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 36.74527778,
+              "Longitude": -6.058888889
+            }
+          },
+          "CityCode": "XRY",
+          "CountryCode": "ES",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Jerez De La Frontera - La Parra"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Jerez De La Frontera - La Parra"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Jerez De La Frontera - La Parra"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Jerez De La Frontera - La Parra"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Jerez De La Frontera - La Parra"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Jerez De La Frontera - La Parra"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Europe\/Madrid"
+        },
+        {
+          "AirportCode": "XUZ",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 34.26666667,
+              "Longitude": 117.1833333
+            }
+          },
+          "CityCode": "XUZ",
+          "CountryCode": "CN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Xuzhou"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Xuzhou"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "徐州"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Xuzhou"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Xuzhou"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "徐州"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Xuzhou"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Xuzhou"
+              }
+            ]
+          },
+          "UtcOffset": 8,
+          "TimeZoneId": "Asia\/Shanghai"
+        },
+        {
+          "AirportCode": "YAK",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 59.50916667,
+              "Longitude": -139.6597222
+            }
+          },
+          "CityCode": "YAK",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Yakutat"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Yakutat"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Yakutat"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Yakutat"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Yakutat"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Yakutat"
+              }
+            ]
+          },
+          "UtcOffset": -8,
+          "TimeZoneId": "America\/Anchorage"
+        },
+        {
+          "AirportCode": "YAM",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 46.48305556,
+              "Longitude": -84.50861111
+            }
+          },
+          "CityCode": "YAM",
+          "CountryCode": "CA",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Sault Sainte Marie"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Sault Sainte Marie"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Sault Sainte Marie"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Sault Sainte Marie"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Sault Sainte Marie"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Sault Sainte Marie"
+              }
+            ]
+          },
+          "UtcOffset": -4,
+          "TimeZoneId": "America\/Toronto"
+        },
+        {
+          "AirportCode": "YAO",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 3.833611111,
+              "Longitude": 11.52361111
+            }
+          },
+          "CityCode": "YAO",
+          "CountryCode": "CM",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Yaounde - Yaounde Airport"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Yaounde Downtown"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Yaoundé - Nsimalen Airport"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Yaoundé - Nsimalen Airport"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Yaoundé - Nsimalen Airport"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Yaundé - Nsimalen Airport"
+              }
+            ]
+          },
+          "UtcOffset": 1,
+          "TimeZoneId": "Africa\/Douala"
+        },
+        {
+          "AirportCode": "YBC",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 49.1325,
+              "Longitude": -68.20444444
+            }
+          },
+          "CityCode": "YBC",
+          "CountryCode": "CA",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Baie Comeau"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Baie Comeau"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Baie Comeau"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Baie Comeau"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Baie Comeau"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Baie Comeau"
+              }
+            ]
+          },
+          "UtcOffset": -4,
+          "TimeZoneId": "America\/Toronto"
+        },
+        {
+          "AirportCode": "YBG",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 48.32222222,
+              "Longitude": -70.98861111
+            }
+          },
+          "CityCode": "YBG",
+          "CountryCode": "CA",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Bagotville"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Bagotville"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Bagotville"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Bagotville"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Bagotville"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Bagotville"
+              }
+            ]
+          },
+          "UtcOffset": -4,
+          "TimeZoneId": "America\/Toronto"
+        },
+        {
+          "AirportCode": "YBL",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 49.95,
+              "Longitude": -125.2666667
+            }
+          },
+          "CityCode": "YBL",
+          "CountryCode": "CA",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Campbell River"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Campbell River"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Campbell River"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Campbell River"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Campbell River"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Campbell River"
+              }
+            ]
+          },
+          "UtcOffset": -7,
+          "TimeZoneId": "America\/Vancouver"
+        },
+        {
+          "AirportCode": "YCD",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 49.05222222,
+              "Longitude": -123.87
+            }
+          },
+          "CityCode": "YCD",
+          "CountryCode": "CA",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Nanaimo - Cassidy"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Nanaimo - Cassidy"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Nanaimo - Cassidy"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Nanaimo - Cassidy"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Nanaimo - Cassidy"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Nanaimo - Cassidy"
+              }
+            ]
+          },
+          "UtcOffset": -7,
+          "TimeZoneId": "America\/Vancouver"
+        },
+        {
+          "AirportCode": "YCG",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 49.29555556,
+              "Longitude": -117.6322222
+            }
+          },
+          "CityCode": "YCG",
+          "CountryCode": "CA",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Castlegar"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Castlegar"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Castlegar"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Castlegar"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Castlegar"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Castlegar"
+              }
+            ]
+          },
+          "UtcOffset": -7,
+          "TimeZoneId": "America\/Vancouver"
+        },
+        {
+          "AirportCode": "YCU",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 35.01666667,
+              "Longitude": 110.9833333
+            }
+          },
+          "CityCode": "YCU",
+          "CountryCode": "CN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "mi",
+                "$": "运城"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Yuncheng - Guangong"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "運城"
+              }
+            ]
+          },
+          "UtcOffset": 8,
+          "TimeZoneId": "Asia\/Shanghai"
+        },
+        {
+          "AirportCode": "YDF",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 49.21666667,
+              "Longitude": -57.4
+            }
+          },
+          "CityCode": "YDF",
+          "CountryCode": "CA",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Deer Lake"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Deer Lake"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Deer Lake"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Deer Lake"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Deer Lake"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Deer Lake"
+              }
+            ]
+          },
+          "UtcOffset": -2.5,
+          "TimeZoneId": "America\/St_Johns"
+        },
+        {
+          "AirportCode": "YEG",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 53.30416667,
+              "Longitude": -113.5916667
+            }
+          },
+          "CityCode": "YEA",
+          "CountryCode": "CA",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Edmonton - International"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Edmonton - International"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Edmonton - International"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Edmonton - International"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Edmonton - International"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Edmonton - International"
+              }
+            ]
+          },
+          "UtcOffset": -6,
+          "TimeZoneId": "America\/Edmonton"
+        },
+        {
+          "AirportCode": "YFB",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 63.75222222,
+              "Longitude": -68.56388889
+            }
+          },
+          "CityCode": "YFB",
+          "CountryCode": "CA",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Iqaluit"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Iqaluit"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Iqaluit"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Iqaluit"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Iqaluit"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Iqaluit"
+              }
+            ]
+          },
+          "UtcOffset": -4,
+          "TimeZoneId": "America\/Toronto"
+        },
+        {
+          "AirportCode": "YFC",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 45.86666667,
+              "Longitude": -66.53333333
+            }
+          },
+          "CityCode": "YFC",
+          "CountryCode": "CA",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Fredericton"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Fredericton"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Fredericton"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Fredericton"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Fredericton"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Fredericton"
+              }
+            ]
+          },
+          "UtcOffset": -3,
+          "TimeZoneId": "America\/Halifax"
+        },
+        {
+          "AirportCode": "YGJ",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 35.49222222,
+              "Longitude": 133.2363889
+            }
+          },
+          "CityCode": "YGJ",
+          "CountryCode": "JP",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Yonago"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Yonago"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "Yonago"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Yonago"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Yonago"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Yonago"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Yonago"
+              }
+            ]
+          },
+          "UtcOffset": 9,
+          "TimeZoneId": "Asia\/Tokyo"
+        },
+        {
+          "AirportCode": "YGK",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 44.22527778,
+              "Longitude": -76.59694444
+            }
+          },
+          "CityCode": "YGK",
+          "CountryCode": "CA",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Kingston"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Kingston"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Kingston"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Kingston"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Kingston"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Kingston"
+              }
+            ]
+          },
+          "UtcOffset": -4,
+          "TimeZoneId": "America\/Toronto"
+        },
+        {
+          "AirportCode": "YGP",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 48.77527778,
+              "Longitude": -64.47861111
+            }
+          },
+          "CityCode": "YGP",
+          "CountryCode": "CA",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Gaspe"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Gaspe"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Gaspe"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Gaspe"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Gaspe"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Gaspe"
+              }
+            ]
+          },
+          "UtcOffset": -4,
+          "TimeZoneId": "America\/Toronto"
+        },
+        {
+          "AirportCode": "YGR",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 47.42472222,
+              "Longitude": -61.77805556
+            }
+          },
+          "CityCode": "YGR",
+          "CountryCode": "CA",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Iles De La Madeleine"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Iles De La Madeleine"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Iles De La Madeleine"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Iles De La Madeleine"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Iles De La Madeleine"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Iles De La Madeleine"
+              }
+            ]
+          },
+          "UtcOffset": -3,
+          "TimeZoneId": "America\/Halifax"
+        },
+        {
+          "AirportCode": "YHZ",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 44.88083333,
+              "Longitude": -63.50861111
+            }
+          },
+          "CityCode": "YHZ",
+          "CountryCode": "CA",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Halifax - International"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Halifax - International"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Галифакс"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Halifax - International"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Halifax - International"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Halifax - International"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Halifax - International"
+              }
+            ]
+          },
+          "UtcOffset": -3,
+          "TimeZoneId": "America\/Halifax"
+        },
+        {
+          "AirportCode": "YIH",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 30.7,
+              "Longitude": 111.1833333
+            }
+          },
+          "CityCode": "YIH",
+          "CountryCode": "CN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Yichang"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Yichang"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "宜昌"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Yichang"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Yichang"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Yichang"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "宜昌"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Yichang"
+              }
+            ]
+          },
+          "UtcOffset": 8,
+          "TimeZoneId": "Asia\/Shanghai"
+        },
+        {
+          "AirportCode": "YKA",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 50.70222222,
+              "Longitude": -120.4444444
+            }
+          },
+          "CityCode": "YKA",
+          "CountryCode": "CA",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Kamloops"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Kamloops"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Kamloops"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Kamloops"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Kamloops"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Kamloops"
+              }
+            ]
+          },
+          "UtcOffset": -7,
+          "TimeZoneId": "America\/Vancouver"
+        },
+        {
+          "AirportCode": "YKM",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 46.56805556,
+              "Longitude": -120.5441667
+            }
+          },
+          "CityCode": "YKM",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Yakima Air Terminal"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Yakima Air Terminal"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Yakima Air Terminal"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Yakima Air Terminal"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Yakima Air Terminal"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Yakima Air Terminal"
+              }
+            ]
+          },
+          "UtcOffset": -7,
+          "TimeZoneId": "America\/Los_Angeles"
+        },
+        {
+          "AirportCode": "YLW",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 49.95611111,
+              "Longitude": -119.3777778
+            }
+          },
+          "CityCode": "YLW",
+          "CountryCode": "CA",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Kelowna"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Kelowna"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Kelowna"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Kelowna"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Kelowna"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Kelowna"
+              }
+            ]
+          },
+          "UtcOffset": -7,
+          "TimeZoneId": "America\/Vancouver"
+        },
+        {
+          "AirportCode": "YMM",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 56.65333333,
+              "Longitude": -111.2219444
+            }
+          },
+          "CityCode": "YMM",
+          "CountryCode": "CA",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Fort McMurray"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Fort McMurray"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Fort McMurray"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Fort McMurray"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Fort McMurray"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Fort McMurray"
+              }
+            ]
+          },
+          "UtcOffset": -6,
+          "TimeZoneId": "America\/Edmonton"
+        },
+        {
+          "AirportCode": "YNJ",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 42.88277778,
+              "Longitude": 129.4513889
+            }
+          },
+          "CityCode": "YNJ",
+          "CountryCode": "CN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Yanji"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Yanji"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "延吉"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Yanji"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Yanji"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Yanji"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "延吉"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Yanji"
+              }
+            ]
+          },
+          "UtcOffset": 8,
+          "TimeZoneId": "Asia\/Shanghai"
+        },
+        {
+          "AirportCode": "YNT",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 37.40166667,
+              "Longitude": 121.3716667
+            }
+          },
+          "CityCode": "YNT",
+          "CountryCode": "CN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Yantai"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Yantai"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Yantai"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Yantai"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Yantai"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Yantai"
+              }
+            ]
+          },
+          "UtcOffset": 8,
+          "TimeZoneId": "Asia\/Shanghai"
+        }
+      ]
+    },
+    "Meta": {
+      "@Version": "1.0.0",
+      "Link": [
+        {
+          "@Href": "https:\/\/api.lufthansa.com\/v1\/references\/airports?limit=100&offset=1100",
+          "@Rel": "self"
+        },
+        {
+          "@Href": "https:\/\/api.lufthansa.com\/v1\/references\/airports?limit=100&offset=0",
+          "@Rel": "first"
+        },
+        {
+          "@Href": "https:\/\/api.lufthansa.com\/v1\/references\/airports?limit=100&offset=1000",
+          "@Rel": "previous"
+        },
+        {
+          "@Href": "https:\/\/api.lufthansa.com\/v1\/references\/airports?limit=100&offset=1200",
+          "@Rel": "next"
+        },
+        {
+          "@Href": "https:\/\/api.lufthansa.com\/v1\/references\/airports?limit=100&offset=1200",
+          "@Rel": "last"
+        },
+        {
+          "@Href": "https:\/\/api.lufthansa.com\/v1\/references\/cities\/{cityCode}",
+          "@Rel": "related"
+        },
+        {
+          "@Href": "https:\/\/api.lufthansa.com\/v1\/references\/countries\/{countryCode}",
+          "@Rel": "related"
+        }
+      ],
+      "TotalCount": 1263
+    }
+  }
+}

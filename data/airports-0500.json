@@ -1,0 +1,4160 @@
+{
+  "AirportResource": {
+    "Airports": {
+      "Airport": [
+        {
+          "AirportCode": "GSP",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 34.89888889,
+              "Longitude": -82.21388889
+            }
+          },
+          "CityCode": "GSP",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Greenville, South Carolina - Spartanbur"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Greenville - Spartanbur, SC"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Greenville - Spartanbur, SC"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Greenville - Spartanbur, SC"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Greenville - Spartanbur, SC"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Greenville - Spartanbur, SC"
+              }
+            ]
+          },
+          "UtcOffset": -4,
+          "TimeZoneId": "America\/New_York"
+        },
+        {
+          "AirportCode": "GTF",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 47.48555556,
+              "Longitude": -111.3669444
+            }
+          },
+          "CityCode": "GTF",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Great Falls International"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Great Falls International"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Great Falls International"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Great Falls International"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Great Falls International"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Great Falls International"
+              }
+            ]
+          },
+          "UtcOffset": -6,
+          "TimeZoneId": "America\/Denver"
+        },
+        {
+          "AirportCode": "GUA",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 14.58194444,
+              "Longitude": -90.5275
+            }
+          },
+          "CityCode": "GUA",
+          "CountryCode": "GT",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Guatemala City"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Guatemala Stadt"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Guatemala City"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Città del Guatemala"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Guatemala City"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Guatemala City"
+              }
+            ]
+          },
+          "UtcOffset": -6,
+          "TimeZoneId": "America\/Guatemala"
+        },
+        {
+          "AirportCode": "GUC",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 38.53388889,
+              "Longitude": -106.9388889
+            }
+          },
+          "CityCode": "GUC",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Gunnison"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Gunnison"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Gunnison"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Gunnison"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Gunnison"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Gunnison"
+              }
+            ]
+          },
+          "UtcOffset": -6,
+          "TimeZoneId": "America\/Denver"
+        },
+        {
+          "AirportCode": "GUM",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 13.48166667,
+              "Longitude": 144.7933333
+            }
+          },
+          "CityCode": "GUM",
+          "CountryCode": "GU",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Guam - Agana Field"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Guam - Agana Field"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Guam - Agana Field"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Guam - Agana Field"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Guam - Agana Field"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Guam - Agana Field"
+              }
+            ]
+          },
+          "UtcOffset": 10,
+          "TimeZoneId": "Pacific\/Guam"
+        },
+        {
+          "AirportCode": "GUW",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 47.12194444,
+              "Longitude": 51.82138889
+            }
+          },
+          "CityCode": "AKX",
+          "CountryCode": "KZ",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": {
+              "@LanguageCode": "en",
+              "$": "Atyrau"
+            }
+          },
+          "UtcOffset": 5,
+          "TimeZoneId": "Asia\/Oral"
+        },
+        {
+          "AirportCode": "GVA",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 46.23944444,
+              "Longitude": 6.110277778
+            }
+          },
+          "CityCode": "GVA",
+          "CountryCode": "CH",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Geneva - Geneva-Cointrin Airport"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Genf - Cointrin Flughafen"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "Genebra"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Genève - Geneva-Cointrin Airport"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Ginevra - Ginevra-Cointrin Airport"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Geneva - Geneva-Cointrin Airport"
+              },
+              {
+                "@LanguageCode": "nl",
+                "$": "Geneve - Geneva-Cointrin Airport"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Geneva - Geneva-Cointrin Airport"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Europe\/Zurich"
+        },
+        {
+          "AirportCode": "GWL",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 26.29388889,
+              "Longitude": 78.23
+            }
+          },
+          "CityCode": "GWL",
+          "CountryCode": "IN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Gwalior"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Gwalior"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Gwalior"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Gwalior"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Gwalior"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Gwalior"
+              }
+            ]
+          },
+          "UtcOffset": 5.5,
+          "TimeZoneId": "Asia\/Kolkata"
+        },
+        {
+          "AirportCode": "GWT",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 54.91527778,
+              "Longitude": 8.343055556
+            }
+          },
+          "CityCode": "GWT",
+          "CountryCode": "DE",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Westerland"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Westerland\/Sylt"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Westerland \/ Sylt"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Westerland\/Sylt"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Westerland\/Sylt"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Westerland\/Sylt"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Europe\/Berlin"
+        },
+        {
+          "AirportCode": "GYD",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 40.4675,
+              "Longitude": 50.04666667
+            }
+          },
+          "CityCode": "BAK",
+          "CountryCode": "AZ",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Baku"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Baku - Heydar Aliyev Int´l"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Baku"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Baku"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Baku"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Baku"
+              }
+            ]
+          },
+          "UtcOffset": 4,
+          "TimeZoneId": "Asia\/Baku"
+        },
+        {
+          "AirportCode": "GYE",
+          "Position": {
+            "Coordinate": {
+              "Latitude": -2.154444444,
+              "Longitude": -79.87555556
+            }
+          },
+          "CityCode": "GYE",
+          "CountryCode": "EC",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Guayaquil"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Guayaquil"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Guayaquil"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Guayaquil"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Guayaquil"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Guayaquil"
+              }
+            ]
+          },
+          "UtcOffset": -5,
+          "TimeZoneId": "America\/Guayaquil"
+        },
+        {
+          "AirportCode": "GYN",
+          "Position": {
+            "Coordinate": {
+              "Latitude": -16.63833333,
+              "Longitude": -49.21083333
+            }
+          },
+          "CityCode": "GYN",
+          "CountryCode": "BR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Goiania"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Goiania"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Goiania"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Goiania"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Goiania"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Goiania"
+              }
+            ]
+          },
+          "UtcOffset": -3,
+          "TimeZoneId": "America\/Sao_Paulo"
+        },
+        {
+          "AirportCode": "GZP",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 36.26666667,
+              "Longitude": 32.31666667
+            }
+          },
+          "CityCode": "GZP",
+          "CountryCode": "TR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": {
+              "@LanguageCode": "en",
+              "$": "Gazipasa"
+            }
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Europe\/Istanbul"
+        },
+        {
+          "AirportCode": "GZT",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 36.94805556,
+              "Longitude": 37.47833333
+            }
+          },
+          "CityCode": "GZT",
+          "CountryCode": "TR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Gaziantep"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Gaziantep"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Gaziantep"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Gaziantep"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Gaziantep"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Gaziantep"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Europe\/Istanbul"
+        },
+        {
+          "AirportCode": "HAC",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 33.11333333,
+              "Longitude": 139.7905556
+            }
+          },
+          "CityCode": "HAC",
+          "CountryCode": "JP",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Hachijojima"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Hachijojima"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "Hachijojima"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Hachijo Jima"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Hachijojima"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Hachijojima"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Hachijojima"
+              }
+            ]
+          },
+          "UtcOffset": 9,
+          "TimeZoneId": "Asia\/Tokyo"
+        },
+        {
+          "AirportCode": "HAJ",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 52.46166667,
+              "Longitude": 9.684722222
+            }
+          },
+          "CityCode": "HAJ",
+          "CountryCode": "DE",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Hannover"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Hannover"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "Hanôver"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Hannover"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Hannover"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Hannover"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Hannover"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Europe\/Berlin"
+        },
+        {
+          "AirportCode": "HAK",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 19.93472222,
+              "Longitude": 110.4588889
+            }
+          },
+          "CityCode": "HAK",
+          "CountryCode": "CN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Haikou"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Haikou"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Haikou"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Haikou"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Haikou"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Haikou"
+              }
+            ]
+          },
+          "UtcOffset": 8,
+          "TimeZoneId": "Asia\/Shanghai"
+        },
+        {
+          "AirportCode": "HAM",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 53.63388889,
+              "Longitude": 9.995
+            }
+          },
+          "CityCode": "HAM",
+          "CountryCode": "DE",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Hamburg"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Hamburg"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "Hamburgo"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Hamburg"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Amburgo"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Hamburg"
+              },
+              {
+                "@LanguageCode": "pl",
+                "$": "Hamburg"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Hamburg"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Europe\/Berlin"
+        },
+        {
+          "AirportCode": "HAN",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 21.03583333,
+              "Longitude": 105.89
+            }
+          },
+          "CityCode": "HAN",
+          "CountryCode": "VN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Hanoi"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Hanoi"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Hanoi"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Hanoi"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Hanoi"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Hanoi"
+              }
+            ]
+          },
+          "UtcOffset": 7,
+          "TimeZoneId": "Asia\/Ho_Chi_Minh"
+        },
+        {
+          "AirportCode": "HAR",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 40.21611111,
+              "Longitude": -76.85222222
+            }
+          },
+          "CityCode": "HAR",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Harrisburg, Pennsylvania - Skyport"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Harrisburg, Pennsylvania - Skyport"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Harrisburg, Pennsylvania - Skyport"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Harrisburg, Pennsylvania - Skyport"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Harrisburg, Pennsylvania - Skyport"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Harrisburg, Pennsylvania - Skyport"
+              }
+            ]
+          },
+          "UtcOffset": -4,
+          "TimeZoneId": "America\/New_York"
+        },
+        {
+          "AirportCode": "HAU",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 59.34666667,
+              "Longitude": 5.209166667
+            }
+          },
+          "CityCode": "HAU",
+          "CountryCode": "NO",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Haugesund"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Haugesund"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Haugesund"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Haugesund"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Haugesund"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Haugesund"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Europe\/Oslo"
+        },
+        {
+          "AirportCode": "HAV",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 22.98944444,
+              "Longitude": -82.4075
+            }
+          },
+          "CityCode": "HAV",
+          "CountryCode": "CU",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Havanna"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Havanna"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Havanna"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Avana"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Havanna"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Havanna"
+              }
+            ]
+          },
+          "UtcOffset": -4,
+          "TimeZoneId": "America\/Havana"
+        },
+        {
+          "AirportCode": "HBA",
+          "Position": {
+            "Coordinate": {
+              "Latitude": -42.83583333,
+              "Longitude": 147.5125
+            }
+          },
+          "CityCode": "HBA",
+          "CountryCode": "AU",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Hobart"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Hobart"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Hobart"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Hobart"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Hobart"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Hobart"
+              }
+            ]
+          },
+          "UtcOffset": 10,
+          "TimeZoneId": "Australia\/Hobart"
+        },
+        {
+          "AirportCode": "HBE",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 30.91638889,
+              "Longitude": 29.68833333
+            }
+          },
+          "CityCode": "ALY",
+          "CountryCode": "EG",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "en",
+                "$": "Alexandria - Borg El Arab"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Alexandria - Borg El Arab"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Alexandria - Borg El Arab"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Alexandrie - Borg El Arab"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Alexandria - Borg El Arab"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "アレクサンドリア"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Africa\/Cairo"
+        },
+        {
+          "AirportCode": "HDB",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 49.4,
+              "Longitude": 8.683333333
+            }
+          },
+          "CityCode": "HDB",
+          "CountryCode": "DE",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Heidelberg"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Heidelberg"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Heidelberg"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Heidelberg"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Heidelberg"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Heidelberg"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Europe\/Berlin"
+        },
+        {
+          "AirportCode": "HDF",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 53.87888889,
+              "Longitude": 14.15166667
+            }
+          },
+          "CityCode": "HDF",
+          "CountryCode": "DE",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Heringsdorf"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Heringsdorf\/Usedom"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Heringsdorf\/Usedom"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Heringsdorf\/Usedom"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Heringsdorf\/Usedom"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Heringsdorf\/Usedom"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Europe\/Berlin"
+        },
+        {
+          "AirportCode": "HDN",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 40.48166667,
+              "Longitude": -107.22
+            }
+          },
+          "CityCode": "AXG",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": {
+              "@LanguageCode": "en",
+              "$": "Hayden - Yampa Valley, Colorado"
+            }
+          },
+          "UtcOffset": -6,
+          "TimeZoneId": "America\/Denver"
+        },
+        {
+          "AirportCode": "HDS",
+          "Position": {
+            "Coordinate": {
+              "Latitude": -24.36861111,
+              "Longitude": 31.04861111
+            }
+          },
+          "CityCode": "HDS",
+          "CountryCode": "ZA",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Hoedspruit"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Hoedspruit"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Hoedspruit"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Hoedspruit"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Hoedspruit"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Hoedspruit"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Africa\/Johannesburg"
+        },
+        {
+          "AirportCode": "HDY",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 6.9325,
+              "Longitude": 100.3944444
+            }
+          },
+          "CityCode": "HDY",
+          "CountryCode": "TH",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Hat Yai"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Hat Yai"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Hat Yai"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Hat Yai"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Hat Yai"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Hat Yai"
+              }
+            ]
+          },
+          "UtcOffset": 7,
+          "TimeZoneId": "Asia\/Bangkok"
+        },
+        {
+          "AirportCode": "HEL",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 60.32555556,
+              "Longitude": 24.97166667
+            }
+          },
+          "CityCode": "HEL",
+          "CountryCode": "FI",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Helsinki"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Helsinki"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "Helsínquia"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Helsinki - Vantaa"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Helsinki"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Helsinki"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Helsinki"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Europe\/Helsinki"
+        },
+        {
+          "AirportCode": "HER",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 35.34027778,
+              "Longitude": 25.18027778
+            }
+          },
+          "CityCode": "HER",
+          "CountryCode": "GR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Heraklion"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Heraklion"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Heraklion"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Heraklion\/Candia"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Heraklion"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Heraklion"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Europe\/Athens"
+        },
+        {
+          "AirportCode": "HET",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 40.85138889,
+              "Longitude": 111.8241667
+            }
+          },
+          "CityCode": "HET",
+          "CountryCode": "CN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Hohhot"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Hohhot"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Hohhot"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Hohhot"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Hohhot"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Hohhot"
+              }
+            ]
+          },
+          "UtcOffset": 8,
+          "TimeZoneId": "Asia\/Shanghai"
+        },
+        {
+          "AirportCode": "HFE",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 31.78,
+              "Longitude": 117.2983333
+            }
+          },
+          "CityCode": "HFE",
+          "CountryCode": "CN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Hefei"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Hefei"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Hefei"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Hefei"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Hefei"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Hefei"
+              }
+            ]
+          },
+          "UtcOffset": 8,
+          "TimeZoneId": "Asia\/Shanghai"
+        },
+        {
+          "AirportCode": "HGH",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 30.22833333,
+              "Longitude": 120.4316667
+            }
+          },
+          "CityCode": "HGH",
+          "CountryCode": "CN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Hangzhou"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Hangzhou"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Hangzhou"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Hangzhou"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Hangzhou"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Hangzhou"
+              }
+            ]
+          },
+          "UtcOffset": 8,
+          "TimeZoneId": "Asia\/Shanghai"
+        },
+        {
+          "AirportCode": "HHH",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 32.22444444,
+              "Longitude": -80.6975
+            }
+          },
+          "CityCode": "HHH",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Hilton Head"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Hilton Head"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Hilton Head"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Hilton Head"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Hilton Head"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Hilton Head"
+              }
+            ]
+          },
+          "UtcOffset": -4,
+          "TimeZoneId": "America\/New_York"
+        },
+        {
+          "AirportCode": "HIJ",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 34.36333333,
+              "Longitude": 132.4155556
+            }
+          },
+          "CityCode": "HIJ",
+          "CountryCode": "JP",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Hiroshima International"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Hiroshima International"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "Hiroshima International"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Hiroshima International"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Hiroshima International"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Hiroshima International"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Hiroshima International"
+              }
+            ]
+          },
+          "UtcOffset": 9,
+          "TimeZoneId": "Asia\/Tokyo"
+        },
+        {
+          "AirportCode": "HIL",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 6.066666667,
+              "Longitude": 44.75
+            }
+          },
+          "CityCode": "HIL",
+          "CountryCode": "ET",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Shillavo"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Shillavo"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Shilabo"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Shillavo"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Shillavo"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Shillavo"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Africa\/Addis_Ababa"
+        },
+        {
+          "AirportCode": "HIN",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 35.08777778,
+              "Longitude": 128.0719444
+            }
+          },
+          "CityCode": "HIN",
+          "CountryCode": "KR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Chinju"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Jinju"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Chinju"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Chinju"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Chinju"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Chinju"
+              }
+            ]
+          },
+          "UtcOffset": 9,
+          "TimeZoneId": "Asia\/Seoul"
+        },
+        {
+          "AirportCode": "HKD",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 41.76833333,
+              "Longitude": 140.8225
+            }
+          },
+          "CityCode": "HKD",
+          "CountryCode": "JP",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Hakodate"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Hakodate"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "Hakodate"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Hakodate"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Hakodate"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Hakodate"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Hakodate"
+              }
+            ]
+          },
+          "UtcOffset": 9,
+          "TimeZoneId": "Asia\/Tokyo"
+        },
+        {
+          "AirportCode": "HKG",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 22.31555556,
+              "Longitude": 114.2027778
+            }
+          },
+          "CityCode": "HKG",
+          "CountryCode": "HK",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Hong Kong - Chek Lap Kok International Airport"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Hong Kong - Chek Lap Kok International Airport"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "香港國際機場"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Hong Kong International Airport"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Hong Kong - Chek Lap Kok International Airport"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Hong Kong - Chek Lap Kok International Airport"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Hong Kong - Chek Lap Kok International Airport"
+              }
+            ]
+          },
+          "UtcOffset": 8,
+          "TimeZoneId": "Asia\/Hong_Kong"
+        },
+        {
+          "AirportCode": "HKT",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 8.110555556,
+              "Longitude": 98.3125
+            }
+          },
+          "CityCode": "HKT",
+          "CountryCode": "TH",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Phuket"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Phuket"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Phuket"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Phuket"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Phuket"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Phuket"
+              }
+            ]
+          },
+          "UtcOffset": 7,
+          "TimeZoneId": "Asia\/Bangkok"
+        },
+        {
+          "AirportCode": "HLD",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 49.205,
+              "Longitude": 119.825
+            }
+          },
+          "CityCode": "HLD",
+          "CountryCode": "CN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Hailar"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Hailar"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Hailar"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Hailar"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Hailar"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Hailar"
+              }
+            ]
+          },
+          "UtcOffset": 8,
+          "TimeZoneId": "Asia\/Shanghai"
+        },
+        {
+          "AirportCode": "HLH",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 46.08333333,
+              "Longitude": 122.0166667
+            }
+          },
+          "CityCode": "HLH",
+          "CountryCode": "CN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Ulanhot"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Ulanhot"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Ulanhot"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Ulanhot"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Ulanhot"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Ulanhot"
+              }
+            ]
+          },
+          "UtcOffset": 8,
+          "TimeZoneId": "Asia\/Shanghai"
+        },
+        {
+          "AirportCode": "HLN",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 46.60666667,
+              "Longitude": -111.9819444
+            }
+          },
+          "CityCode": "HLN",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Helena, Montana"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Helena, Montana"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Helena, Montana"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Helena, Montana"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Helena, Montana"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Helena, Montana"
+              }
+            ]
+          },
+          "UtcOffset": -6,
+          "TimeZoneId": "America\/Denver"
+        },
+        {
+          "AirportCode": "HMO",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 29.09638889,
+              "Longitude": -111.0461111
+            }
+          },
+          "CityCode": "HMO",
+          "CountryCode": "MX",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Hermosillo"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Hermosillo"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Hermosillo"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Hermosillo"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Hermosillo"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Hermosillo"
+              }
+            ]
+          },
+          "UtcOffset": -7,
+          "TimeZoneId": "America\/Hermosillo"
+        },
+        {
+          "AirportCode": "HND",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 35.55361111,
+              "Longitude": 139.7658333
+            }
+          },
+          "CityCode": "TYO",
+          "CountryCode": "JP",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Tokyo - Haneda"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Tokio - Haneda"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "Tóquio - Haneda"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "Tokyo - Haneda　羽田 - 東京"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Tokyo - Haneda"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Tokyo - Haneda"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Tokyo - Haneda"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Tokyo - Haneda"
+              }
+            ]
+          },
+          "UtcOffset": 9,
+          "TimeZoneId": "Asia\/Tokyo"
+        },
+        {
+          "AirportCode": "HNL",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 21.32194444,
+              "Longitude": -157.9252778
+            }
+          },
+          "CityCode": "HNL",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Honolulu International"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Honolulu International"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Гонолулу"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Honolulu International"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Honolulu International"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Honolulu International"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Honolulu International"
+              }
+            ]
+          },
+          "UtcOffset": -10,
+          "TimeZoneId": "Pacific\/Honolulu"
+        },
+        {
+          "AirportCode": "HOG",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 20.78527778,
+              "Longitude": -76.315
+            }
+          },
+          "CityCode": "HOG",
+          "CountryCode": "CU",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Holguin"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Holguin"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Holguin"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Holguin"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Holguin"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Holguin"
+              }
+            ]
+          },
+          "UtcOffset": -4,
+          "TimeZoneId": "America\/Havana"
+        },
+        {
+          "AirportCode": "HOV",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 62.18166667,
+              "Longitude": 6.078888889
+            }
+          },
+          "CityCode": "HOV",
+          "CountryCode": "NO",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Orsta-Volda"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Orsta-Volda"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Orsta-Volda"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Orsta-Volda"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Orsta-Volda"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Orsta-Volda"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Europe\/Oslo"
+        },
+        {
+          "AirportCode": "HPN",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 41.06694444,
+              "Longitude": -73.7075
+            }
+          },
+          "CityCode": "HPN",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Westchester County"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Westchester County"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Westchester County"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Westchester County"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Westchester County"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Westchester County"
+              }
+            ]
+          },
+          "UtcOffset": -4,
+          "TimeZoneId": "America\/New_York"
+        },
+        {
+          "AirportCode": "HRB",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 45.62333333,
+              "Longitude": 126.2502778
+            }
+          },
+          "CityCode": "HRB",
+          "CountryCode": "CN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Harbin"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Harbin"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Harbin"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Harbin"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Harbin"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Harbin"
+              }
+            ]
+          },
+          "UtcOffset": 8,
+          "TimeZoneId": "Asia\/Shanghai"
+        },
+        {
+          "AirportCode": "HRE",
+          "Position": {
+            "Coordinate": {
+              "Latitude": -17.92277778,
+              "Longitude": 31.10138889
+            }
+          },
+          "CityCode": "HRE",
+          "CountryCode": "ZW",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Harare"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Harare"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Harare"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Harare"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Harare"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Harare"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Africa\/Harare"
+        },
+        {
+          "AirportCode": "HRG",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 27.18583333,
+              "Longitude": 33.79888889
+            }
+          },
+          "CityCode": "HRG",
+          "CountryCode": "EG",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Hurghada"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Hurghada"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Hurghada"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Hurghada"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Hurghada"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Hurghada"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Africa\/Cairo"
+        },
+        {
+          "AirportCode": "HRK",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 49.92472222,
+              "Longitude": 36.29
+            }
+          },
+          "CityCode": "HRK",
+          "CountryCode": "UA",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Kharkov"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Kharkov"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Kharkov"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Kharkov"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Kharkov"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Kharkov"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Europe\/Kiev"
+        },
+        {
+          "AirportCode": "HRL",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 26.22805556,
+              "Longitude": -97.65222222
+            }
+          },
+          "CityCode": "HFD",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": {
+              "@LanguageCode": "en",
+              "$": "Harlingen, Texas"
+            }
+          },
+          "UtcOffset": -5,
+          "TimeZoneId": "America\/Chicago"
+        },
+        {
+          "AirportCode": "HSG",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 33.14638889,
+              "Longitude": 130.3044444
+            }
+          },
+          "CityCode": "HSG",
+          "CountryCode": "JP",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "en",
+                "$": "Saga Airport"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "Saga Airport"
+              }
+            ]
+          },
+          "UtcOffset": 9,
+          "TimeZoneId": "Asia\/Tokyo"
+        },
+        {
+          "AirportCode": "HSV",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 34.64277778,
+              "Longitude": -86.77555556
+            }
+          },
+          "CityCode": "HSV",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Huntsville, Alabama - Madison County"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Huntsville, Madison County, AL"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Huntsville, Madison County, AL"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Huntsville, Madison County, AL"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Huntsville, Madison County, AL"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Huntsville, Madison County, AL"
+              }
+            ]
+          },
+          "UtcOffset": -5,
+          "TimeZoneId": "America\/Chicago"
+        },
+        {
+          "AirportCode": "HTS",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 38.36666667,
+              "Longitude": -82.55805556
+            }
+          },
+          "CityCode": "HTS",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Huntington"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Huntington"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Huntington"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Huntington"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Huntington"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Huntington"
+              }
+            ]
+          },
+          "UtcOffset": -4,
+          "TimeZoneId": "America\/New_York"
+        },
+        {
+          "AirportCode": "HTY",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 12.39277778,
+              "Longitude": 45.95194444
+            }
+          },
+          "CityCode": "HTY",
+          "CountryCode": "TR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": {
+              "@LanguageCode": "en",
+              "$": "Hatay"
+            }
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Europe\/Istanbul"
+        },
+        {
+          "AirportCode": "HUE",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 14.25,
+              "Longitude": 36.58333333
+            }
+          },
+          "CityCode": "HUE",
+          "CountryCode": "ET",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Humera"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Humera"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Humera"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Humera"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Humera"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Humera"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Africa\/Addis_Ababa"
+        },
+        {
+          "AirportCode": "HUX",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 15.77388889,
+              "Longitude": -96.2625
+            }
+          },
+          "CityCode": "HUX",
+          "CountryCode": "MX",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Huatulco"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Huatulco"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Huatulco"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Huatulco"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Huatulco"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Huatulco"
+              }
+            ]
+          },
+          "UtcOffset": -5,
+          "TimeZoneId": "America\/Mexico_City"
+        },
+        {
+          "AirportCode": "HYD",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 17.4525,
+              "Longitude": 78.46111111
+            }
+          },
+          "CityCode": "HYD",
+          "CountryCode": "IN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Hyderabad"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Hyderabad"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Хайдарабад"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Hyderabad"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Hyderabad"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Hyderabad"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Hyderabad"
+              }
+            ]
+          },
+          "UtcOffset": 5.5,
+          "TimeZoneId": "Asia\/Kolkata"
+        },
+        {
+          "AirportCode": "HYN",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 28.41666667,
+              "Longitude": 122.3666667
+            }
+          },
+          "CityCode": "HYN",
+          "CountryCode": "CN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Huangyan"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Huangyan"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Taizhou"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Huangyan"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Huangyan"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Huangyan"
+              }
+            ]
+          },
+          "UtcOffset": 8,
+          "TimeZoneId": "Asia\/Shanghai"
+        },
+        {
+          "AirportCode": "HYS",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 38.84611111,
+              "Longitude": -99.27416667
+            }
+          },
+          "CityCode": "HYS",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Hays"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Hays"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Hays"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Hays"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Hays"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Hays"
+              }
+            ]
+          },
+          "UtcOffset": -5,
+          "TimeZoneId": "America\/Chicago"
+        },
+        {
+          "AirportCode": "IAD",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 38.94166667,
+              "Longitude": -77.4575
+            }
+          },
+          "CityCode": "WAS",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Washington - Dulles International"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Washington - Dulles International, DC"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Washington - Dulles International, DC"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Washington - Dulles International, DC"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Washington - Dulles International, DC"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Washington - Dulles International, DC"
+              }
+            ]
+          },
+          "UtcOffset": -4,
+          "TimeZoneId": "America\/New_York"
+        },
+        {
+          "AirportCode": "IAH",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 29.98444444,
+              "Longitude": -95.34138889
+            }
+          },
+          "CityCode": "HOU",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Houston - Intercontinental"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Houston - Intercontinental, TX"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Houston - Intercontinental, TX"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Houston - Intercontinental, TX"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Houston - Intercontinental, TX"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Houston - Intercontinental, TX"
+              }
+            ]
+          },
+          "UtcOffset": -5,
+          "TimeZoneId": "America\/Chicago"
+        },
+        {
+          "AirportCode": "IAS",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 47.17861111,
+              "Longitude": 27.62055556
+            }
+          },
+          "CityCode": "IAS",
+          "CountryCode": "RO",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Iasi"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Iasi"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Iasi"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Iasi"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Iasi"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Iasi"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Europe\/Bucharest"
+        },
+        {
+          "AirportCode": "IBZ",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 38.87361111,
+              "Longitude": 1.372777778
+            }
+          },
+          "CityCode": "IBZ",
+          "CountryCode": "ES",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Ibiza"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Ibiza"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Ibiza"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Ibiza"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Ibiza"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Ibiza"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Europe\/Madrid"
+        },
+        {
+          "AirportCode": "ICN",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 37.55777778,
+              "Longitude": 126.7947222
+            }
+          },
+          "CityCode": "SEL",
+          "CountryCode": "KR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Seoul - Incheon International Airport"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Seoul - Incheon International Airport"
+              },
+              {
+                "@LanguageCode": "ko",
+                "$": "서울 - 인천국제공항"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "Seoul - Incheon International Airport"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Seoul - Incheon International Airport"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Seoul - Incheon International Airport"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Seoul - Incheon International Airport"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Seoul - Incheon International Airport"
+              }
+            ]
+          },
+          "UtcOffset": 9,
+          "TimeZoneId": "Asia\/Seoul"
+        },
+        {
+          "AirportCode": "ICT",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 37.65,
+              "Longitude": -97.43305556
+            }
+          },
+          "CityCode": "ICT",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Wichita - Mid-Continent"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Wichita - Mid-Continent, KS"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Wichita - Mid-Continent, KS"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Wichita - Mid-Continent, KS"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Wichita - Mid-Continent, KS"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Wichita - Mid-Continent, KS"
+              }
+            ]
+          },
+          "UtcOffset": -5,
+          "TimeZoneId": "America\/Chicago"
+        },
+        {
+          "AirportCode": "IDR",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 22.72305556,
+              "Longitude": 75.80555556
+            }
+          },
+          "CityCode": "IDR",
+          "CountryCode": "IN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Indore"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Indore"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Indore"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Indore"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Indore"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Indore"
+              }
+            ]
+          },
+          "UtcOffset": 5.5,
+          "TimeZoneId": "Asia\/Kolkata"
+        },
+        {
+          "AirportCode": "IGD",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 39.91666667,
+              "Longitude": 44.03333333
+            }
+          },
+          "CityCode": "IGD",
+          "CountryCode": "TR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": {
+              "@LanguageCode": "en",
+              "$": "Igdir"
+            }
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Europe\/Istanbul"
+        },
+        {
+          "AirportCode": "IGR",
+          "Position": {
+            "Coordinate": {
+              "Latitude": -25.74166667,
+              "Longitude": -54.46583333
+            }
+          },
+          "CityCode": "IGR",
+          "CountryCode": "AR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Iguazu"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Iguazu"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Игуасу"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "Iguazu"
+              },
+              {
+                "@LanguageCode": "ko",
+                "$": "이구아수"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "伊瓜蘇"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "イグアスの滝"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Iguazu"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Iguazu"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "伊瓜苏"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Iguazu"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Iguazu"
+              }
+            ]
+          },
+          "UtcOffset": -3,
+          "TimeZoneId": "America\/Argentina\/Buenos_Aires"
+        },
+        {
+          "AirportCode": "IGU",
+          "Position": {
+            "Coordinate": {
+              "Latitude": -25.52472222,
+              "Longitude": -54.58472222
+            }
+          },
+          "CityCode": "IGU",
+          "CountryCode": "BR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Iguassu Falls"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Foz do Iguaçu - Cataratas"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Iguassu Falls"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Iguassu Falls"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Iguassu Falls"
+              }
+            ]
+          },
+          "UtcOffset": -3,
+          "TimeZoneId": "America\/Sao_Paulo"
+        },
+        {
+          "AirportCode": "IKA",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 35.40972222,
+              "Longitude": 51.15083333
+            }
+          },
+          "CityCode": "THR",
+          "CountryCode": "IR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "de",
+                "$": "Teheran - Imam Khomeini Intl"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Tehran - Imam Khomeini Intl"
+              }
+            ]
+          },
+          "UtcOffset": 4.5,
+          "TimeZoneId": "Asia\/Tehran"
+        },
+        {
+          "AirportCode": "ILE",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 31.08638889,
+              "Longitude": -97.68666667
+            }
+          },
+          "CityCode": "ILE",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Killeen Municipal"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Killeen Municipal"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Killeen Municipal"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Killeen Municipal"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Killeen Municipal"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Killeen Municipal"
+              }
+            ]
+          },
+          "UtcOffset": -5,
+          "TimeZoneId": "America\/Chicago"
+        },
+        {
+          "AirportCode": "ILM",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 34.26694444,
+              "Longitude": -77.90388889
+            }
+          },
+          "CityCode": "ILM",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Wilmington"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Wilmington"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Wilmington"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Wilmington"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Wilmington"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Wilmington"
+              }
+            ]
+          },
+          "UtcOffset": -4,
+          "TimeZoneId": "America\/New_York"
+        },
+        {
+          "AirportCode": "IMF",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 24.76111111,
+              "Longitude": 93.89972222
+            }
+          },
+          "CityCode": "IMF",
+          "CountryCode": "IN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Imphal"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Imphal"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Imphal"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Imphal"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Imphal"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Imphal"
+              }
+            ]
+          },
+          "UtcOffset": 5.5,
+          "TimeZoneId": "Asia\/Kolkata"
+        },
+        {
+          "AirportCode": "INC",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 38.48333333,
+              "Longitude": 106.2166667
+            }
+          },
+          "CityCode": "INC",
+          "CountryCode": "CN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Yinchuan"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Yinchuan"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Yinchuan"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Yinchuan"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Yinchuan"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Yinchuan"
+              }
+            ]
+          },
+          "UtcOffset": 8,
+          "TimeZoneId": "Asia\/Shanghai"
+        },
+        {
+          "AirportCode": "IND",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 39.72555556,
+              "Longitude": -86.28388889
+            }
+          },
+          "CityCode": "IND",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Indianapolis International"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Indianapolis International, IN"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Indianapolis International, IN"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Indianapolis International, IN"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Indianapolis International, IN"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Indianapolis International, IN"
+              }
+            ]
+          },
+          "UtcOffset": -4,
+          "TimeZoneId": "America\/Indiana\/Indianapolis"
+        },
+        {
+          "AirportCode": "INN",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 47.26083333,
+              "Longitude": 11.34722222
+            }
+          },
+          "CityCode": "INN",
+          "CountryCode": "AT",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Innsbruck - Kranebitten"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Innsbruck - Kranebitten"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Инсбрук"
+              },
+              {
+                "@LanguageCode": "ko",
+                "$": "인스브루크"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "因斯布魯克"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "インスブルック"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Innsbruck - Kranebitten"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Innsbruck - Kranebitten"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "因斯布鲁克"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Innsbruck - Kranebitten"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Innsbruck - Kranebitten"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Europe\/Vienna"
+        },
+        {
+          "AirportCode": "IOA",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 39.69638889,
+              "Longitude": 20.8225
+            }
+          },
+          "CityCode": "IOA",
+          "CountryCode": "GR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Ioannina"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Ioannina"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Ioannina"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Ioannina"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Ioannina"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Ioannina"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Europe\/Athens"
+        },
+        {
+          "AirportCode": "IOS",
+          "Position": {
+            "Coordinate": {
+              "Latitude": -14.81388889,
+              "Longitude": -39.03
+            }
+          },
+          "CityCode": "IOS",
+          "CountryCode": "BR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Ilheus"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Ilheus"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Ilheus"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Ilheus"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Ilheus"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Ilheus"
+              }
+            ]
+          },
+          "UtcOffset": -3,
+          "TimeZoneId": "America\/Belem"
+        },
+        {
+          "AirportCode": "IPL",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 32.83722222,
+              "Longitude": -115.5747222
+            }
+          },
+          "CityCode": "IPL",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Imperial County"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "El Centro - Imperial County"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Imperial County"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Imperial County"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Imperial County"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Imperial County"
+              }
+            ]
+          },
+          "UtcOffset": -7,
+          "TimeZoneId": "America\/Los_Angeles"
+        },
+        {
+          "AirportCode": "IQQ",
+          "Position": {
+            "Coordinate": {
+              "Latitude": -20.23166667,
+              "Longitude": -70.14083333
+            }
+          },
+          "CityCode": "IQQ",
+          "CountryCode": "CL",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Iquique"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Iquique"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Iquique"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Iquique"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Iquique"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Iquique"
+              }
+            ]
+          },
+          "UtcOffset": -4,
+          "TimeZoneId": "America\/Santiago"
+        },
+        {
+          "AirportCode": "ISB",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 33.61472222,
+              "Longitude": 73.09666667
+            }
+          },
+          "CityCode": "ISB",
+          "CountryCode": "PK",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Islamabad International"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Islamabad International"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Islamabad International"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Islamabad International"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Islamabad International"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Islamabad International"
+              }
+            ]
+          },
+          "UtcOffset": 5,
+          "TimeZoneId": "Asia\/Karachi"
+        },
+        {
+          "AirportCode": "ISG",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 24.33694444,
+              "Longitude": 124.1688889
+            }
+          },
+          "CityCode": "ISG",
+          "CountryCode": "JP",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Ishigaki"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Ishigaki"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "Ishigaki"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Ishigaki"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Ishigaki"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Ishigaki"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Ishigaki"
+              }
+            ]
+          },
+          "UtcOffset": 9,
+          "TimeZoneId": "Asia\/Tokyo"
+        },
+        {
+          "AirportCode": "ISN",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 48.17611111,
+              "Longitude": -103.6361111
+            }
+          },
+          "CityCode": "ISN",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Williston - Sloulin Field International"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Williston - Sloulin Field International"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Williston - Sloulin Field International"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Williston - Sloulin Field International"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Williston - Sloulin Field International"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Williston - Sloulin Field International"
+              }
+            ]
+          },
+          "UtcOffset": -5,
+          "TimeZoneId": "America\/Chicago"
+        },
+        {
+          "AirportCode": "IST",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 40.97666667,
+              "Longitude": 28.81527778
+            }
+          },
+          "CityCode": "IST",
+          "CountryCode": "TR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Istanbul"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Istanbul"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "Istambul"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Istanbul"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Istanbul"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Istanbul"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Estambul"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Europe\/Istanbul"
+        },
+        {
+          "AirportCode": "ISU",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 35.56083333,
+              "Longitude": 45.31472222
+            }
+          },
+          "CityCode": "ISU",
+          "CountryCode": "IQ",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": {
+              "@LanguageCode": "en",
+              "$": "Sulaymaniyah International"
+            }
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Asia\/Baghdad"
+        },
+        {
+          "AirportCode": "ITH",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 42.49027778,
+              "Longitude": -76.45805556
+            }
+          },
+          "CityCode": "ITH",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Ithaca"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Ithaca"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Ithaca"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Ithaca"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Ithaca"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Ithaca"
+              }
+            ]
+          },
+          "UtcOffset": -4,
+          "TimeZoneId": "America\/New_York"
+        },
+        {
+          "AirportCode": "ITM",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 34.7825,
+              "Longitude": 135.4411111
+            }
+          },
+          "CityCode": "OSA",
+          "CountryCode": "JP",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Osaka - Itami"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Osaka - Itami"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "Osaka - Itami　伊丹 - 大阪"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Osaka - Itami"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Osaka - Itami"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Osaka - Itami"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Osaka - Itami"
+              }
+            ]
+          },
+          "UtcOffset": 9,
+          "TimeZoneId": "Asia\/Tokyo"
+        },
+        {
+          "AirportCode": "ITO",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 19.72361111,
+              "Longitude": -155.0580556
+            }
+          },
+          "CityCode": "ITO",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Hilo International"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Hilo International"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Hilo International"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Hilo International"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Hilo International"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Hilo International"
+              }
+            ]
+          },
+          "UtcOffset": -10,
+          "TimeZoneId": "Pacific\/Honolulu"
+        },
+        {
+          "AirportCode": "IWJ",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 34.67638889,
+              "Longitude": 131.7902778
+            }
+          },
+          "CityCode": "IWJ",
+          "CountryCode": "JP",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Iwami"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Iwami"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "Hagi\/Iwami"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Iwami"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Iwami"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Iwami"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Iwami"
+              }
+            ]
+          },
+          "UtcOffset": 9,
+          "TimeZoneId": "Asia\/Tokyo"
+        },
+        {
+          "AirportCode": "IWK",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 34.13527778,
+              "Longitude": 132.2355556
+            }
+          },
+          "CityCode": "IWK",
+          "CountryCode": "JP",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "en",
+                "$": "Iwakuni"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "Iwakuni"
+              }
+            ]
+          },
+          "UtcOffset": 9,
+          "TimeZoneId": "Asia\/Tokyo"
+        },
+        {
+          "AirportCode": "IXA",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 23.89,
+              "Longitude": 91.24222222
+            }
+          },
+          "CityCode": "IXA",
+          "CountryCode": "IN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Agartala"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Agartala"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Agartala"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Agartala"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Agartala"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Agartala"
+              }
+            ]
+          },
+          "UtcOffset": 5.5,
+          "TimeZoneId": "Asia\/Kolkata"
+        },
+        {
+          "AirportCode": "IXB",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 26.68055556,
+              "Longitude": 88.33055556
+            }
+          },
+          "CityCode": "IXB",
+          "CountryCode": "IN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Bagdogra"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Bagdogra"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Bagdogra"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Bagdogra"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Bagdogra"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Bagdogra"
+              }
+            ]
+          },
+          "UtcOffset": 5.5,
+          "TimeZoneId": "Asia\/Kolkata"
+        },
+        {
+          "AirportCode": "IXC",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 30.67194444,
+              "Longitude": 76.79055556
+            }
+          },
+          "CityCode": "IXC",
+          "CountryCode": "IN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Chandigarh"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Chandigarh"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Chandigarh"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Chandigarh"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Chandigarh"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Chandigarh"
+              }
+            ]
+          },
+          "UtcOffset": 5.5,
+          "TimeZoneId": "Asia\/Kolkata"
+        },
+        {
+          "AirportCode": "IXD",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 25.43972222,
+              "Longitude": 81.73611111
+            }
+          },
+          "CityCode": "IXD",
+          "CountryCode": "IN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Allahabad"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Allahabad"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Allahabad"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Allahabad"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Allahabad"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Allahabad"
+              }
+            ]
+          },
+          "UtcOffset": 5.5,
+          "TimeZoneId": "Asia\/Kolkata"
+        },
+        {
+          "AirportCode": "IXE",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 12.96388889,
+              "Longitude": 74.89388889
+            }
+          },
+          "CityCode": "IXE",
+          "CountryCode": "IN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Mangalore"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Mangalore"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Mangalore"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Mangalore"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Mangalore"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Mangalore"
+              }
+            ]
+          },
+          "UtcOffset": 5.5,
+          "TimeZoneId": "Asia\/Kolkata"
+        }
+      ]
+    },
+    "Meta": {
+      "@Version": "1.0.0",
+      "Link": [
+        {
+          "@Href": "https:\/\/api.lufthansa.com\/v1\/references\/airports?limit=100&offset=400",
+          "@Rel": "self"
+        },
+        {
+          "@Href": "https:\/\/api.lufthansa.com\/v1\/references\/airports?limit=100&offset=0",
+          "@Rel": "first"
+        },
+        {
+          "@Href": "https:\/\/api.lufthansa.com\/v1\/references\/airports?limit=100&offset=300",
+          "@Rel": "previous"
+        },
+        {
+          "@Href": "https:\/\/api.lufthansa.com\/v1\/references\/airports?limit=100&offset=500",
+          "@Rel": "next"
+        },
+        {
+          "@Href": "https:\/\/api.lufthansa.com\/v1\/references\/airports?limit=100&offset=1200",
+          "@Rel": "last"
+        },
+        {
+          "@Href": "https:\/\/api.lufthansa.com\/v1\/references\/cities\/{cityCode}",
+          "@Rel": "related"
+        },
+        {
+          "@Href": "https:\/\/api.lufthansa.com\/v1\/references\/countries\/{countryCode}",
+          "@Rel": "related"
+        }
+      ],
+      "TotalCount": 1263
+    }
+  }
+}

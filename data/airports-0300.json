@@ -1,0 +1,4282 @@
+{
+  "AirportResource": {
+    "Airports": {
+      "Airport": [
+        {
+          "AirportCode": "CHC",
+          "Position": {
+            "Coordinate": {
+              "Latitude": -43.48944444,
+              "Longitude": 172.5344444
+            }
+          },
+          "CityCode": "CHC",
+          "CountryCode": "NZ",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Christchurch International"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Christchurch International"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Christchurch International"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Christchurch International"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Christchurch International"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Christchurch International"
+              }
+            ]
+          },
+          "UtcOffset": 12,
+          "TimeZoneId": "Pacific\/Auckland"
+        },
+        {
+          "AirportCode": "CHO",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 38.14138889,
+              "Longitude": -78.45305556
+            }
+          },
+          "CityCode": "CHO",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Charlottesville Albemarie"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Charlottesville Albemarie"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "シャーロッツビル"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Charlottesville Albemarie"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Charlottesville Albemarie"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Charlottesville Albemarie"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Charlottesville Albemarie"
+              }
+            ]
+          },
+          "UtcOffset": -4,
+          "TimeZoneId": "America\/New_York"
+        },
+        {
+          "AirportCode": "CHQ",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 35.5325,
+              "Longitude": 24.14833333
+            }
+          },
+          "CityCode": "CHQ",
+          "CountryCode": "GR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Chania"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Chania"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Chania"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Chania"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Chania"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Chania"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Europe\/Athens"
+        },
+        {
+          "AirportCode": "CHS",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 32.89916667,
+              "Longitude": -80.03888889
+            }
+          },
+          "CityCode": "CHS",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Charleston, South Carolina"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Charleston, SC"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "チャールストン"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Charleston, SC"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Charleston, SC"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Charleston, SC"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Charleston, SC"
+              }
+            ]
+          },
+          "UtcOffset": -4,
+          "TimeZoneId": "America\/New_York"
+        },
+        {
+          "AirportCode": "CIC",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 39.79583333,
+              "Longitude": -121.8566667
+            }
+          },
+          "CityCode": "CIC",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Chico"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Chico"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Chico"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Chico"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Chico"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Chico"
+              }
+            ]
+          },
+          "UtcOffset": -7,
+          "TimeZoneId": "America\/Los_Angeles"
+        },
+        {
+          "AirportCode": "CID",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 41.88444444,
+              "Longitude": -91.70611111
+            }
+          },
+          "CityCode": "CID",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Cedar Rapids"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Cedar Rapids, IA"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "シーダーラピッズ"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Cedar Rapids, IA"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Cedar Rapids, IA"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Cedar Rapids, IA"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Cedar Rapids, IA"
+              }
+            ]
+          },
+          "UtcOffset": -5,
+          "TimeZoneId": "America\/Chicago"
+        },
+        {
+          "AirportCode": "CIT",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 42.36416667,
+              "Longitude": 69.47888889
+            }
+          },
+          "CityCode": "AKX",
+          "CountryCode": "KZ",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": {
+              "@LanguageCode": "en",
+              "$": "Shymkent"
+            }
+          },
+          "UtcOffset": 6,
+          "TimeZoneId": "Asia\/Qyzylorda"
+        },
+        {
+          "AirportCode": "CJB",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 11.02833333,
+              "Longitude": 77.04333333
+            }
+          },
+          "CityCode": "CJB",
+          "CountryCode": "IN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Coimbatore"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Coimbatore"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Coimbatore"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Coimbatore"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Coimbatore"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Coimbatore"
+              }
+            ]
+          },
+          "UtcOffset": 5.5,
+          "TimeZoneId": "Asia\/Kolkata"
+        },
+        {
+          "AirportCode": "CJC",
+          "Position": {
+            "Coordinate": {
+              "Latitude": -22.49805556,
+              "Longitude": -68.90361111
+            }
+          },
+          "CityCode": "CJC",
+          "CountryCode": "CL",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Calama"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Calama"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Calama"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Calama"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Calama"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Calama"
+              }
+            ]
+          },
+          "UtcOffset": -4,
+          "TimeZoneId": "America\/Santiago"
+        },
+        {
+          "AirportCode": "CJU",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 33.50555556,
+              "Longitude": 126.495
+            }
+          },
+          "CityCode": "CJU",
+          "CountryCode": "KR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Cheju"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Cheju"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Jeju"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Cheju"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Cheju"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Cheju"
+              }
+            ]
+          },
+          "UtcOffset": 9,
+          "TimeZoneId": "Asia\/Seoul"
+        },
+        {
+          "AirportCode": "CKB",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 39.29555556,
+              "Longitude": -80.22944444
+            }
+          },
+          "CityCode": "CKB",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Clarksburg"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Clarksburg"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Clarksburg"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Clarksburg"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Clarksburg"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Clarksburg"
+              }
+            ]
+          },
+          "UtcOffset": -4,
+          "TimeZoneId": "America\/New_York"
+        },
+        {
+          "AirportCode": "CKG",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 29.49583333,
+              "Longitude": 106.3597222
+            }
+          },
+          "CityCode": "CKG",
+          "CountryCode": "CN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Chongqing"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Chongqing"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Chongqing"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Chongqing"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Chongqing"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Chongqing"
+              }
+            ]
+          },
+          "UtcOffset": 8,
+          "TimeZoneId": "Asia\/Shanghai"
+        },
+        {
+          "AirportCode": "CKY",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 9.576388889,
+              "Longitude": -13.61083333
+            }
+          },
+          "CityCode": "CKY",
+          "CountryCode": "GN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Conakry"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Conakry"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Conakry"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Conakry"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Conakry"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Conakry"
+              }
+            ]
+          },
+          "UtcOffset": 0,
+          "TimeZoneId": "Africa\/Conakry"
+        },
+        {
+          "AirportCode": "CLD",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 33.12861111,
+              "Longitude": -117.2797222
+            }
+          },
+          "CityCode": "CLD",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Carlsbad, California"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Carlsbad, CA"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Карлсбад"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Carlsbad, CA"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Carlsbad, CA"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Carlsbad, CA"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Carlsbad, CA"
+              }
+            ]
+          },
+          "UtcOffset": -7,
+          "TimeZoneId": "America\/Los_Angeles"
+        },
+        {
+          "AirportCode": "CLE",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 41.41083333,
+              "Longitude": -81.84944444
+            }
+          },
+          "CityCode": "CLE",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Cleveland - Hopkins International"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Cleveland - Hopkins International, OH"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "クリーブランド"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Cleveland - Hopkins International, OH"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Cleveland - Hopkins International, OH"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Cleveland - Hopkins International, OH"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Cleveland - Hopkins International, OH"
+              }
+            ]
+          },
+          "UtcOffset": -4,
+          "TimeZoneId": "America\/New_York"
+        },
+        {
+          "AirportCode": "CLJ",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 46.785,
+              "Longitude": 23.68611111
+            }
+          },
+          "CityCode": "CLJ",
+          "CountryCode": "RO",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Cluj"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Cluj"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Cluj"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Cluj"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Cluj"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Cluj"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Europe\/Bucharest"
+        },
+        {
+          "AirportCode": "CLL",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 30.58944444,
+              "Longitude": -96.36444444
+            }
+          },
+          "CityCode": "CLL",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "College Station - Easterwood Field"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "College Station - Easterwood Field"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "College Station - Easterwood Field"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "College Station - Easterwood Field"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "College Station - Easterwood Field"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "College Station - Easterwood Field"
+              }
+            ]
+          },
+          "UtcOffset": -5,
+          "TimeZoneId": "America\/Chicago"
+        },
+        {
+          "AirportCode": "CLO",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 3.546111111,
+              "Longitude": -76.385
+            }
+          },
+          "CityCode": "CLO",
+          "CountryCode": "CO",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Cali"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Cali"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Cali"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Cali"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Cali"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Cali"
+              }
+            ]
+          },
+          "UtcOffset": -5,
+          "TimeZoneId": "America\/Bogota"
+        },
+        {
+          "AirportCode": "CLT",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 35.21916667,
+              "Longitude": -80.93583333
+            }
+          },
+          "CityCode": "CLT",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Charlotte"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Charlotte, NC"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "シャーロッテ"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Charlotte, NC"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Charlotte, NC"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Charlotte, NC"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Charlotte, NC"
+              }
+            ]
+          },
+          "UtcOffset": -4,
+          "TimeZoneId": "America\/New_York"
+        },
+        {
+          "AirportCode": "CLY",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 42.52777778,
+              "Longitude": 8.791666667
+            }
+          },
+          "CityCode": "CLY",
+          "CountryCode": "FR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Calvi"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Calvi"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Calvi"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Calvi"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Calvi"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Calvi"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Europe\/Paris"
+        },
+        {
+          "AirportCode": "CMB",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 7.175,
+              "Longitude": 79.88472222
+            }
+          },
+          "CityCode": "CMB",
+          "CountryCode": "LK",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Colombo - Katunayake"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Colombo - Katunayake"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Colombo - Katunayake"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Colombo - Katunayake"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Colombo - Katunayake"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Colombo - Katunayake"
+              }
+            ]
+          },
+          "UtcOffset": 5.5,
+          "TimeZoneId": "Asia\/Colombo"
+        },
+        {
+          "AirportCode": "CME",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 18.65361111,
+              "Longitude": -91.79888889
+            }
+          },
+          "CityCode": "CME",
+          "CountryCode": "MX",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Ciudad Del Carmen"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Ciudad Del Carmen"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Ciudad Del Carmen"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Ciudad Del Carmen"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Ciudad Del Carmen"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Ciudad Del Carmen"
+              }
+            ]
+          },
+          "UtcOffset": -5,
+          "TimeZoneId": "America\/Mexico_City"
+        },
+        {
+          "AirportCode": "CMH",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 39.99111111,
+              "Longitude": -82.87833333
+            }
+          },
+          "CityCode": "CMH",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Columbus, Ohio - Port Columbus International"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Columbus, OH"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "コロンバス"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Columbus, OH"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Columbus, Port Columbus International, OH"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Columbus, Port Columbus International, OH"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Columbus, Ohio - Port Columbus International"
+              }
+            ]
+          },
+          "UtcOffset": -4,
+          "TimeZoneId": "America\/New_York"
+        },
+        {
+          "AirportCode": "CMN",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 33.3675,
+              "Longitude": -7.59
+            }
+          },
+          "CityCode": "CAS",
+          "CountryCode": "MA",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Casablanca - Mohamed V"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Casablanca - Mohamed V"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Casablanca - Mohamed V"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Casablanca - Mohamed V"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Casablanca - Mohamed V"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Casablanca - Mohamed V"
+              }
+            ]
+          },
+          "UtcOffset": 1,
+          "TimeZoneId": "Africa\/Casablanca"
+        },
+        {
+          "AirportCode": "CMX",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 47.16777778,
+              "Longitude": -88.48638889
+            }
+          },
+          "CityCode": "CMX",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Hancock"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Hancock"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Hancock"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Hancock"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Hancock"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Hancock"
+              }
+            ]
+          },
+          "UtcOffset": -4,
+          "TimeZoneId": "America\/New_York"
+        },
+        {
+          "AirportCode": "CND",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 44.36222222,
+              "Longitude": 28.48833333
+            }
+          },
+          "CityCode": "CND",
+          "CountryCode": "RO",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Constanta"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Konstanza"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Constanta"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Constanta"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Constanta"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Constanta"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Europe\/Bucharest"
+        },
+        {
+          "AirportCode": "CNF",
+          "Position": {
+            "Coordinate": {
+              "Latitude": -19.63361111,
+              "Longitude": -43.96888889
+            }
+          },
+          "CityCode": "BHZ",
+          "CountryCode": "BR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Belo Horizonte - Tancredo Neves International"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Belo Horizonte - Tancredo Neves International"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Belo Horizonte - Tancredo Neves International"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Belo Horizonte - Tancredo Neves International"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Belo Horizonte - Tancredo Neves International"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Belo Horizonte - Tancredo Neves International"
+              }
+            ]
+          },
+          "UtcOffset": -3,
+          "TimeZoneId": "America\/Sao_Paulo"
+        },
+        {
+          "AirportCode": "CNS",
+          "Position": {
+            "Coordinate": {
+              "Latitude": -16.88583333,
+              "Longitude": 145.7552778
+            }
+          },
+          "CityCode": "CNS",
+          "CountryCode": "AU",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Cairns"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Cairns"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Cairns"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Cairns"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Cairns"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Cairns"
+              }
+            ]
+          },
+          "UtcOffset": 10,
+          "TimeZoneId": "Australia\/Brisbane"
+        },
+        {
+          "AirportCode": "CNX",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 18.77194444,
+              "Longitude": 98.96833333
+            }
+          },
+          "CityCode": "CNX",
+          "CountryCode": "TH",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Chiang Mai"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Chiang Mai"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Chiang Mai"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Chiang Mai"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Chiang Mai"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Chiang Mai"
+              }
+            ]
+          },
+          "UtcOffset": 7,
+          "TimeZoneId": "Asia\/Bangkok"
+        },
+        {
+          "AirportCode": "CNY",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 38.75944444,
+              "Longitude": -109.7461111
+            }
+          },
+          "CityCode": "CNY",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Moab"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Moab"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Moab"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Moab"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Moab"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Moab"
+              }
+            ]
+          },
+          "UtcOffset": -6,
+          "TimeZoneId": "America\/Denver"
+        },
+        {
+          "AirportCode": "COD",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 44.51583333,
+              "Longitude": -109.0275
+            }
+          },
+          "CityCode": "COD",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Cody"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Cody"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Cody"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Cody"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Cody"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Cody"
+              }
+            ]
+          },
+          "UtcOffset": -6,
+          "TimeZoneId": "America\/Denver"
+        },
+        {
+          "AirportCode": "COK",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 9.944444444,
+              "Longitude": 76.27194444
+            }
+          },
+          "CityCode": "COK",
+          "CountryCode": "IN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": {
+              "@LanguageCode": "en",
+              "$": "Kochi"
+            }
+          },
+          "UtcOffset": 5.5,
+          "TimeZoneId": "Asia\/Kolkata"
+        },
+        {
+          "AirportCode": "COO",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 6.354166667,
+              "Longitude": 2.385555556
+            }
+          },
+          "CityCode": "COO",
+          "CountryCode": "BJ",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Cotonou"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Cotonou"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Cotonou"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Cotonou"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Cotonou"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Cotonou"
+              }
+            ]
+          },
+          "UtcOffset": 1,
+          "TimeZoneId": "Africa\/Porto-Novo"
+        },
+        {
+          "AirportCode": "COR",
+          "Position": {
+            "Coordinate": {
+              "Latitude": -31.31305556,
+              "Longitude": -64.19944444
+            }
+          },
+          "CityCode": "COR",
+          "CountryCode": "AR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Cordoba"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Cordoba"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Кордова"
+              },
+              {
+                "@LanguageCode": "ko",
+                "$": "코르도바"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "科爾多瓦"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "コルドバ"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Cordoba"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Cordoba"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "科尔多瓦"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Cordoba"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Cordoba"
+              }
+            ]
+          },
+          "UtcOffset": -3,
+          "TimeZoneId": "America\/Argentina\/Buenos_Aires"
+        },
+        {
+          "AirportCode": "COS",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 38.80888889,
+              "Longitude": -104.7091667
+            }
+          },
+          "CityCode": "COS",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Colorado Springs - Peterson Field"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Colorado Springs - Peterson Field, CO"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "コロラドスプリングス"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Colorado Springs - Peterson Field, CO"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Colorado Springs - Peterson Field, CO"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Colorado Springs - Peterson Field, CO"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Colorado Springs - Peterson Field, CO"
+              }
+            ]
+          },
+          "UtcOffset": -6,
+          "TimeZoneId": "America\/Denver"
+        },
+        {
+          "AirportCode": "CPH",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 55.61805556,
+              "Longitude": 12.65583333
+            }
+          },
+          "CityCode": "CPH",
+          "CountryCode": "DK",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Copenhagen - Copenhagen Airport"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Kopenhagen"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "Copenhaga"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Copenhagen"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Copenhagen"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Copenhagen"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Copenhagen"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Europe\/Copenhagen"
+        },
+        {
+          "AirportCode": "CPO",
+          "Position": {
+            "Coordinate": {
+              "Latitude": -27.29611111,
+              "Longitude": -70.41361111
+            }
+          },
+          "CityCode": "CPO",
+          "CountryCode": "CL",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Copiapo"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Copiapo"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Copiapo"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Copiapo"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Copiapo"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Copiapo"
+              }
+            ]
+          },
+          "UtcOffset": -4,
+          "TimeZoneId": "America\/Santiago"
+        },
+        {
+          "AirportCode": "CPR",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 42.90861111,
+              "Longitude": -106.4625
+            }
+          },
+          "CityCode": "CPR",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Casper"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Casper"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Casper"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Casper"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Casper"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Casper"
+              }
+            ]
+          },
+          "UtcOffset": -6,
+          "TimeZoneId": "America\/Denver"
+        },
+        {
+          "AirportCode": "CPT",
+          "Position": {
+            "Coordinate": {
+              "Latitude": -33.96472222,
+              "Longitude": 18.60222222
+            }
+          },
+          "CityCode": "CPT",
+          "CountryCode": "ZA",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Cape Town"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Kapstadt"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "Cidade do Cabo"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Cape Town"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Città del Capo"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Cape Town"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Cape Town"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Africa\/Johannesburg"
+        },
+        {
+          "AirportCode": "CRD",
+          "Position": {
+            "Coordinate": {
+              "Latitude": -45.78722222,
+              "Longitude": -67.46277778
+            }
+          },
+          "CityCode": "CRD",
+          "CountryCode": "AR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Comodoro Rivadavia"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Comodoro Rivadavia"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Комодоро-Ривадавия"
+              },
+              {
+                "@LanguageCode": "ko",
+                "$": "코모도로리바다비아"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "里瓦達維亞海軍准將城"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "コモドーロ・リバダビア"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Comodoro Rivadavia"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Comodoro Rivadavia"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "里瓦达维亚海军准将城"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Comodoro Rivadavia"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Comodoro Rivadavia"
+              }
+            ]
+          },
+          "UtcOffset": -3,
+          "TimeZoneId": "America\/Argentina\/Buenos_Aires"
+        },
+        {
+          "AirportCode": "CRP",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 27.77,
+              "Longitude": -97.50083333
+            }
+          },
+          "CityCode": "CRP",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Corpus Christi - International"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Corpus Christi - International"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Corpus Christi - International"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Corpus Christi - International"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Corpus Christi - International"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Corpus Christi - International"
+              }
+            ]
+          },
+          "UtcOffset": -5,
+          "TimeZoneId": "America\/Chicago"
+        },
+        {
+          "AirportCode": "CRW",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 38.37277778,
+              "Longitude": -81.59305556
+            }
+          },
+          "CityCode": "CRW",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Charleston, West Virginia - Yeager"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Charleston, West Virginia - Yeager"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Charleston, West Virginia - Yeager"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Charleston, West Virginia - Yeager"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Charleston, West Virginia - Yeager"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Charleston, West Virginia - Yeager"
+              }
+            ]
+          },
+          "UtcOffset": -4,
+          "TimeZoneId": "America\/New_York"
+        },
+        {
+          "AirportCode": "CSL",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 35.33333333,
+              "Longitude": -120.7344444
+            }
+          },
+          "CityCode": "CSL",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "San Luis Obispo"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "San Luis Obispo"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "San Luis Obispo"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "San Luis Obispo"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "San Luis Obispo"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "San Luis Obispo"
+              }
+            ]
+          },
+          "UtcOffset": -7,
+          "TimeZoneId": "America\/Los_Angeles"
+        },
+        {
+          "AirportCode": "CSX",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 28.2,
+              "Longitude": 113.0833333
+            }
+          },
+          "CityCode": "CSX",
+          "CountryCode": "CN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Changsha"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Changsha"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Changsha"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Changsha"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Changsha"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Changsha"
+              }
+            ]
+          },
+          "UtcOffset": 8,
+          "TimeZoneId": "Asia\/Shanghai"
+        },
+        {
+          "AirportCode": "CTA",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 37.40277778,
+              "Longitude": 14.92305556
+            }
+          },
+          "CityCode": "CTA",
+          "CountryCode": "IT",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Catania"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Catania"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Catania"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Catania"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Catania"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Catania"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Europe\/Rome"
+        },
+        {
+          "AirportCode": "CTG",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 10.44666667,
+              "Longitude": -75.51055556
+            }
+          },
+          "CityCode": "CTG",
+          "CountryCode": "CO",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Cartagena"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Cartagena"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Cartagena"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Cartagena"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Cartagena"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Cartagena"
+              }
+            ]
+          },
+          "UtcOffset": -5,
+          "TimeZoneId": "America\/Bogota"
+        },
+        {
+          "AirportCode": "CTS",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 42.79583333,
+              "Longitude": 141.6691667
+            }
+          },
+          "CityCode": "SPK",
+          "CountryCode": "JP",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Sapporo Chitose"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Sapporo Chitose"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "Sapporo - Chitose　札幌 - 千歳"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Sapporo - Chitose"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Sapporo Chitose"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Sapporo Chitose"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Sapporo Chitose"
+              }
+            ]
+          },
+          "UtcOffset": 9,
+          "TimeZoneId": "Asia\/Tokyo"
+        },
+        {
+          "AirportCode": "CTU",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 30.57861111,
+              "Longitude": 103.9472222
+            }
+          },
+          "CityCode": "CTU",
+          "CountryCode": "CN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Chengdu"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Chengdu"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Chengdu"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Chengdu"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Chengdu"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Chengdu"
+              }
+            ]
+          },
+          "UtcOffset": 8,
+          "TimeZoneId": "Asia\/Shanghai"
+        },
+        {
+          "AirportCode": "CUC",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 7.93,
+              "Longitude": -72.50944444
+            }
+          },
+          "CityCode": "CUC",
+          "CountryCode": "CO",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Cucuta"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Cucuta"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Cucuta"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Cucuta"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Cucuta"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Cucuta"
+              }
+            ]
+          },
+          "UtcOffset": -5,
+          "TimeZoneId": "America\/Bogota"
+        },
+        {
+          "AirportCode": "CUL",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 24.76444444,
+              "Longitude": -107.4741667
+            }
+          },
+          "CityCode": "CUL",
+          "CountryCode": "MX",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Culiacan"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Culiacan"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Culiacan"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Culiacan"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Culiacan"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Culiacan"
+              }
+            ]
+          },
+          "UtcOffset": -6,
+          "TimeZoneId": "America\/Mazatlan"
+        },
+        {
+          "AirportCode": "CUM",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 10.44777778,
+              "Longitude": -64.19194444
+            }
+          },
+          "CityCode": "CUM",
+          "CountryCode": "VE",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Cumana"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Cumana"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Cumana"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Cumana"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Cumana"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Cumana"
+              }
+            ]
+          },
+          "UtcOffset": -4,
+          "TimeZoneId": "America\/Caracas"
+        },
+        {
+          "AirportCode": "CUN",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 21.03666667,
+              "Longitude": -86.87694444
+            }
+          },
+          "CityCode": "CUN",
+          "CountryCode": "MX",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Cancun"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Cancun"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Cancun"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Cancun"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Cancun"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Cancun"
+              }
+            ]
+          },
+          "UtcOffset": -5,
+          "TimeZoneId": "America\/Cancun"
+        },
+        {
+          "AirportCode": "CUR",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 12.18916667,
+              "Longitude": -68.95916667
+            }
+          },
+          "CityCode": "CUR",
+          "CountryCode": "CW",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "en",
+                "$": "Curacao - Hato Airport"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "クラサオ"
+              }
+            ]
+          },
+          "UtcOffset": -4,
+          "TimeZoneId": "America\/Curacao"
+        },
+        {
+          "AirportCode": "CUU",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 28.6525,
+              "Longitude": -106.0944444
+            }
+          },
+          "CityCode": "CUU",
+          "CountryCode": "MX",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Chihuahua"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Chihuahua"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Chihuahua"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Chihuahua"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Chihuahua"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Chihuahua"
+              }
+            ]
+          },
+          "UtcOffset": -6,
+          "TimeZoneId": "America\/Mazatlan"
+        },
+        {
+          "AirportCode": "CVG",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 39.04777778,
+              "Longitude": -84.66861111
+            }
+          },
+          "CityCode": "CVG",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Cincinnati - Northern Kentucky"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Cincinnati - Northern Kentucky, OH"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "シンシナティ"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Cincinnati - Northern Kentucky, OH"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Cincinnati - Northern Kentucky, OH"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Cincinnati - Northern Kentucky, OH"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Cincinnati - Northern Kentucky, OH"
+              }
+            ]
+          },
+          "UtcOffset": -4,
+          "TimeZoneId": "America\/New_York"
+        },
+        {
+          "AirportCode": "CWB",
+          "Position": {
+            "Coordinate": {
+              "Latitude": -25.52666667,
+              "Longitude": -49.17777778
+            }
+          },
+          "CityCode": "CWB",
+          "CountryCode": "BR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Curitiba"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Curitiba"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Curitiba"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Curitiba"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Curitiba"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Curitiba"
+              }
+            ]
+          },
+          "UtcOffset": -3,
+          "TimeZoneId": "America\/Sao_Paulo"
+        },
+        {
+          "AirportCode": "CWL",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 51.39666667,
+              "Longitude": -3.343333333
+            }
+          },
+          "CityCode": "CWL",
+          "CountryCode": "GB",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Cardiff"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Cardiff"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Cardiff"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Cardiff"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Cardiff"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Cardiff"
+              }
+            ]
+          },
+          "UtcOffset": 1,
+          "TimeZoneId": "Europe\/London"
+        },
+        {
+          "AirportCode": "CYS",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 41.15583333,
+              "Longitude": -104.8122222
+            }
+          },
+          "CityCode": "CYS",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Cheyenne Municipal"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Cheyenne Municipal"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Cheyenne Municipal"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Cheyenne Municipal"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Cheyenne Municipal"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Cheyenne Municipal"
+              }
+            ]
+          },
+          "UtcOffset": -6,
+          "TimeZoneId": "America\/Denver"
+        },
+        {
+          "AirportCode": "CZM",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 20.5225,
+              "Longitude": -86.92555556
+            }
+          },
+          "CityCode": "CZM",
+          "CountryCode": "MX",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Cozumel"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Cozumel"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Cozumel"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Cozumel"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Cozumel"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Cozumel"
+              }
+            ]
+          },
+          "UtcOffset": -5,
+          "TimeZoneId": "America\/Cancun"
+        },
+        {
+          "AirportCode": "CZX",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 31.7,
+              "Longitude": 119.9666667
+            }
+          },
+          "CityCode": "CZX",
+          "CountryCode": "CN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Changzhou"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Changzhou"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Changzhou"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Changzhou"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Changzhou"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Changzhou"
+              }
+            ]
+          },
+          "UtcOffset": 8,
+          "TimeZoneId": "Asia\/Shanghai"
+        },
+        {
+          "AirportCode": "DAB",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 29.1825,
+              "Longitude": -81.05277778
+            }
+          },
+          "CityCode": "DAB",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Daytona Beach"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Daytona Beach"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Daytona Beach"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Daytona Beach"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Daytona Beach"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Daytona Beach"
+              }
+            ]
+          },
+          "UtcOffset": -4,
+          "TimeZoneId": "America\/New_York"
+        },
+        {
+          "AirportCode": "DAC",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 23.78055556,
+              "Longitude": 90.38611111
+            }
+          },
+          "CityCode": "DAC",
+          "CountryCode": "BD",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Dhaka - Zia International"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Dhaka - Zia International"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Dhaka - Zia International"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Dhaka - Zia International"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Dhaka - Zia International"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Dhaka - Zia International"
+              }
+            ]
+          },
+          "UtcOffset": 6,
+          "TimeZoneId": "Asia\/Dhaka"
+        },
+        {
+          "AirportCode": "DAR",
+          "Position": {
+            "Coordinate": {
+              "Latitude": -6.875277778,
+              "Longitude": 39.20194444
+            }
+          },
+          "CityCode": "DAR",
+          "CountryCode": "TZ",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Dar-Es-Salaam International"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Dar es Salaam International"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Dar es Salaam International"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Dar-es-Salaam International"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Dar-es-Salaam International"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Dar-es-Salaam International"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Africa\/Dar_es_Salaam"
+        },
+        {
+          "AirportCode": "DAT",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 40.08333333,
+              "Longitude": 113.3
+            }
+          },
+          "CityCode": "DAT",
+          "CountryCode": "CN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Datong"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Datong"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Datong"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Datong"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Datong"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Datong"
+              }
+            ]
+          },
+          "UtcOffset": 8,
+          "TimeZoneId": "Asia\/Shanghai"
+        },
+        {
+          "AirportCode": "DAX",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 13.3,
+              "Longitude": 107.5
+            }
+          },
+          "CityCode": "DZU",
+          "CountryCode": "CN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Dazu"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Dazhou"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Dazu"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Dazu"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Daxian"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Dazu"
+              }
+            ]
+          },
+          "UtcOffset": 8,
+          "TimeZoneId": "Asia\/Shanghai"
+        },
+        {
+          "AirportCode": "DAY",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 39.90111111,
+              "Longitude": -84.22
+            }
+          },
+          "CityCode": "DAY",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Dayton - James Cox International"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Dayton - James Cox International, OH"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "デイトン"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Dayton - James Cox International, OH"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Dayton - James Cox International, OH"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Dayton - James Cox International, OH"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Dayton - James Cox International, OH"
+              }
+            ]
+          },
+          "UtcOffset": -4,
+          "TimeZoneId": "America\/New_York"
+        },
+        {
+          "AirportCode": "DBV",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 42.5625,
+              "Longitude": 18.26888889
+            }
+          },
+          "CityCode": "DBV",
+          "CountryCode": "HR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Dubrovnik"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Dubrovnik"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Dubrovnik"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Dubrovnik"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Dubrovnik"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Dubrovnik"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Europe\/Zagreb"
+        },
+        {
+          "AirportCode": "DCA",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 38.85166667,
+              "Longitude": -77.03694444
+            }
+          },
+          "CityCode": "WAS",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Washington National"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Washington National"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Washington National"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Washington National"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Washington National"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Washington National"
+              }
+            ]
+          },
+          "UtcOffset": -4,
+          "TimeZoneId": "America\/New_York"
+        },
+        {
+          "AirportCode": "DDC",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 37.76166667,
+              "Longitude": -99.965
+            }
+          },
+          "CityCode": "DDC",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Dodge City"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Dodge City"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Dodge City"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Dodge City"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Dodge City"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Dodge City"
+              }
+            ]
+          },
+          "UtcOffset": -5,
+          "TimeZoneId": "America\/Chicago"
+        },
+        {
+          "AirportCode": "DDG",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 40.2,
+              "Longitude": 124.25
+            }
+          },
+          "CityCode": "DDG",
+          "CountryCode": "CN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Dandong"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Dandong"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Dandong"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Dandong"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Dandong"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Dandong"
+              }
+            ]
+          },
+          "UtcOffset": 8,
+          "TimeZoneId": "Asia\/Shanghai"
+        },
+        {
+          "AirportCode": "DEL",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 28.57361111,
+              "Longitude": 77.10083333
+            }
+          },
+          "CityCode": "DEL",
+          "CountryCode": "IN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Delhi - Indira Gandhi International"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Delhi - Indira Gandhi International"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "Nova Deli"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "New Delhi - Indira Gandhi International"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Delhi - Indira Gandhi International"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Delhi - Indira Gandhi International"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Delhi - Indira Gandhi International"
+              }
+            ]
+          },
+          "UtcOffset": 5.5,
+          "TimeZoneId": "Asia\/Kolkata"
+        },
+        {
+          "AirportCode": "DEN",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 39.85833333,
+              "Longitude": -104.6669444
+            }
+          },
+          "CityCode": "DEN",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Denver - International"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Denver - International, CO"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Denver - International, CO"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Denver - International, CO"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Denver - International, CO"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Denver - International, CO"
+              }
+            ]
+          },
+          "UtcOffset": -6,
+          "TimeZoneId": "America\/Denver"
+        },
+        {
+          "AirportCode": "DFW",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 32.89638889,
+              "Longitude": -97.04111111
+            }
+          },
+          "CityCode": "DFW",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Dallas\/Fort Worth - International"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Dallas\/Fort Worth - International, TX"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Dallas\/Fort Worth - International, TX"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Dallas\/Fort Worth - International, TX"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Dallas\/Fort Worth - International, TX"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Dallas\/Fort Worth - International, TX"
+              }
+            ]
+          },
+          "UtcOffset": -5,
+          "TimeZoneId": "America\/Chicago"
+        },
+        {
+          "AirportCode": "DGO",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 24.125,
+              "Longitude": -104.525
+            }
+          },
+          "CityCode": "DGO",
+          "CountryCode": "MX",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Durango"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Durango"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Durango"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Durango"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Durango"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Durango"
+              }
+            ]
+          },
+          "UtcOffset": -5,
+          "TimeZoneId": "America\/Mexico_City"
+        },
+        {
+          "AirportCode": "DIB",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 27.48388889,
+              "Longitude": 95.02083333
+            }
+          },
+          "CityCode": "DIB",
+          "CountryCode": "IN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Dibrugarh"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Dibrugarh"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Dibrugarh"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Dibrugarh"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Dibrugarh"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Dibrugarh"
+              }
+            ]
+          },
+          "UtcOffset": 5.5,
+          "TimeZoneId": "Asia\/Kolkata"
+        },
+        {
+          "AirportCode": "DIK",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 46.79666667,
+              "Longitude": -102.7963889
+            }
+          },
+          "CityCode": "DIK",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Dickinson"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Dickinson"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Dickinson"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Dickinson"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Dickinson"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Dickinson"
+              }
+            ]
+          },
+          "UtcOffset": -6,
+          "TimeZoneId": "America\/Denver"
+        },
+        {
+          "AirportCode": "DIR",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 9.622222222,
+              "Longitude": 41.85083333
+            }
+          },
+          "CityCode": "DIR",
+          "CountryCode": "ET",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Dire Dawa"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Dire Dawa"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Dire Dawa"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Dire Dawa"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Dire Dawa"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Dire Dawa"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Africa\/Addis_Ababa"
+        },
+        {
+          "AirportCode": "DKR",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 14.73972222,
+              "Longitude": -17.49027778
+            }
+          },
+          "CityCode": "DKR",
+          "CountryCode": "SN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Dakar"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Dakar"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Dakar"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Dakar"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Dakar"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Dakar"
+              }
+            ]
+          },
+          "UtcOffset": 0,
+          "TimeZoneId": "Africa\/Dakar"
+        },
+        {
+          "AirportCode": "DLA",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 4.006111111,
+              "Longitude": 9.719444444
+            }
+          },
+          "CityCode": "DLA",
+          "CountryCode": "CM",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Douala"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Douala"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Douala"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Douala"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Douala"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Douala"
+              }
+            ]
+          },
+          "UtcOffset": 1,
+          "TimeZoneId": "Africa\/Douala"
+        },
+        {
+          "AirportCode": "DLC",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 38.96555556,
+              "Longitude": 121.5386111
+            }
+          },
+          "CityCode": "DLC",
+          "CountryCode": "CN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Dalian"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Dalian"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Dalian"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Dalian"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Dalian"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Dalian"
+              }
+            ]
+          },
+          "UtcOffset": 8,
+          "TimeZoneId": "Asia\/Shanghai"
+        },
+        {
+          "AirportCode": "DLH",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 46.84194444,
+              "Longitude": -92.19388889
+            }
+          },
+          "CityCode": "DLH",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Duluth\/Superior - Duluth International"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Duluth\/Superior - Duluth International"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Duluth\/Superior - Duluth International"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Duluth\/Superior - Duluth International"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Duluth\/Superior - Duluth International"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Duluth\/Superior - Duluth International"
+              }
+            ]
+          },
+          "UtcOffset": -5,
+          "TimeZoneId": "America\/Chicago"
+        },
+        {
+          "AirportCode": "DLM",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 36.7125,
+              "Longitude": 28.79222222
+            }
+          },
+          "CityCode": "DLM",
+          "CountryCode": "TR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Dalaman"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Dalaman"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Dalaman"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Dalaman"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Dalaman"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Dalaman"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Europe\/Istanbul"
+        },
+        {
+          "AirportCode": "DME",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 55.40888889,
+              "Longitude": 37.90638889
+            }
+          },
+          "CityCode": "MOW",
+          "CountryCode": "RU",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Moscow - Domodedovo"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Moskau - Domodedovo"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Москва  - Domodedovo"
+              },
+              {
+                "@LanguageCode": "ko",
+                "$": "모스크바"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "Moscovo - Domodedovo"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Moscow - Domodedovo"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Mosca - Domodedovo"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Moscow - Domodedovo"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Moscow - Domodedovo"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "莫斯科"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "モスクワ"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "莫斯科"
+              },
+              {
+                "@LanguageCode": "pl",
+                "$": "Moskwa - Domodedovo"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Europe\/Moscow"
+        },
+        {
+          "AirportCode": "DMK",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 13.9125,
+              "Longitude": 100.6063889
+            }
+          },
+          "CityCode": "BKK",
+          "CountryCode": "TH",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": {
+              "@LanguageCode": "en",
+              "$": "Bangkok - Don Muang"
+            }
+          },
+          "UtcOffset": 7,
+          "TimeZoneId": "Asia\/Bangkok"
+        },
+        {
+          "AirportCode": "DMM",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 26.47055556,
+              "Longitude": 49.79833333
+            }
+          },
+          "CityCode": "DMM",
+          "CountryCode": "SA",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Dammam"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Dammam"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Dammam"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Dammam"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Dammam"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Dammam"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Asia\/Riyadh"
+        },
+        {
+          "AirportCode": "DMU",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 25.88388889,
+              "Longitude": 93.77361111
+            }
+          },
+          "CityCode": "DMU",
+          "CountryCode": "IN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Dimapur"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Dimapur"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Dimapur"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Dimapur"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Dimapur"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Dimapur"
+              }
+            ]
+          },
+          "UtcOffset": 5.5,
+          "TimeZoneId": "Asia\/Kolkata"
+        },
+        {
+          "AirportCode": "DNK",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 48.35722222,
+              "Longitude": 35.10055556
+            }
+          },
+          "CityCode": "DNK",
+          "CountryCode": "UA",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Dnepropetrovsk"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Dnepropetrovsk"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Dnipropetrovsk-42"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Dnepropetrovsk"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Dnepropetrovsk"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Dnepropetrovsk"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Europe\/Kiev"
+        },
+        {
+          "AirportCode": "DNZ",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 37.78555556,
+              "Longitude": 29.70138889
+            }
+          },
+          "CityCode": "DNZ",
+          "CountryCode": "TR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Denizli"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Denizli"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Denizli"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Denizli"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Denizli"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Denizli"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Europe\/Istanbul"
+        },
+        {
+          "AirportCode": "DOH",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 25.27444444,
+              "Longitude": 51.60833333
+            }
+          },
+          "CityCode": "DOH",
+          "CountryCode": "QA",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Doha"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Doha"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Doha"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Doha"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Doha"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Doha"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Asia\/Qatar"
+        },
+        {
+          "AirportCode": "DOK",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 48.07444444,
+              "Longitude": 37.73972222
+            }
+          },
+          "CityCode": "DOK",
+          "CountryCode": "UA",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Donetsk"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Donetsk"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Donetsk"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Donetsk"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Donetsk"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Donetsk"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Europe\/Kiev"
+        },
+        {
+          "AirportCode": "DPS",
+          "Position": {
+            "Coordinate": {
+              "Latitude": -8.748611111,
+              "Longitude": 115.165
+            }
+          },
+          "CityCode": "DPS",
+          "CountryCode": "ID",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Denpasar-Bali"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Denpasar-Bali"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Denpasar-Bali"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Denpasar-Bali"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Denpasar-Bali"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Denpasar-Bali"
+              }
+            ]
+          },
+          "UtcOffset": 8,
+          "TimeZoneId": "Asia\/Makassar"
+        },
+        {
+          "AirportCode": "DRO",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 37.15138889,
+              "Longitude": -107.7538889
+            }
+          },
+          "CityCode": "DRO",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Durango La Plata"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Durango La Plata"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Durango La Plata"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Durango La Plata"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Durango La Plata"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Durango La Plata"
+              }
+            ]
+          },
+          "UtcOffset": -6,
+          "TimeZoneId": "America\/Denver"
+        },
+        {
+          "AirportCode": "DRS",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 51.13277778,
+              "Longitude": 13.76722222
+            }
+          },
+          "CityCode": "DRS",
+          "CountryCode": "DE",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Dresden"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Dresden"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Dresden"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Dresda"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Dresden"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Dresden"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Europe\/Berlin"
+        },
+        {
+          "AirportCode": "DRT",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 29.37277778,
+              "Longitude": -100.9258333
+            }
+          },
+          "CityCode": "DRT",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Del Rio International"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Del Rio International"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Del Rio International"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Del Rio International"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Del Rio International"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Del Rio International"
+              }
+            ]
+          },
+          "UtcOffset": -5,
+          "TimeZoneId": "America\/Chicago"
+        },
+        {
+          "AirportCode": "DRW",
+          "Position": {
+            "Coordinate": {
+              "Latitude": -12.41472222,
+              "Longitude": 130.8766667
+            }
+          },
+          "CityCode": "DRW",
+          "CountryCode": "AU",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Darwin"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Darwin"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Darwin"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Darwin"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Darwin"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Darwin"
+              }
+            ]
+          },
+          "UtcOffset": 9.5,
+          "TimeZoneId": "Australia\/Darwin"
+        },
+        {
+          "AirportCode": "DSE",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 11.075,
+              "Longitude": 39.71527778
+            }
+          },
+          "CityCode": "DSE",
+          "CountryCode": "ET",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Dessie"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Dessie"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Dessie"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Dessie"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Dessie"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Dessie"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Africa\/Addis_Ababa"
+        },
+        {
+          "AirportCode": "DSM",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 41.53388889,
+              "Longitude": -93.65666667
+            }
+          },
+          "CityCode": "DSM",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Des Moines"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Des Moines, IA"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "デ・モイン"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Des Moines, IA"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Des Moines, IA"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Des Moines, IA"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Des Moines, IA"
+              }
+            ]
+          },
+          "UtcOffset": -5,
+          "TimeZoneId": "America\/Chicago"
+        },
+        {
+          "AirportCode": "DSN",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 39.84972222,
+              "Longitude": 110.0330556
+            }
+          },
+          "CityCode": "DSN",
+          "CountryCode": "CN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Dongsheng"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Dongsheng"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Ordos"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Dongsheng"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Dongsheng"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Dongsheng"
+              }
+            ]
+          },
+          "UtcOffset": 8,
+          "TimeZoneId": "Asia\/Shanghai"
+        },
+        {
+          "AirportCode": "DTM",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 51.51833333,
+              "Longitude": 7.612222222
+            }
+          },
+          "CityCode": "DTM",
+          "CountryCode": "DE",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Dortmund"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Dortmund"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Dortmund"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Dortmund"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Dortmund"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Dortmund"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Europe\/Berlin"
+        },
+        {
+          "AirportCode": "DTN",
+          "CityCode": "SHV",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Shreveport Downtown"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Shreveport Downtown"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Shreveport Downtown"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Shreveport Downtown"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Shreveport Downtown"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Shreveport Downtown"
+              }
+            ]
+          },
+          "UtcOffset": -5,
+          "TimeZoneId": "America\/Chicago"
+        }
+      ]
+    },
+    "Meta": {
+      "@Version": "1.0.0",
+      "Link": [
+        {
+          "@Href": "https:\/\/api.lufthansa.com\/v1\/references\/airports?limit=100&offset=200",
+          "@Rel": "self"
+        },
+        {
+          "@Href": "https:\/\/api.lufthansa.com\/v1\/references\/airports?limit=100&offset=0",
+          "@Rel": "first"
+        },
+        {
+          "@Href": "https:\/\/api.lufthansa.com\/v1\/references\/airports?limit=100&offset=100",
+          "@Rel": "previous"
+        },
+        {
+          "@Href": "https:\/\/api.lufthansa.com\/v1\/references\/airports?limit=100&offset=300",
+          "@Rel": "next"
+        },
+        {
+          "@Href": "https:\/\/api.lufthansa.com\/v1\/references\/airports?limit=100&offset=1200",
+          "@Rel": "last"
+        },
+        {
+          "@Href": "https:\/\/api.lufthansa.com\/v1\/references\/cities\/{cityCode}",
+          "@Rel": "related"
+        },
+        {
+          "@Href": "https:\/\/api.lufthansa.com\/v1\/references\/countries\/{countryCode}",
+          "@Rel": "related"
+        }
+      ],
+      "TotalCount": 1263
+    }
+  }
+}

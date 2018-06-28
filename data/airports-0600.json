@@ -1,0 +1,4292 @@
+{
+  "AirportResource": {
+    "Airports": {
+      "Airport": [
+        {
+          "AirportCode": "IXJ",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 32.69027778,
+              "Longitude": 74.83888889
+            }
+          },
+          "CityCode": "IXJ",
+          "CountryCode": "IN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Jammu"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Jammu"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Jammu"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Jammu"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Jammu"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Jammu"
+              }
+            ]
+          },
+          "UtcOffset": 5.5,
+          "TimeZoneId": "Asia\/Kolkata"
+        },
+        {
+          "AirportCode": "IXL",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 34.13583333,
+              "Longitude": 77.54916667
+            }
+          },
+          "CityCode": "IXL",
+          "CountryCode": "IN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Leh"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Leh"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Leh"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Leh"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Leh"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Leh"
+              }
+            ]
+          },
+          "UtcOffset": 5.5,
+          "TimeZoneId": "Asia\/Kolkata"
+        },
+        {
+          "AirportCode": "IXM",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 9.8325,
+              "Longitude": 78.08805556
+            }
+          },
+          "CityCode": "IXM",
+          "CountryCode": "IN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Madurai"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Madurai"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Madurai"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Madurai"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Madurai"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Madurai"
+              }
+            ]
+          },
+          "UtcOffset": 5.5,
+          "TimeZoneId": "Asia\/Kolkata"
+        },
+        {
+          "AirportCode": "IXR",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 23.31444444,
+              "Longitude": 85.32361111
+            }
+          },
+          "CityCode": "IXR",
+          "CountryCode": "IN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Ranchi"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Ranchi"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Ranchi"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Ranchi"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Ranchi"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Ranchi"
+              }
+            ]
+          },
+          "UtcOffset": 5.5,
+          "TimeZoneId": "Asia\/Kolkata"
+        },
+        {
+          "AirportCode": "IXS",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 24.91222222,
+              "Longitude": 92.98138889
+            }
+          },
+          "CityCode": "IXS",
+          "CountryCode": "IN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Silchar"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Silchar"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Silchar"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Silchar"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Silchar"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Silchar"
+              }
+            ]
+          },
+          "UtcOffset": 5.5,
+          "TimeZoneId": "Asia\/Kolkata"
+        },
+        {
+          "AirportCode": "IXU",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 19.86361111,
+              "Longitude": 75.40111111
+            }
+          },
+          "CityCode": "IXU",
+          "CountryCode": "IN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Aurangabad"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Aurangabad"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Aurangabad"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Aurangabad"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Aurangabad"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Aurangabad"
+              }
+            ]
+          },
+          "UtcOffset": 5.5,
+          "TimeZoneId": "Asia\/Kolkata"
+        },
+        {
+          "AirportCode": "IXZ",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 11.64833333,
+              "Longitude": 92.74361111
+            }
+          },
+          "CityCode": "IXZ",
+          "CountryCode": "IN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Port Blair"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Port Blair"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Port Blair"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Port Blair"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Port Blair"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Port Blair"
+              }
+            ]
+          },
+          "UtcOffset": 5.5,
+          "TimeZoneId": "Asia\/Kolkata"
+        },
+        {
+          "AirportCode": "JAC",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 43.60666667,
+              "Longitude": -110.7369444
+            }
+          },
+          "CityCode": "JAC",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Jackson, Wyoming"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Jackson, WY"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Jackson, WY"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Jackson, WY"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Jackson, WY"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Jackson, WY"
+              }
+            ]
+          },
+          "UtcOffset": -6,
+          "TimeZoneId": "America\/Denver"
+        },
+        {
+          "AirportCode": "JAI",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 26.82166667,
+              "Longitude": 75.80611111
+            }
+          },
+          "CityCode": "JAI",
+          "CountryCode": "IN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Jaipur"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Jaipur"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Jaipur"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Jaipur"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Jaipur"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Jaipur"
+              }
+            ]
+          },
+          "UtcOffset": 5.5,
+          "TimeZoneId": "Asia\/Kolkata"
+        },
+        {
+          "AirportCode": "JAN",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 32.30972222,
+              "Longitude": -90.07583333
+            }
+          },
+          "CityCode": "JAN",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Jackson, Mississippi - International"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Jackson, Mississippi - International"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Jackson, Mississippi - International"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Jackson, Mississippi - International"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Jackson, Mississippi - International"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Jackson, Mississippi - International"
+              }
+            ]
+          },
+          "UtcOffset": -5,
+          "TimeZoneId": "America\/Chicago"
+        },
+        {
+          "AirportCode": "JAX",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 30.48472222,
+              "Longitude": -81.68777778
+            }
+          },
+          "CityCode": "JAX",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Jacksonville, Florida - International"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Jacksonville, International, FL"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Jacksonville, International, FL"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Jacksonville, International, FL"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Jacksonville, International, FL"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Jacksonville, International, FL"
+              }
+            ]
+          },
+          "UtcOffset": -4,
+          "TimeZoneId": "America\/New_York"
+        },
+        {
+          "AirportCode": "JDH",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 26.26055556,
+              "Longitude": 73.04777778
+            }
+          },
+          "CityCode": "JDH",
+          "CountryCode": "IN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Jodhpur"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Jodhpur"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Jodhpur"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Jodhpur"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Jodhpur"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Jodhpur"
+              }
+            ]
+          },
+          "UtcOffset": 5.5,
+          "TimeZoneId": "Asia\/Kolkata"
+        },
+        {
+          "AirportCode": "JDZ",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 29.26666667,
+              "Longitude": 117.1833333
+            }
+          },
+          "CityCode": "JDZ",
+          "CountryCode": "CN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Jingdezhen"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Jingdezhen"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Jingdezhen"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Jingdezhen"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Jingdezhen"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Jingdezhen"
+              }
+            ]
+          },
+          "UtcOffset": 8,
+          "TimeZoneId": "Asia\/Shanghai"
+        },
+        {
+          "AirportCode": "JED",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 21.50555556,
+              "Longitude": 39.20666667
+            }
+          },
+          "CityCode": "JED",
+          "CountryCode": "SA",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Jeddah - King Abdulaziz International"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Dschidda - King Abdulaziz International"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Jeddah - King Abdul Aziz International"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Jeddah - King Abdulaziz International"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Jeddah - King Abdulaziz International"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Jeddah - King Abdulaziz International"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Asia\/Riyadh"
+        },
+        {
+          "AirportCode": "JER",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 49.20805556,
+              "Longitude": -2.195555556
+            }
+          },
+          "CityCode": "JER",
+          "CountryCode": "GB",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Jersey"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Jersey"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Джерси"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Jersey"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Jersey"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Jersey"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Jersey"
+              }
+            ]
+          },
+          "UtcOffset": 1,
+          "TimeZoneId": "Europe\/London"
+        },
+        {
+          "AirportCode": "JFK",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 40.63972222,
+              "Longitude": -73.77888889
+            }
+          },
+          "CityCode": "NYC",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "pl",
+                "$": "New York - JFK International, NY"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "New York - JFK International, NY"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "New York - JFK International, NY"
+              }
+            ]
+          },
+          "UtcOffset": -4,
+          "TimeZoneId": "America\/New_York"
+        },
+        {
+          "AirportCode": "JGA",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 22.46555556,
+              "Longitude": 70.0125
+            }
+          },
+          "CityCode": "JGA",
+          "CountryCode": "IN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Jamnagar"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Jamnagar"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Jamnagar"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Jamnagar"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Jamnagar"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Jamnagar"
+              }
+            ]
+          },
+          "UtcOffset": 5.5,
+          "TimeZoneId": "Asia\/Kolkata"
+        },
+        {
+          "AirportCode": "JHB",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 1.638888889,
+              "Longitude": 103.6708333
+            }
+          },
+          "CityCode": "JHB",
+          "CountryCode": "MY",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Johor Bahru - Sultan Ismail International"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Johor Bahru - Sultan Ismail International"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Johor Bahru - Sultan Ismail International"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Johor Bahru - Sultan Ismail International"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Johor Bahru - Sultan Ismail International"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Johor Bahru - Sultan Ismail International"
+              }
+            ]
+          },
+          "UtcOffset": 8,
+          "TimeZoneId": "Asia\/Kuala_Lumpur"
+        },
+        {
+          "AirportCode": "JHM",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 20.96611111,
+              "Longitude": -156.6772222
+            }
+          },
+          "CityCode": "JHM",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Kapalua"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Kapalua"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Kapalua"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Kapalua"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Kapalua"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Kapalua"
+              }
+            ]
+          },
+          "UtcOffset": -10,
+          "TimeZoneId": "Pacific\/Honolulu"
+        },
+        {
+          "AirportCode": "JIB",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 11.54666667,
+              "Longitude": 43.15777778
+            }
+          },
+          "CityCode": "JIB",
+          "CountryCode": "DJ",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Djibouti"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Djibouti"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Djibouti"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Djibouti"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Djibouti"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Djibouti"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Africa\/Djibouti"
+        },
+        {
+          "AirportCode": "JIJ",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 9.333333333,
+              "Longitude": 42.71666667
+            }
+          },
+          "CityCode": "JIJ",
+          "CountryCode": "ET",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Jijiga"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Jijiga"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Jijiga"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Jijiga"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Jijiga"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Jijiga"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Africa\/Addis_Ababa"
+        },
+        {
+          "AirportCode": "JIM",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 7.654444444,
+              "Longitude": 36.82111111
+            }
+          },
+          "CityCode": "JIM",
+          "CountryCode": "ET",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Jimma"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Jimma"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Jimma"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Jimma"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Jimma"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Jimma"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Africa\/Addis_Ababa"
+        },
+        {
+          "AirportCode": "JJN",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 24.9,
+              "Longitude": 118.5833333
+            }
+          },
+          "CityCode": "JJN",
+          "CountryCode": "CN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Jinjiang"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Quanzhou"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Jinjiang"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Jinjiang"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Jinjiang"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Jinjiang"
+              }
+            ]
+          },
+          "UtcOffset": 8,
+          "TimeZoneId": "Asia\/Shanghai"
+        },
+        {
+          "AirportCode": "JKG",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 57.75777778,
+              "Longitude": 14.07027778
+            }
+          },
+          "CityCode": "JKG",
+          "CountryCode": "SE",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Jonkoping"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Jonkoping"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Jonkoping"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Jonkoping"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Jonkoping"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Jonkoping"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Europe\/Stockholm"
+        },
+        {
+          "AirportCode": "JKH",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 38.345,
+              "Longitude": 26.14166667
+            }
+          },
+          "CityCode": "JKH",
+          "CountryCode": "GR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Chios"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Chios"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Chios"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Chios"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Chios"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Chios"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Europe\/Athens"
+        },
+        {
+          "AirportCode": "JLR",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 23.17777778,
+              "Longitude": 80.05416667
+            }
+          },
+          "CityCode": "JLR",
+          "CountryCode": "IN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Jabalpur"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Jabalpur"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Jabalpur"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Jabalpur"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Jabalpur"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Jabalpur"
+              }
+            ]
+          },
+          "UtcOffset": 5.5,
+          "TimeZoneId": "Asia\/Kolkata"
+        },
+        {
+          "AirportCode": "JMK",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 37.43611111,
+              "Longitude": 25.34444444
+            }
+          },
+          "CityCode": "JMK",
+          "CountryCode": "GR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Mykonos"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Mykonos"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Mykonos"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Mykonos"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Mykonos"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Mykonos"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Europe\/Athens"
+        },
+        {
+          "AirportCode": "JMS",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 46.93,
+              "Longitude": -98.67833333
+            }
+          },
+          "CityCode": "JMS",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Jamestown, North Dakota"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Jamestown, North Dakota"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Jamestown, North Dakota"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Jamestown, North Dakota"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Jamestown, North Dakota"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Jamestown, North Dakota"
+              }
+            ]
+          },
+          "UtcOffset": -5,
+          "TimeZoneId": "America\/Chicago"
+        },
+        {
+          "AirportCode": "JMU",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 46.84333333,
+              "Longitude": 130.4652778
+            }
+          },
+          "CityCode": "JMU",
+          "CountryCode": "CN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Jiamusi"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Jiamusi"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Jiamusi"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Jiamusi"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Jiamusi"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Jiamusi"
+              }
+            ]
+          },
+          "UtcOffset": 8,
+          "TimeZoneId": "Asia\/Shanghai"
+        },
+        {
+          "AirportCode": "JNB",
+          "Position": {
+            "Coordinate": {
+              "Latitude": -26.20416667,
+              "Longitude": 28.04722222
+            }
+          },
+          "CityCode": "JNB",
+          "CountryCode": "ZA",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Johannesburg- International"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Johannesburg- O.R. Tambo International Airport"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Johannesburg- O.R. Tambo International Airport"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Johannesburg- International"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Johannesburg- International"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Johannesburg- International"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Africa\/Johannesburg"
+        },
+        {
+          "AirportCode": "JOI",
+          "Position": {
+            "Coordinate": {
+              "Latitude": -26.22444444,
+              "Longitude": -48.7975
+            }
+          },
+          "CityCode": "JOI",
+          "CountryCode": "BR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Joinville"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Joinville"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Жоинвиль"
+              },
+              {
+                "@LanguageCode": "ko",
+                "$": "조인빌리"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "若因維萊"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "ジョインビレ"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Joinville"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Joinville"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "茹安维尔"
+              },
+              {
+                "@LanguageCode": "pl",
+                "$": "Joinvelle"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Joinville"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Joinville"
+              }
+            ]
+          },
+          "UtcOffset": -3,
+          "TimeZoneId": "America\/Sao_Paulo"
+        },
+        {
+          "AirportCode": "JOK",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 56.71666667,
+              "Longitude": 47.9
+            }
+          },
+          "CityCode": "JOK",
+          "CountryCode": "RU",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Joshkar-Ola"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Joshkar-Ola"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Йошкар-Ола"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Yoshkar-Ola"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Joshkar-Ola"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Joshkar-Ola"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Joshkar-Ola"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Europe\/Moscow"
+        },
+        {
+          "AirportCode": "JRH",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 26.72861111,
+              "Longitude": 94.17777778
+            }
+          },
+          "CityCode": "JRH",
+          "CountryCode": "IN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Jorhat"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Jorhat"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Jorhat"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Jorhat"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Jorhat"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Jorhat"
+              }
+            ]
+          },
+          "UtcOffset": 5.5,
+          "TimeZoneId": "Asia\/Kolkata"
+        },
+        {
+          "AirportCode": "JRO",
+          "Position": {
+            "Coordinate": {
+              "Latitude": -3.427777778,
+              "Longitude": 37.07138889
+            }
+          },
+          "CityCode": "JRO",
+          "CountryCode": "TZ",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Kilimandscharo"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Kilimandscharo"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Kilimanjaro"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Kilimandscharo"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Kilimandscharo"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Kilimandscharo"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Africa\/Dar_es_Salaam"
+        },
+        {
+          "AirportCode": "JSI",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 39.18055556,
+              "Longitude": 23.50555556
+            }
+          },
+          "CityCode": "JSI",
+          "CountryCode": "GR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Skiathos"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Skiathos"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Skiathos"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Skiathos"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Skiathos"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Skiathos"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Europe\/Athens"
+        },
+        {
+          "AirportCode": "JTR",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 36.40638889,
+              "Longitude": 25.47722222
+            }
+          },
+          "CityCode": "JTR",
+          "CountryCode": "GR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Thira"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Thira"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Thira"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Thira"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Thira"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Thira"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Europe\/Athens"
+        },
+        {
+          "AirportCode": "JUB",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 4.870555556,
+              "Longitude": 31.60388889
+            }
+          },
+          "CityCode": "JUB",
+          "CountryCode": "SS",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": {
+              "@LanguageCode": "en",
+              "$": "Juba"
+            }
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Africa\/Juba"
+        },
+        {
+          "AirportCode": "JUJ",
+          "Position": {
+            "Coordinate": {
+              "Latitude": -24.23694444,
+              "Longitude": -65.25583333
+            }
+          },
+          "CityCode": "JUJ",
+          "CountryCode": "AR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Jujuy"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Jujuy"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Jujuy"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Jujuy"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Jujuy"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Jujuy"
+              }
+            ]
+          },
+          "UtcOffset": -3,
+          "TimeZoneId": "America\/Argentina\/Buenos_Aires"
+        },
+        {
+          "AirportCode": "KBP",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 50.345,
+              "Longitude": 30.89472222
+            }
+          },
+          "CityCode": "IEV",
+          "CountryCode": "UA",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Kiev - Borispol"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Kiew Borispol"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "Kiev - Borispol"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Kiev - Boryspil Int´l"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Kiev - Borispol"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Kiev - Borispol"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Kiev - Borispol"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Europe\/Kiev"
+        },
+        {
+          "AirportCode": "KBR",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 6.165277778,
+              "Longitude": 102.2936111
+            }
+          },
+          "CityCode": "KBR",
+          "CountryCode": "MY",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Kota Bharu"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Kota Bharu"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Kota Bharu"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Kota Bharu"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Kota Bharu"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Kota Bharu"
+              }
+            ]
+          },
+          "UtcOffset": 8,
+          "TimeZoneId": "Asia\/Kuala_Lumpur"
+        },
+        {
+          "AirportCode": "KBV",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 8.099166667,
+              "Longitude": 98.98611111
+            }
+          },
+          "CityCode": "KBV",
+          "CountryCode": "TH",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Krabi"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Krabi"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Krabi"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Krabi"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Krabi"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Krabi"
+              }
+            ]
+          },
+          "UtcOffset": 7,
+          "TimeZoneId": "Asia\/Bangkok"
+        },
+        {
+          "AirportCode": "KCH",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 1.484166667,
+              "Longitude": 110.3408333
+            }
+          },
+          "CityCode": "KCH",
+          "CountryCode": "MY",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Kuching"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Kuching"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Kuching"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Kuching"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Kuching"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Kuching"
+              }
+            ]
+          },
+          "UtcOffset": 8,
+          "TimeZoneId": "Asia\/Kuala_Lumpur"
+        },
+        {
+          "AirportCode": "KCM",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 37.18333333,
+              "Longitude": 33.21666667
+            }
+          },
+          "CityCode": "KCM",
+          "CountryCode": "TR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": {
+              "@LanguageCode": "en",
+              "$": "Kahramanmaras"
+            }
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Europe\/Istanbul"
+        },
+        {
+          "AirportCode": "KCZ",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 33.54111111,
+              "Longitude": 133.6769444
+            }
+          },
+          "CityCode": "KCZ",
+          "CountryCode": "JP",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Kochi"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Kochi"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "Kochi"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Kochi"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Kochi"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Kochi"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Kochi"
+              }
+            ]
+          },
+          "UtcOffset": 9,
+          "TimeZoneId": "Asia\/Tokyo"
+        },
+        {
+          "AirportCode": "KEF",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 63.985,
+              "Longitude": -22.60611111
+            }
+          },
+          "CityCode": "REK",
+          "CountryCode": "IS",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Reykjavik - Keflavik International"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Reykjavik - Keflavik International"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Reykjavik - Keflavik International"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Reykjavik - Keflavik International"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Reykjavik - Keflavik International"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Reykjavik - Keflavik International"
+              }
+            ]
+          },
+          "UtcOffset": 0,
+          "TimeZoneId": "Atlantic\/Reykjavik"
+        },
+        {
+          "AirportCode": "KGL",
+          "Position": {
+            "Coordinate": {
+              "Latitude": -1.967777778,
+              "Longitude": 30.14
+            }
+          },
+          "CityCode": "KGL",
+          "CountryCode": "RW",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Kigali"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Kigali"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Kigali"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Kigali"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Kigali"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Kigali"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Africa\/Kigali"
+        },
+        {
+          "AirportCode": "KGS",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 36.79305556,
+              "Longitude": 27.09527778
+            }
+          },
+          "CityCode": "KGS",
+          "CountryCode": "GR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Kos"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Kos"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Kos"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Kos"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Kos"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Kos"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Europe\/Athens"
+        },
+        {
+          "AirportCode": "KHH",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 22.5725,
+              "Longitude": 120.3452778
+            }
+          },
+          "CityCode": "KHH",
+          "CountryCode": "TW",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Kaohsiung International"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Kaohsiung International"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Kaohsiung International"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Kaohsiung International"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Kaohsiung International"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Kaohsiung International"
+              }
+            ]
+          },
+          "UtcOffset": 8,
+          "TimeZoneId": "Asia\/Taipei"
+        },
+        {
+          "AirportCode": "KHI",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 24.90555556,
+              "Longitude": 67.15694444
+            }
+          },
+          "CityCode": "KHI",
+          "CountryCode": "PK",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Karachi"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Karachi"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Karachi"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Karachi"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Karachi"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Karachi"
+              }
+            ]
+          },
+          "UtcOffset": 5,
+          "TimeZoneId": "Asia\/Karachi"
+        },
+        {
+          "AirportCode": "KHN",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 28.865,
+              "Longitude": 115.9
+            }
+          },
+          "CityCode": "KHN",
+          "CountryCode": "CN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Nanchang"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Nanchang"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Nanchang"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Nanchang"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Nanchang"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Nanchang"
+              }
+            ]
+          },
+          "UtcOffset": 8,
+          "TimeZoneId": "Asia\/Shanghai"
+        },
+        {
+          "AirportCode": "KHV",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 48.52666667,
+              "Longitude": 135.1866667
+            }
+          },
+          "CityCode": "KHV",
+          "CountryCode": "RU",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Khabarovsk"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Khabarovsk"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Khabarovsk"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Khabarovsk"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Khabarovsk"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Khabarovsk"
+              }
+            ]
+          },
+          "UtcOffset": 10,
+          "TimeZoneId": "Asia\/Vladivostok"
+        },
+        {
+          "AirportCode": "KIJ",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 37.95333333,
+              "Longitude": 139.1225
+            }
+          },
+          "CityCode": "KIJ",
+          "CountryCode": "JP",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Niigata"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Niigata"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Ниигата"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "Niigata"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Niigata"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Niigata"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Niigata"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Niigata"
+              }
+            ]
+          },
+          "UtcOffset": 9,
+          "TimeZoneId": "Asia\/Tokyo"
+        },
+        {
+          "AirportCode": "KIM",
+          "Position": {
+            "Coordinate": {
+              "Latitude": -28.80583333,
+              "Longitude": 24.76638889
+            }
+          },
+          "CityCode": "KIM",
+          "CountryCode": "ZA",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Kimberley"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Kimberley"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Kimberley"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Kimberley"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Kimberley"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Kimberley"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Africa\/Johannesburg"
+        },
+        {
+          "AirportCode": "KIV",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 46.92777778,
+              "Longitude": 28.93111111
+            }
+          },
+          "CityCode": "KIV",
+          "CountryCode": "MD",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Kishinev"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Chisinau"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Chisinau"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Chisinau"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Chisinau"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Chisinau"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Europe\/Chisinau"
+        },
+        {
+          "AirportCode": "KIX",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 34.42833333,
+              "Longitude": 135.2438889
+            }
+          },
+          "CityCode": "OSA",
+          "CountryCode": "JP",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Osaka - Kansai International"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Osaka - Kansai International"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "Osaka - Kansai　関西 - 大阪"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Osaka - Kansai International"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Osaka - Kansai International"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Osaka - Kansai International"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Osaka - Kansai International"
+              }
+            ]
+          },
+          "UtcOffset": 9,
+          "TimeZoneId": "Asia\/Tokyo"
+        },
+        {
+          "AirportCode": "KJA",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 56.17305556,
+              "Longitude": 92.49333333
+            }
+          },
+          "CityCode": "KJA",
+          "CountryCode": "RU",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Krasnoyarsk"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Krasnoyarsk"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Красноярск"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Krasnoyarsk"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Krasnoyarsk"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Krasnoyarsk"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Krasnoyarsk"
+              }
+            ]
+          },
+          "UtcOffset": 7,
+          "TimeZoneId": "Asia\/Krasnoyarsk"
+        },
+        {
+          "AirportCode": "KJR",
+          "CityCode": "FKB",
+          "CountryCode": "DE",
+          "LocationType": "RailwayStation",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "en",
+                "$": "Karlsruhe - Hbf Railway Station"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "カールスルーエ"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Europe\/Berlin"
+        },
+        {
+          "AirportCode": "KKC",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 16.465,
+              "Longitude": 102.7866667
+            }
+          },
+          "CityCode": "KKC",
+          "CountryCode": "TH",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Khon Kaen"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Khon Kaen"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Khon Kaen"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Khon Kaen"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Khon Kaen"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Khon Kaen"
+              }
+            ]
+          },
+          "UtcOffset": 7,
+          "TimeZoneId": "Asia\/Bangkok"
+        },
+        {
+          "AirportCode": "KKJ",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 33.83305556,
+              "Longitude": 130.9494444
+            }
+          },
+          "CityCode": "KKJ",
+          "CountryCode": "JP",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Kitakyushu"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Kitakyushu"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "Kitakyushu"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Kita Kyushu"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Kitakyushu"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Kitakyushu"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Kitakyushu"
+              }
+            ]
+          },
+          "UtcOffset": 9,
+          "TimeZoneId": "Asia\/Tokyo"
+        },
+        {
+          "AirportCode": "KKN",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 69.72277778,
+              "Longitude": 29.89333333
+            }
+          },
+          "CityCode": "KKN",
+          "CountryCode": "NO",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Kirkenes"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Kirkenes"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Kirkenes"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Kirkenes"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Kirkenes"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Kirkenes"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Europe\/Oslo"
+        },
+        {
+          "AirportCode": "KLO",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 11.68277778,
+              "Longitude": 122.3772222
+            }
+          },
+          "CityCode": "KLO",
+          "CountryCode": "PH",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Kalibo"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Kalibo"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Kalibo"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Kalibo"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Kalibo"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Kalibo"
+              }
+            ]
+          },
+          "UtcOffset": 8,
+          "TimeZoneId": "Asia\/Manila"
+        },
+        {
+          "AirportCode": "KLR",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 56.685,
+              "Longitude": 16.28722222
+            }
+          },
+          "CityCode": "KLR",
+          "CountryCode": "SE",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Kalmar"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Kalmar"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Kalmar"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Kalmar"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Kalmar"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Kalmar"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Europe\/Stockholm"
+        },
+        {
+          "AirportCode": "KLT",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 49,
+              "Longitude": 7
+            }
+          },
+          "CityCode": "KLT",
+          "CountryCode": "DE",
+          "LocationType": "RailwayStation",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Kaiserslautern"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Kaiserslautern"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Kaiserslautern"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Kaiserslautern"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Kaiserslautern"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Kaiserslautern"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Europe\/Berlin"
+        },
+        {
+          "AirportCode": "KLU",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 46.64305556,
+              "Longitude": 14.34166667
+            }
+          },
+          "CityCode": "KLU",
+          "CountryCode": "AT",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Klagenfurt"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Klagenfurt"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Клагенфурт"
+              },
+              {
+                "@LanguageCode": "ko",
+                "$": "클라겐푸르트"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "克拉根福"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "クラーゲンフルト"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Klagenfurt"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Klagenfurt"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "克拉根福"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Klagenfurt"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Klagenfurt"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Europe\/Vienna"
+        },
+        {
+          "AirportCode": "KLX",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 37.06944444,
+              "Longitude": 22.02777778
+            }
+          },
+          "CityCode": "KLX",
+          "CountryCode": "GR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Kalamata"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Kalamata"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Kalamata"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Kalamata"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Kalamata"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Kalamata"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Europe\/Athens"
+        },
+        {
+          "AirportCode": "KMG",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 24.9925,
+              "Longitude": 102.7436111
+            }
+          },
+          "CityCode": "KMG",
+          "CountryCode": "CN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Kunming"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Kunming"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Kunming"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Kunming"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Kunming"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Kunming"
+              }
+            ]
+          },
+          "UtcOffset": 8,
+          "TimeZoneId": "Asia\/Shanghai"
+        },
+        {
+          "AirportCode": "KMI",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 31.87444444,
+              "Longitude": 131.4438889
+            }
+          },
+          "CityCode": "KMI",
+          "CountryCode": "JP",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Miyazaki"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Miyazaki"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "Miyazaki"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Miyazaki"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Miyazaki"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Miyazaki"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Miyazaki"
+              }
+            ]
+          },
+          "UtcOffset": 9,
+          "TimeZoneId": "Asia\/Tokyo"
+        },
+        {
+          "AirportCode": "KMJ",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 32.83194444,
+              "Longitude": 130.8525
+            }
+          },
+          "CityCode": "KMJ",
+          "CountryCode": "JP",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Kumamoto"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Kumamoto"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "Kumamoto"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Kumamoto"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Kumamoto"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Kumamoto"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Kumamoto"
+              }
+            ]
+          },
+          "UtcOffset": 9,
+          "TimeZoneId": "Asia\/Tokyo"
+        },
+        {
+          "AirportCode": "KMQ",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 36.39388889,
+              "Longitude": 136.4169444
+            }
+          },
+          "CityCode": "KMQ",
+          "CountryCode": "JP",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Komatsu"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Komatsu"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "Komatsu"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Komatsu"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Komatsu"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Komatsu"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Komatsu"
+              }
+            ]
+          },
+          "UtcOffset": 9,
+          "TimeZoneId": "Asia\/Tokyo"
+        },
+        {
+          "AirportCode": "KNC",
+          "CityCode": "KNC",
+          "CountryCode": "CN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Ji'An"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Ji'An"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Ji'An"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Ji'An"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Ji'An"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Ji'An"
+              }
+            ]
+          },
+          "UtcOffset": 8,
+          "TimeZoneId": "Asia\/Shanghai"
+        },
+        {
+          "AirportCode": "KNU",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 26.40277778,
+              "Longitude": 80.4125
+            }
+          },
+          "CityCode": "KNU",
+          "CountryCode": "IN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Kanpur"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Kanpur"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Kanpur"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Kanpur"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Kanpur"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Kanpur"
+              }
+            ]
+          },
+          "UtcOffset": 5.5,
+          "TimeZoneId": "Asia\/Kolkata"
+        },
+        {
+          "AirportCode": "KOA",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 19.73888889,
+              "Longitude": -156.0455556
+            }
+          },
+          "CityCode": "KOA",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Kona"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Kona"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Kona"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Kona"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Kona"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Kona"
+              }
+            ]
+          },
+          "UtcOffset": -10,
+          "TimeZoneId": "Pacific\/Honolulu"
+        },
+        {
+          "AirportCode": "KOJ",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 31.80194444,
+              "Longitude": 130.7202778
+            }
+          },
+          "CityCode": "KOJ",
+          "CountryCode": "JP",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Kagoshima"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Kagoshima"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "Kagoshima"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Kagoshima"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Kagoshima"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Kagoshima"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Kagoshima"
+              }
+            ]
+          },
+          "UtcOffset": 9,
+          "TimeZoneId": "Asia\/Tokyo"
+        },
+        {
+          "AirportCode": "KPO",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 35.98472222,
+              "Longitude": 129.4194444
+            }
+          },
+          "CityCode": "KPO",
+          "CountryCode": "KR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "P'Ohang"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "P'Ohang"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "P'Ohang"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "P'Ohang"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "P'Ohang"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "P'Ohang"
+              }
+            ]
+          },
+          "UtcOffset": 9,
+          "TimeZoneId": "Asia\/Seoul"
+        },
+        {
+          "AirportCode": "KRK",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 50.07777778,
+              "Longitude": 19.78472222
+            }
+          },
+          "CityCode": "KRK",
+          "CountryCode": "PL",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Krakow"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Krakow"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "Cracóvia"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Krakow"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Krakow"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Krakow"
+              },
+              {
+                "@LanguageCode": "pl",
+                "$": "Kraków"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Krakow"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Europe\/Warsaw"
+        },
+        {
+          "AirportCode": "KRN",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 67.82222222,
+              "Longitude": 20.34583333
+            }
+          },
+          "CityCode": "KRN",
+          "CountryCode": "SE",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Kiruna"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Kiruna"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Kiruna"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Kiruna"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Kiruna"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Kiruna"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Europe\/Stockholm"
+        },
+        {
+          "AirportCode": "KRR",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 45.03472222,
+              "Longitude": 39.17055556
+            }
+          },
+          "CityCode": "KRR",
+          "CountryCode": "RU",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Krasnodar"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Krasnodar"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Краснодар"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Krasnodar"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Krasnodar"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Krasnodar"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Krasnodar"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Europe\/Moscow"
+        },
+        {
+          "AirportCode": "KRS",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 58.20305556,
+              "Longitude": 8.084166667
+            }
+          },
+          "CityCode": "KRS",
+          "CountryCode": "NO",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Kristiansand - Kjevik"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Kristiansand - Kjevik"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Кристиансанд"
+              },
+              {
+                "@LanguageCode": "ko",
+                "$": "크리스티안산"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "克里斯蒂安桑"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "クリスチャンサン"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Kristiansand - Kjevik"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Kristiansand - Kjevik"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "克里斯蒂安桑"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Kristiansand - Kjevik"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Kristiansand - Kjevik"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Europe\/Oslo"
+        },
+        {
+          "AirportCode": "KRT",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 15.59944444,
+              "Longitude": 32.55611111
+            }
+          },
+          "CityCode": "KRT",
+          "CountryCode": "SD",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Khartoum"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Khartoum"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Khartoum"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Khartoum"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Khartoum"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Khartoum"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Africa\/Khartoum"
+        },
+        {
+          "AirportCode": "KSC",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 48.66305556,
+              "Longitude": 21.24111111
+            }
+          },
+          "CityCode": "KSC",
+          "CountryCode": "SK",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Kosice"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Kosice"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Kosice"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Kosice"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Kosice"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Kosice"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Europe\/Bratislava"
+        },
+        {
+          "AirportCode": "KSD",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 59.36166667,
+              "Longitude": 13.46944444
+            }
+          },
+          "CityCode": "KSD",
+          "CountryCode": "SE",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Karlstad"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Karlstad"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Karlstad"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Karlstad"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Karlstad"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Karlstad"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Europe\/Stockholm"
+        },
+        {
+          "AirportCode": "KSU",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 63.11472222,
+              "Longitude": 7.844444444
+            }
+          },
+          "CityCode": "KSU",
+          "CountryCode": "NO",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Kristiansund - Kvernberget"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Kristiansund - Kvernberget"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Kristiansund - Kvernberget"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Kristiansund - Kvernberget"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Kristiansund - Kvernberget"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Kristiansund - Kvernberget"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Europe\/Oslo"
+        },
+        {
+          "AirportCode": "KSY",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 40.56222222,
+              "Longitude": 43.115
+            }
+          },
+          "CityCode": "KSY",
+          "CountryCode": "TR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Kars"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Kars"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Kars"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Kars"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Kars"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Kars"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Europe\/Istanbul"
+        },
+        {
+          "AirportCode": "KTM",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 27.70055556,
+              "Longitude": 85.36305556
+            }
+          },
+          "CityCode": "KTM",
+          "CountryCode": "NP",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Kathmandu - Tribhuvan"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Kathmandu - Tribhuvan"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Kathmandu - Tribhuvan"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Kathmandu - Tribhuvan"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Kathmandu - Tribhuvan"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Kathmandu - Tribhuvan"
+              }
+            ]
+          },
+          "UtcOffset": 5.75,
+          "TimeZoneId": "Asia\/Kathmandu"
+        },
+        {
+          "AirportCode": "KTN",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 55.35555556,
+              "Longitude": -131.7138889
+            }
+          },
+          "CityCode": "KTN",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Ketchikan International"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Ketchikan International"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Ketchikan International"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Ketchikan International"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Ketchikan International"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Ketchikan International"
+              }
+            ]
+          },
+          "UtcOffset": -8,
+          "TimeZoneId": "America\/Anchorage"
+        },
+        {
+          "AirportCode": "KTT",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 67.70111111,
+              "Longitude": 24.84694444
+            }
+          },
+          "CityCode": "KTT",
+          "CountryCode": "FI",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Kittila"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Kittila"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Kittila"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Kittila"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Kittila"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Kittila"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Europe\/Helsinki"
+        },
+        {
+          "AirportCode": "KTW",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 50.47416667,
+              "Longitude": 19.08
+            }
+          },
+          "CityCode": "KTW",
+          "CountryCode": "PL",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Katowice"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Katowice"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Kattowitz"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Katowice"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Katowice"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Katowice"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Europe\/Warsaw"
+        },
+        {
+          "AirportCode": "KUA",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 3.772222222,
+              "Longitude": 103.2102778
+            }
+          },
+          "CityCode": "KUA",
+          "CountryCode": "MY",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Kuantan"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Kuantan"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Kuantan"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Kuantan"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Kuantan"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Kuantan"
+              }
+            ]
+          },
+          "UtcOffset": 8,
+          "TimeZoneId": "Asia\/Kuala_Lumpur"
+        },
+        {
+          "AirportCode": "KUF",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 53.2,
+              "Longitude": 50.15
+            }
+          },
+          "CityCode": "KUF",
+          "CountryCode": "RU",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Samara"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Samara"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Самара"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Samara Int'l Apt. Kuromoch"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Samara"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Samara"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Samara"
+              }
+            ]
+          },
+          "UtcOffset": 4,
+          "TimeZoneId": "Europe\/Samara"
+        },
+        {
+          "AirportCode": "KUH",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 43.03972222,
+              "Longitude": 144.2038889
+            }
+          },
+          "CityCode": "KUH",
+          "CountryCode": "JP",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Kushiro"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Kushiro"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "Kushiro"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Kushiro"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Kushiro"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Kushiro"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Kushiro"
+              }
+            ]
+          },
+          "UtcOffset": 9,
+          "TimeZoneId": "Asia\/Tokyo"
+        },
+        {
+          "AirportCode": "KUL",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 3.129722222,
+              "Longitude": 101.5519444
+            }
+          },
+          "CityCode": "KUL",
+          "CountryCode": "MY",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Kuala Lumpur International Airport (Sepang)"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Kuala Lumpur International Airport (Sepang)"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Kuala Lumpur Int'l (Sepang)"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Kuala Lumpur International Airport (Sepang)"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Kuala Lumpur International Airport (Sepang)"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Kuala Lumpur International Airport (Sepang)"
+              }
+            ]
+          },
+          "UtcOffset": 8,
+          "TimeZoneId": "Asia\/Kuala_Lumpur"
+        },
+        {
+          "AirportCode": "KUO",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 63.00722222,
+              "Longitude": 27.79777778
+            }
+          },
+          "CityCode": "KUO",
+          "CountryCode": "FI",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Kuopio"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Kuopio"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Kuopio"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Kuopio"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Kuopio"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Kuopio"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Europe\/Helsinki"
+        },
+        {
+          "AirportCode": "KVA",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 40.97277778,
+              "Longitude": 24.34194444
+            }
+          },
+          "CityCode": "KVA",
+          "CountryCode": "GR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Kavala"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Kavala"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Kavala"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Kavala"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Kavala"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Kavala"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Europe\/Athens"
+        },
+        {
+          "AirportCode": "KVX",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 58.5,
+              "Longitude": 49.35
+            }
+          },
+          "CityCode": "KVX",
+          "CountryCode": "RU",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Kirov"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Kirov"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Киров"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Kirov"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Kirov"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Kirov"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Kirov"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Europe\/Moscow"
+        },
+        {
+          "AirportCode": "KWE",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 26.40944444,
+              "Longitude": 106.5316667
+            }
+          },
+          "CityCode": "KWE",
+          "CountryCode": "CN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Guiyang"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Guiyang"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Guiyang"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Guiyang"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Guiyang"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Guiyang"
+              }
+            ]
+          },
+          "UtcOffset": 8,
+          "TimeZoneId": "Asia\/Shanghai"
+        },
+        {
+          "AirportCode": "KWI",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 29.23027778,
+              "Longitude": 47.97527778
+            }
+          },
+          "CityCode": "KWI",
+          "CountryCode": "KW",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Kuwait International"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Kuwait International"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Kuwait International"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Kuwait International"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Kuwait International"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Kuwait International"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Asia\/Kuwait"
+        },
+        {
+          "AirportCode": "KWJ",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 35.12333333,
+              "Longitude": 126.8108333
+            }
+          },
+          "CityCode": "KWJ",
+          "CountryCode": "KR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Kwangju"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Gwangju"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Kwangju"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Kwangju"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Kwangju"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Kwangju"
+              }
+            ]
+          },
+          "UtcOffset": 9,
+          "TimeZoneId": "Asia\/Seoul"
+        },
+        {
+          "AirportCode": "KWL",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 25.21805556,
+              "Longitude": 110.0391667
+            }
+          },
+          "CityCode": "KWL",
+          "CountryCode": "CN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Guilin"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Guilin"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Guilin"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Guilin"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Guilin"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Guilin"
+              }
+            ]
+          },
+          "UtcOffset": 8,
+          "TimeZoneId": "Asia\/Shanghai"
+        },
+        {
+          "AirportCode": "KWQ",
+          "CityCode": "KSF",
+          "CountryCode": "DE",
+          "LocationType": "RailwayStation",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Kassel\/Calden"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Kassel\/Calden"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Kassel - Railway Station Wilhelmshoehe"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Kassel\/Calden"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Kassel\/Calden"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Kassel\/Calden"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Europe\/Berlin"
+        },
+        {
+          "AirportCode": "KYA",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 37.97916667,
+              "Longitude": 32.56222222
+            }
+          },
+          "CityCode": "KYA",
+          "CountryCode": "TR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Konya"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Konya"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Konya"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Konya"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Konya"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Konya"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Europe\/Istanbul"
+        }
+      ]
+    },
+    "Meta": {
+      "@Version": "1.0.0",
+      "Link": [
+        {
+          "@Href": "https:\/\/api.lufthansa.com\/v1\/references\/airports?limit=100&offset=500",
+          "@Rel": "self"
+        },
+        {
+          "@Href": "https:\/\/api.lufthansa.com\/v1\/references\/airports?limit=100&offset=0",
+          "@Rel": "first"
+        },
+        {
+          "@Href": "https:\/\/api.lufthansa.com\/v1\/references\/airports?limit=100&offset=400",
+          "@Rel": "previous"
+        },
+        {
+          "@Href": "https:\/\/api.lufthansa.com\/v1\/references\/airports?limit=100&offset=600",
+          "@Rel": "next"
+        },
+        {
+          "@Href": "https:\/\/api.lufthansa.com\/v1\/references\/airports?limit=100&offset=1200",
+          "@Rel": "last"
+        },
+        {
+          "@Href": "https:\/\/api.lufthansa.com\/v1\/references\/cities\/{cityCode}",
+          "@Rel": "related"
+        },
+        {
+          "@Href": "https:\/\/api.lufthansa.com\/v1\/references\/countries\/{countryCode}",
+          "@Rel": "related"
+        }
+      ],
+      "TotalCount": 1263
+    }
+  }
+}

@@ -1,0 +1,142 @@
+{
+	"info": {
+		"_postman_id": "5756640f-f13b-4536-9011-0e57552ffa6f",
+		"name": "airports",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "GET /en/airports.json raw file",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"url": {
+					"raw": "{{host}}/api/airports",
+					"host": [
+						"{{host}}"
+					],
+					"path": [
+						"api",
+						"airports"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GET /api/airports",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"url": {
+					"raw": "{{host}}/api/airports",
+					"host": [
+						"{{host}}"
+					],
+					"path": [
+						"api",
+						"airports"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GET /api/airports/[code]",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"url": {
+					"raw": "{{host}}/api/airports/LHR",
+					"host": [
+						"{{host}}"
+					],
+					"path": [
+						"api",
+						"airports",
+						"LHR"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GET /api/airports?name",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"url": {
+					"raw": "{{host}}/api/airports?name=London",
+					"host": [
+						"{{host}}"
+					],
+					"path": [
+						"api",
+						"airports"
+					],
+					"query": [
+						{
+							"key": "name",
+							"value": "London"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GET /api/airports?country",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"url": {
+					"raw": "{{host}}/api/airports?country=GB",
+					"host": [
+						"{{host}}"
+					],
+					"path": [
+						"api",
+						"airports"
+					],
+					"query": [
+						{
+							"key": "country",
+							"value": "GB"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GET /api/airports?city",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"url": {
+					"raw": "{{host}}/api/airports?city=LON",
+					"host": [
+						"{{host}}"
+					],
+					"path": [
+						"api",
+						"airports"
+					],
+					"query": [
+						{
+							"key": "city",
+							"value": "LON"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

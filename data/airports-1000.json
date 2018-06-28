@@ -1,0 +1,4350 @@
+{
+  "AirportResource": {
+    "Airports": {
+      "Airport": [
+        {
+          "AirportCode": "RCB",
+          "Position": {
+            "Coordinate": {
+              "Latitude": -28.74055556,
+              "Longitude": 32.09305556
+            }
+          },
+          "CityCode": "RCB",
+          "CountryCode": "ZA",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Richards Bay"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Richards Bay"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Richards Bay"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Richards Bay"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Richards Bay"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Richards Bay"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Africa\/Johannesburg"
+        },
+        {
+          "AirportCode": "RDD",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 40.50833333,
+              "Longitude": -122.2922222
+            }
+          },
+          "CityCode": "RDD",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Redding"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Redding"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Redding"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Redding"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Redding"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Redding"
+              }
+            ]
+          },
+          "UtcOffset": -7,
+          "TimeZoneId": "America\/Los_Angeles"
+        },
+        {
+          "AirportCode": "RDM",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 44.25444444,
+              "Longitude": -121.1513889
+            }
+          },
+          "CityCode": "RDM",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Redmond"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Redmond"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Redmond"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Redmond"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Redmond"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Redmond"
+              }
+            ]
+          },
+          "UtcOffset": -7,
+          "TimeZoneId": "America\/Los_Angeles"
+        },
+        {
+          "AirportCode": "RDU",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 35.87527778,
+              "Longitude": -78.78194444
+            }
+          },
+          "CityCode": "RDU",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Raleigh\/Durham"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Raleigh\/Durham, NC"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Raleigh\/Durham, NC"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Raleigh\/Durham, NC"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Raleigh\/Durham, NC"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Raleigh\/Durham, NC"
+              }
+            ]
+          },
+          "UtcOffset": -4,
+          "TimeZoneId": "America\/New_York"
+        },
+        {
+          "AirportCode": "REC",
+          "Position": {
+            "Coordinate": {
+              "Latitude": -8.125833333,
+              "Longitude": -34.92388889
+            }
+          },
+          "CityCode": "REC",
+          "CountryCode": "BR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Recife - Guararapes International"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Recife - Guararapes International"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Recife - Guararapes International"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Recife - Guararapes International"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Recife - Guararapes International"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Recife - Guararapes International"
+              }
+            ]
+          },
+          "UtcOffset": -3,
+          "TimeZoneId": "America\/Belem"
+        },
+        {
+          "AirportCode": "REG",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 38.07527778,
+              "Longitude": 15.65083333
+            }
+          },
+          "CityCode": "REG",
+          "CountryCode": "IT",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Reggio Calabria - Tito Menniti"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Reggio Calabria - Tito Menniti"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Reggio Calabria - Tito Menniti"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Reggio Calabria - Tito Menniti"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Reggio Calabria - Tito Menniti"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Reggio Calabria - Tito Menniti"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Europe\/Rome"
+        },
+        {
+          "AirportCode": "REL",
+          "Position": {
+            "Coordinate": {
+              "Latitude": -43.21055556,
+              "Longitude": -65.27027778
+            }
+          },
+          "CityCode": "REL",
+          "CountryCode": "AR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Trelew"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Trelew"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Трелью"
+              },
+              {
+                "@LanguageCode": "ko",
+                "$": "트렐레우"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "Trelev"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "特雷利烏"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "トレリュー"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Trelew"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Trelew"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Trelew"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "特雷利乌"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Trelew"
+              }
+            ]
+          },
+          "UtcOffset": -3,
+          "TimeZoneId": "America\/Argentina\/Buenos_Aires"
+        },
+        {
+          "AirportCode": "REP",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 13.40888889,
+              "Longitude": 103.8158333
+            }
+          },
+          "CityCode": "REP",
+          "CountryCode": "KH",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Siem Reap"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Siem Reap"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Siem Reap"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Siem Reap"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Siem Reap"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Siem Reap"
+              }
+            ]
+          },
+          "UtcOffset": 7,
+          "TimeZoneId": "Asia\/Phnom_Penh"
+        },
+        {
+          "AirportCode": "RES",
+          "Position": {
+            "Coordinate": {
+              "Latitude": -27.45138889,
+              "Longitude": -59.05083333
+            }
+          },
+          "CityCode": "RES",
+          "CountryCode": "AR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Resistencia"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Resistencia"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Ресистенсия"
+              },
+              {
+                "@LanguageCode": "ko",
+                "$": "레지스텐시아"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "雷西斯滕西亞"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "レシステンシア"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Resistencia"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Resistencia"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Resistencia"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "雷西斯滕西亚"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Resistencia"
+              }
+            ]
+          },
+          "UtcOffset": -3,
+          "TimeZoneId": "America\/Argentina\/Buenos_Aires"
+        },
+        {
+          "AirportCode": "RGL",
+          "Position": {
+            "Coordinate": {
+              "Latitude": -51.60916667,
+              "Longitude": -69.33916667
+            }
+          },
+          "CityCode": "RGL",
+          "CountryCode": "AR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Rio Gallegos International"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Rio Gallegos International"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Rio Gallegos International"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Rio Gallegos International"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Rio Gallegos International"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Rio Gallegos International"
+              }
+            ]
+          },
+          "UtcOffset": -3,
+          "TimeZoneId": "America\/Argentina\/Buenos_Aires"
+        },
+        {
+          "AirportCode": "RGN",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 16.90666667,
+              "Longitude": 96.13166667
+            }
+          },
+          "CityCode": "RGN",
+          "CountryCode": "MM",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Yangon\/Rangoon"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Yangon"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Yangon"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Yangon\/Rangoon"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Yangon\/Rangoon"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Yangon\/Rangoon"
+              }
+            ]
+          },
+          "UtcOffset": 6.5,
+          "TimeZoneId": "Asia\/Rangoon"
+        },
+        {
+          "AirportCode": "RHO",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 36.38472222,
+              "Longitude": 28.11833333
+            }
+          },
+          "CityCode": "RHO",
+          "CountryCode": "GR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Rhodes"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Rhodes Diagoras Airport"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Rhodos"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Rhodes"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Rhodes"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Rhodes"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Europe\/Athens"
+        },
+        {
+          "AirportCode": "RIC",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 37.50611111,
+              "Longitude": -77.3225
+            }
+          },
+          "CityCode": "RIC",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Richmond - Byrd Field International"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Richmond - Byrd Field International, VA"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Richmond - Byrd Field International, VA"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Richmond - Byrd Field International, VA"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Richmond - Byrd Field International, VA"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Richmond - Byrd Field International, VA"
+              }
+            ]
+          },
+          "UtcOffset": -4,
+          "TimeZoneId": "America\/New_York"
+        },
+        {
+          "AirportCode": "RIW",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 43.06444444,
+              "Longitude": -108.4569444
+            }
+          },
+          "CityCode": "RIW",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Riverton"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Riverton"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Riverton"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Riverton"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Riverton"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Riverton"
+              }
+            ]
+          },
+          "UtcOffset": -6,
+          "TimeZoneId": "America\/Denver"
+        },
+        {
+          "AirportCode": "RIX",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 56.92361111,
+              "Longitude": 23.97111111
+            }
+          },
+          "CityCode": "RIX",
+          "CountryCode": "LV",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Riga"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Riga"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Riga"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Riga"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Riga"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Riga"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Europe\/Riga"
+        },
+        {
+          "AirportCode": "RJK",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 45.21694444,
+              "Longitude": 14.57027778
+            }
+          },
+          "CityCode": "RJK",
+          "CountryCode": "HR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Rijeka"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Rijeka"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Rijeka"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Rijeka"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Rijeka"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Rijeka"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Europe\/Zagreb"
+        },
+        {
+          "AirportCode": "RKS",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 41.59638889,
+              "Longitude": -109.0658333
+            }
+          },
+          "CityCode": "RKS",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Rock Springs"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Rock Springs"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Rock Springs"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Rock Springs"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Rock Springs"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Rock Springs"
+              }
+            ]
+          },
+          "UtcOffset": -6,
+          "TimeZoneId": "America\/Denver"
+        },
+        {
+          "AirportCode": "RLG",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 53.91805556,
+              "Longitude": 12.27833333
+            }
+          },
+          "CityCode": "RLG",
+          "CountryCode": "DE",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Rostock-Laage"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Rostock-Laage"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Rostock-Laage"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Rostock-Laage"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Rostock-Laage"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Rostock-Laage"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Europe\/Berlin"
+        },
+        {
+          "AirportCode": "RMF",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 25.55722222,
+              "Longitude": 34.58361111
+            }
+          },
+          "CityCode": "RMF",
+          "CountryCode": "EG",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Marsa Alam"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Marsa Alam"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Marsa Alam"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Marsa Alam"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Marsa Alam"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Marsa Alam"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Africa\/Cairo"
+        },
+        {
+          "AirportCode": "RNB",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 56.25833333,
+              "Longitude": 15.26111111
+            }
+          },
+          "CityCode": "RNB",
+          "CountryCode": "SE",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Ronneby"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Ronneby"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Ronneby"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Ronneby"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Ronneby"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Ronneby"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Europe\/Stockholm"
+        },
+        {
+          "AirportCode": "RNO",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 39.49777778,
+              "Longitude": -119.7675
+            }
+          },
+          "CityCode": "RNO",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Reno - Cannon International"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Reno - Cannon International, NV"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Reno - Cannon International, NV"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Reno - Cannon International, NV"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Reno - Cannon International, NV"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Reno - Cannon International, NV"
+              }
+            ]
+          },
+          "UtcOffset": -7,
+          "TimeZoneId": "America\/Los_Angeles"
+        },
+        {
+          "AirportCode": "ROA",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 37.32472222,
+              "Longitude": -79.97638889
+            }
+          },
+          "CityCode": "ROA",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Roanoke"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Roanoke, VA"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Roanoke, VA"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Roanoke, VA"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Roanoke, VA"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Roanoke, VA"
+              }
+            ]
+          },
+          "UtcOffset": -4,
+          "TimeZoneId": "America\/New_York"
+        },
+        {
+          "AirportCode": "ROB",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 6.239722222,
+              "Longitude": -10.35888889
+            }
+          },
+          "CityCode": "MLW",
+          "CountryCode": "LR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "ru",
+                "$": "Монровия"
+              },
+              {
+                "@LanguageCode": "ko",
+                "$": "몬로비아"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "Monróvia"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "蒙羅維亞"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "モンロビア"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Monrovia - Robertsville International"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "蒙罗维亚"
+              }
+            ]
+          },
+          "UtcOffset": 0,
+          "TimeZoneId": "Africa\/Monrovia"
+        },
+        {
+          "AirportCode": "ROC",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 43.12138889,
+              "Longitude": -77.67083333
+            }
+          },
+          "CityCode": "ROC",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Rochester"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Rochester, NY"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Rochester, NY"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Rochester, NY"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Rochester, NY"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Rochester, NY"
+              }
+            ]
+          },
+          "UtcOffset": -4,
+          "TimeZoneId": "America\/New_York"
+        },
+        {
+          "AirportCode": "ROS",
+          "Position": {
+            "Coordinate": {
+              "Latitude": -32.90555556,
+              "Longitude": -60.78666667
+            }
+          },
+          "CityCode": "ROS",
+          "CountryCode": "AR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Rosario"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Rosario"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Rosario"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Rosario"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Rosario"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Rosario"
+              }
+            ]
+          },
+          "UtcOffset": -3,
+          "TimeZoneId": "America\/Argentina\/Buenos_Aires"
+        },
+        {
+          "AirportCode": "ROV",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 47.25833333,
+              "Longitude": 39.81805556
+            }
+          },
+          "CityCode": "ROV",
+          "CountryCode": "RU",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Rostov"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Rostov-on-Don"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Ростов"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Rostov-on-Don"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Rostov-on-Don"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Rostov-on-Don"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Rostov-on-Don"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Europe\/Moscow"
+        },
+        {
+          "AirportCode": "RPR",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 21.18194444,
+              "Longitude": 81.74388889
+            }
+          },
+          "CityCode": "RPR",
+          "CountryCode": "IN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Raipur"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Raipur"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Raipur"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Raipur"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Raipur"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Raipur"
+              }
+            ]
+          },
+          "UtcOffset": 5.5,
+          "TimeZoneId": "Asia\/Kolkata"
+        },
+        {
+          "AirportCode": "RSU",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 34.83694444,
+              "Longitude": 127.6188889
+            }
+          },
+          "CityCode": "RSU",
+          "CountryCode": "KR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Yosu"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Yosu"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Yeosu"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Yosu"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Yosu"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Yosu"
+              }
+            ]
+          },
+          "UtcOffset": 9,
+          "TimeZoneId": "Asia\/Seoul"
+        },
+        {
+          "AirportCode": "RSW",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 26.53611111,
+              "Longitude": -81.755
+            }
+          },
+          "CityCode": "FMY",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Fort Myers - SW Florida Region"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Fort Myers - SW Florida Region, FL"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Fort Myers - SW Florida Region, FL"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Fort Myers - SW Florida Region, FL"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Fort Myers - SW Florida Region, FL"
+              },
+              {
+                "@LanguageCode": "nl",
+                "$": "Fort Myers (Zuidwest Florida Regional)"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Fort Myers - SW Florida Region, FL"
+              }
+            ]
+          },
+          "UtcOffset": -4,
+          "TimeZoneId": "America\/New_York"
+        },
+        {
+          "AirportCode": "RTB",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 16.31472222,
+              "Longitude": -86.52583333
+            }
+          },
+          "CityCode": "RTB",
+          "CountryCode": "HN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Roatan"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Roatan"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Roatan"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Roatan"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Roatan"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Roatan"
+              }
+            ]
+          },
+          "UtcOffset": -6,
+          "TimeZoneId": "America\/Tegucigalpa"
+        },
+        {
+          "AirportCode": "RTM",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 51.95833333,
+              "Longitude": 4.444444444
+            }
+          },
+          "CityCode": "RTM",
+          "CountryCode": "NL",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Rotterdam"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Rotterdam"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Rotterdam"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Rotterdam"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Rotterdam"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Rotterdam"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Europe\/Amsterdam"
+        },
+        {
+          "AirportCode": "RUH",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 24.95916667,
+              "Longitude": 46.69611111
+            }
+          },
+          "CityCode": "RUH",
+          "CountryCode": "SA",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Riyadh - King Khaled International"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Riad - King Khaled International"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "Riade"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Riyadh - King Khaled International"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Riyadh - King Khaled International"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Riyadh - King Khaled International"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Riyadh - King Khaled International"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Asia\/Riyadh"
+        },
+        {
+          "AirportCode": "RZE",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 50.11,
+              "Longitude": 22.01888889
+            }
+          },
+          "CityCode": "RZE",
+          "CountryCode": "PL",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Rzeszow"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Rzeszow"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Rzeszow"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Rzeszow"
+              },
+              {
+                "@LanguageCode": "pl",
+                "$": "Rzeszów"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Rzeszow"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Rzeszow"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Europe\/Warsaw"
+        },
+        {
+          "AirportCode": "SAC",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 38.5125,
+              "Longitude": -121.4925
+            }
+          },
+          "CityCode": "SAC",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Sacramento Executive"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Sacramento Executive"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Sacramento Executive"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Sacramento Executive"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Sacramento Executive"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Sacramento Executive"
+              }
+            ]
+          },
+          "UtcOffset": -7,
+          "TimeZoneId": "America\/Los_Angeles"
+        },
+        {
+          "AirportCode": "SAH",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 15.47694444,
+              "Longitude": 44.22
+            }
+          },
+          "CityCode": "SAH",
+          "CountryCode": "YE",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Sana'a International"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Sana'a International"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Sana'a International"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Sana'a International"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Sana'a International"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Sana'a International"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Asia\/Aden"
+        },
+        {
+          "AirportCode": "SAL",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 13.69361111,
+              "Longitude": -89.11805556
+            }
+          },
+          "CityCode": "SAL",
+          "CountryCode": "SV",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "San Salvador - El Salvador International"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "San Salvador - El Salvador International"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Сан-Сальвадор"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "San Salvador - El Salvador International"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "San Salvador - El Salvador International"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "San Salvador - El Salvador International"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "San Salvador - El Salvador International"
+              }
+            ]
+          },
+          "UtcOffset": -6,
+          "TimeZoneId": "America\/El_Salvador"
+        },
+        {
+          "AirportCode": "SAN",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 32.73361111,
+              "Longitude": -117.1866667
+            }
+          },
+          "CityCode": "SAN",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "San Diego Lindberg Field"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "San Diego Lindberg Field, CA"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "San Diego Lindberg Field, CA"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "San Diego Lindberg Field, CA"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "San Diego Lindberg Field, CA"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "San Diego Lindberg Field, CA"
+              }
+            ]
+          },
+          "UtcOffset": -7,
+          "TimeZoneId": "America\/Los_Angeles"
+        },
+        {
+          "AirportCode": "SAP",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 15.45138889,
+              "Longitude": -87.92416667
+            }
+          },
+          "CityCode": "SAP",
+          "CountryCode": "HN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "San Pedro Sula"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "San Pedro Sula"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "San Pedro Sula"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "San Pedro Sula"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "San Pedro Sula"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "San Pedro Sula"
+              }
+            ]
+          },
+          "UtcOffset": -6,
+          "TimeZoneId": "America\/Tegucigalpa"
+        },
+        {
+          "AirportCode": "SAT",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 29.53361111,
+              "Longitude": -98.46972222
+            }
+          },
+          "CityCode": "SAT",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "San Antonio International"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "San Antonio International, TX"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "San Antonio International, TX"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "San Antonio International, TX"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "San Antonio International, TX"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "San Antonio International, TX"
+              }
+            ]
+          },
+          "UtcOffset": -5,
+          "TimeZoneId": "America\/Chicago"
+        },
+        {
+          "AirportCode": "SAV",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 32.1275,
+              "Longitude": -81.2025
+            }
+          },
+          "CityCode": "SAV",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Savannah International"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Savannah International, GA"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Savannah International, GA"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Savannah International, GA"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Savannah International, GA"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Savannah International, GA"
+              }
+            ]
+          },
+          "UtcOffset": -4,
+          "TimeZoneId": "America\/New_York"
+        },
+        {
+          "AirportCode": "SAW",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 40.89944444,
+              "Longitude": 29.30916667
+            }
+          },
+          "CityCode": "IST",
+          "CountryCode": "TR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "en",
+                "$": "Istanbul Sabiha Gokcen Airport"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Estambul Sahiba Gokcen Airport"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Europe\/Istanbul"
+        },
+        {
+          "AirportCode": "SBA",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 34.42777778,
+              "Longitude": -119.8394444
+            }
+          },
+          "CityCode": "SBA",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Santa Barbara Municipal"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Santa Barbara Municipal, CA"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Santa Barbara Municipal, CA"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Santa Barbara Municipal, CA"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Santa Barbara Municipal, CA"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Santa Barbara Municipal, CA"
+              }
+            ]
+          },
+          "UtcOffset": -7,
+          "TimeZoneId": "America\/Los_Angeles"
+        },
+        {
+          "AirportCode": "SBN",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 41.70472222,
+              "Longitude": -86.31666667
+            }
+          },
+          "CityCode": "SBN",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "South Bend"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "South Bend"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "South Bend"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "South Bend"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "South Bend"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "South Bend"
+              }
+            ]
+          },
+          "UtcOffset": -4,
+          "TimeZoneId": "America\/Indiana\/Indianapolis"
+        },
+        {
+          "AirportCode": "SBP",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 35.23666667,
+              "Longitude": -120.6391667
+            }
+          },
+          "CityCode": "CSL",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "San Luis Obispo County"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "San Luis Obispo County, CA"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "San Luis Obispo County, CA"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "San Luis Obispo County, CA"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "San Luis Obispo County, CA"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "San Luis Obispo County, CA"
+              }
+            ]
+          },
+          "UtcOffset": -7,
+          "TimeZoneId": "America\/Los_Angeles"
+        },
+        {
+          "AirportCode": "SBW",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 2.341666667,
+              "Longitude": 111.8383333
+            }
+          },
+          "CityCode": "SBW",
+          "CountryCode": "MY",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Sibu"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Sibu"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Sibu"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Sibu"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Sibu"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Sibu"
+              }
+            ]
+          },
+          "UtcOffset": 8,
+          "TimeZoneId": "Asia\/Kuala_Lumpur"
+        },
+        {
+          "AirportCode": "SBY",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 38.33861111,
+              "Longitude": -75.51
+            }
+          },
+          "CityCode": "SBY",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Salisbury"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Salisbury"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Salisbury"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Salisbury"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Salisbury"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Salisbury"
+              }
+            ]
+          },
+          "UtcOffset": -4,
+          "TimeZoneId": "America\/New_York"
+        },
+        {
+          "AirportCode": "SBZ",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 45.78555556,
+              "Longitude": 24.09138889
+            }
+          },
+          "CityCode": "SBZ",
+          "CountryCode": "RO",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Sibiu"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Sibiu"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Sibiu International"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Sibiu"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Sibiu"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Sibiu"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Europe\/Bucharest"
+        },
+        {
+          "AirportCode": "SCC",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 70.19472222,
+              "Longitude": -148.4652778
+            }
+          },
+          "CityCode": "SCC",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Prudhoe Bay\/Deadhorse"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Prudhoe Bay\/Deadhorse"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Prudhoe Bay\/Deadhorse"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Prudhoe Bay\/Deadhorse"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Prudhoe Bay\/Deadhorse"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Prudhoe Bay\/Deadhorse"
+              }
+            ]
+          },
+          "UtcOffset": -8,
+          "TimeZoneId": "America\/Anchorage"
+        },
+        {
+          "AirportCode": "SCE",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 40.77083333,
+              "Longitude": -77.88138889
+            }
+          },
+          "CityCode": "SCE",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "State College"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "State College"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "State College"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "State College"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "State College"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "State College"
+              }
+            ]
+          },
+          "UtcOffset": -4,
+          "TimeZoneId": "America\/New_York"
+        },
+        {
+          "AirportCode": "SCL",
+          "Position": {
+            "Coordinate": {
+              "Latitude": -33.38666667,
+              "Longitude": -70.785
+            }
+          },
+          "CityCode": "SCL",
+          "CountryCode": "CL",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Santiago - Arturo Merino Benitez"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Santiago - Arturo Merino Benitez"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "Santiago do Chile"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Santiago - Arturo Merino Benitez"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Santiago - Arturo Merino Benitez"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Santiago - Arturo Merino Benitez"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Santiago - Arturo Merino Benitez"
+              }
+            ]
+          },
+          "UtcOffset": -4,
+          "TimeZoneId": "America\/Santiago"
+        },
+        {
+          "AirportCode": "SCN",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 49.21444444,
+              "Longitude": 7.109444444
+            }
+          },
+          "CityCode": "SCN",
+          "CountryCode": "DE",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Saarbruecken - Ensheim"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Saarbrücken - Ensheim"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "ザールブリュッケン"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Saarbruecken - Ensheim"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Saarbruecken - Ensheim"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Saarbruecken - Ensheim"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Saarbruecken - Ensheim"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Europe\/Berlin"
+        },
+        {
+          "AirportCode": "SCO",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 43.86,
+              "Longitude": 51.09194444
+            }
+          },
+          "CityCode": "AKX",
+          "CountryCode": "KZ",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": {
+              "@LanguageCode": "en",
+              "$": "Aktau"
+            }
+          },
+          "UtcOffset": 5,
+          "TimeZoneId": "Asia\/Oral"
+        },
+        {
+          "AirportCode": "SCQ",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 42.895,
+              "Longitude": -8.415
+            }
+          },
+          "CityCode": "SCQ",
+          "CountryCode": "ES",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Santiago de Compostela"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Santiago de Compostela"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Santiago de Compostela"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Santiago de Compostela"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Santiago de Compostela"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Santiago de Compostela"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Europe\/Madrid"
+        },
+        {
+          "AirportCode": "SCW",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 61.64694444,
+              "Longitude": 50.845
+            }
+          },
+          "CityCode": "SCW",
+          "CountryCode": "RU",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Syktyvkar"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Syktyvkar"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Сыктывкар"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Syktyvkar"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Syktyvkar"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Syktyvkar"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Syktyvkar"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Europe\/Moscow"
+        },
+        {
+          "AirportCode": "SDA",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 33.26138889,
+              "Longitude": 44.23444444
+            }
+          },
+          "CityCode": "SCN",
+          "CountryCode": "DE",
+          "LocationType": "BusStation",
+          "Names": {
+            "Name": {
+              "@LanguageCode": "en",
+              "$": "Saarbruecken - Dudweiler Bus Station"
+            }
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Asia\/Baghdad"
+        },
+        {
+          "AirportCode": "SDF",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 38.17972222,
+              "Longitude": -85.73861111
+            }
+          },
+          "CityCode": "SDF",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Louisville International"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Louisville International, KY"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Louisville International, KY"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Louisville International, KY"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Louisville International, KY"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Louisville International, KY"
+              }
+            ]
+          },
+          "UtcOffset": -4,
+          "TimeZoneId": "America\/New_York"
+        },
+        {
+          "AirportCode": "SDJ",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 38.13611111,
+              "Longitude": 140.9238889
+            }
+          },
+          "CityCode": "SDJ",
+          "CountryCode": "JP",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Sendai"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Sendai"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "Sendai　仙台"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Sendai"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Sendai"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Sendai"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Sendai"
+              }
+            ]
+          },
+          "UtcOffset": 9,
+          "TimeZoneId": "Asia\/Tokyo"
+        },
+        {
+          "AirportCode": "SDK",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 5.900833333,
+              "Longitude": 118.0594444
+            }
+          },
+          "CityCode": "SDK",
+          "CountryCode": "MY",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Sandakan"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Sandakan"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Sandakan"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Sandakan"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Sandakan"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Sandakan"
+              }
+            ]
+          },
+          "UtcOffset": 8,
+          "TimeZoneId": "Asia\/Kuala_Lumpur"
+        },
+        {
+          "AirportCode": "SDL",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 62.52638889,
+              "Longitude": 17.44666667
+            }
+          },
+          "CityCode": "SDL",
+          "CountryCode": "SE",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Sundsvall"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Sundsvall"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Sundsvall"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Sundsvall"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Sundsvall"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Sundsvall"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Europe\/Stockholm"
+        },
+        {
+          "AirportCode": "SDQ",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 18.42916667,
+              "Longitude": -69.66916667
+            }
+          },
+          "CityCode": "SDQ",
+          "CountryCode": "DO",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Santo Domingo - Las Americas"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Santo Domingo - Las Americas"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Санто-Доминго"
+              },
+              {
+                "@LanguageCode": "ko",
+                "$": "산토도밍고"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "聖多明各"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "サント・ドミンゴ"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Santo Domingo - Las Americas"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Santo Domingo - Las Americas"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "圣多明各"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Saint-Domingue"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Santo Domingo - Las Americas"
+              }
+            ]
+          },
+          "UtcOffset": -4,
+          "TimeZoneId": "America\/Santo_Domingo"
+        },
+        {
+          "AirportCode": "SDU",
+          "Position": {
+            "Coordinate": {
+              "Latitude": -22.91,
+              "Longitude": -43.16277778
+            }
+          },
+          "CityCode": "RIO",
+          "CountryCode": "BR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Rio De Janeiro - Santos Dumont"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Rio de Janeiro - Santos Dumont"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Rio de Janeiro - Santos Dumont"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Rio de Janeiro - Santos Dumont"
+              }
+            ]
+          },
+          "UtcOffset": -3,
+          "TimeZoneId": "America\/Sao_Paulo"
+        },
+        {
+          "AirportCode": "SEA",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 47.44916667,
+              "Longitude": -122.3080556
+            }
+          },
+          "CityCode": "SEA",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Seattle - Seattle\/Tacoma International"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Seattle - Seattle\/Tacoma International, WA"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Seattle - Seattle\/Tacoma International, WA"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Seattle - Seattle\/Tacoma International, WA"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Seattle - Seattle\/Tacoma International, WA"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Seattle - Seattle\/Tacoma International, WA"
+              }
+            ]
+          },
+          "UtcOffset": -7,
+          "TimeZoneId": "America\/Los_Angeles"
+        },
+        {
+          "AirportCode": "SEZ",
+          "Position": {
+            "Coordinate": {
+              "Latitude": -4.672222222,
+              "Longitude": 55.5225
+            }
+          },
+          "CityCode": "SEZ",
+          "CountryCode": "SC",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Mahe Island - Seychelles International"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Mahe Island - Seychelles International"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Mahe Island - Seychelles International"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Mahe Island - Seychelles International"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Mahe Island - Seychelles International"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Mahe Island - Seychelles International"
+              }
+            ]
+          },
+          "UtcOffset": 4,
+          "TimeZoneId": "Indian\/Mahe"
+        },
+        {
+          "AirportCode": "SFN",
+          "Position": {
+            "Coordinate": {
+              "Latitude": -31.47166667,
+              "Longitude": -60.84722222
+            }
+          },
+          "CityCode": "SFN",
+          "CountryCode": "AR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Santa Fe"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Santa Fe"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Santa Fe"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Santa Fe"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Santa Fe"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Santa Fe"
+              }
+            ]
+          },
+          "UtcOffset": -3,
+          "TimeZoneId": "America\/Argentina\/Buenos_Aires"
+        },
+        {
+          "AirportCode": "SFO",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 37.61944444,
+              "Longitude": -122.3727778
+            }
+          },
+          "CityCode": "SFO",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "San Francisco International"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "San Francisco International, CA"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "São Francisco International"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "San Francisco International, CA"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "San Francisco International, CA"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "San Francisco International, CA"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "San Francisco International, CA"
+              }
+            ]
+          },
+          "UtcOffset": -7,
+          "TimeZoneId": "America\/Los_Angeles"
+        },
+        {
+          "AirportCode": "SFT",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 64.625,
+              "Longitude": 21.07833333
+            }
+          },
+          "CityCode": "SFT",
+          "CountryCode": "SE",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Skelleftea"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Skelleftea"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Skelleftea"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Skelleftea"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Skelleftea"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Skelleftea"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Europe\/Stockholm"
+        },
+        {
+          "AirportCode": "SGF",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 37.24,
+              "Longitude": -93.385
+            }
+          },
+          "CityCode": "SGF",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Springfield"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Springfield"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Springfield Branson"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Springfield"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Springfield"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Springfield"
+              }
+            ]
+          },
+          "UtcOffset": -5,
+          "TimeZoneId": "America\/Chicago"
+        },
+        {
+          "AirportCode": "SGN",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 10.81722222,
+              "Longitude": 106.6577778
+            }
+          },
+          "CityCode": "SGN",
+          "CountryCode": "VN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Ho Chi Minh City"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Ho Chi Minh City"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Хо Ши Мин Сити"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Ho Chi Minh City"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Ho Chi Minh"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Ho Chi Minh City"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Ho Chi Minh City"
+              }
+            ]
+          },
+          "UtcOffset": 7,
+          "TimeZoneId": "Asia\/Ho_Chi_Minh"
+        },
+        {
+          "AirportCode": "SGU",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 37.09305556,
+              "Longitude": -113.5922222
+            }
+          },
+          "CityCode": "SGU",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Saint George"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Saint George"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Saint George"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Saint George"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Saint George"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Saint George"
+              }
+            ]
+          },
+          "UtcOffset": -6,
+          "TimeZoneId": "America\/Denver"
+        },
+        {
+          "AirportCode": "SHB",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 43.5775,
+              "Longitude": 144.96
+            }
+          },
+          "CityCode": "SHB",
+          "CountryCode": "JP",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Nakashibetsu"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Nakashibetsu"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "Nakashibetsu"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Nakashibetsu"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Nakashibetsu"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Nakashibetsu"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Nakashibetsu"
+              }
+            ]
+          },
+          "UtcOffset": 9,
+          "TimeZoneId": "Asia\/Tokyo"
+        },
+        {
+          "AirportCode": "SHC",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 14.07416667,
+              "Longitude": 38.27444444
+            }
+          },
+          "CityCode": "SHC",
+          "CountryCode": "ET",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Indaselassie"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Inda Selassie"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Indaselassie"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Indaselassie"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Indaselassie"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Indaselassie"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Africa\/Addis_Ababa"
+        },
+        {
+          "AirportCode": "SHE",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 41.63972222,
+              "Longitude": 123.4833333
+            }
+          },
+          "CityCode": "SHE",
+          "CountryCode": "CN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Shenyang"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Shenyang"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Шэньян"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Shenyang Taoxian International Airport"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Shenyang"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Shenyang"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Shenyang"
+              }
+            ]
+          },
+          "UtcOffset": 8,
+          "TimeZoneId": "Asia\/Shanghai"
+        },
+        {
+          "AirportCode": "SHJ",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 25.34583333,
+              "Longitude": 55.39583333
+            }
+          },
+          "CityCode": "SHJ",
+          "CountryCode": "AE",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Sharjah"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Sharjah"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Шаджа"
+              },
+              {
+                "@LanguageCode": "ko",
+                "$": "샤르자"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "沙迦"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "シャルジャ"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Sharjah"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Sharjah"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Sharjah"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "沙迦"
+              },
+              {
+                "@LanguageCode": "pl",
+                "$": "Szrdża"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Sharjah"
+              }
+            ]
+          },
+          "UtcOffset": 4,
+          "TimeZoneId": "Asia\/Dubai"
+        },
+        {
+          "AirportCode": "SHL",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 25.70138889,
+              "Longitude": 91.98055556
+            }
+          },
+          "CityCode": "SHL",
+          "CountryCode": "IN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Shillong"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Shillong"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Shillong"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Shillong"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Shillong"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Shillong"
+              }
+            ]
+          },
+          "UtcOffset": 5.5,
+          "TimeZoneId": "Asia\/Kolkata"
+        },
+        {
+          "AirportCode": "SHR",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 44.77416667,
+              "Longitude": -106.9772222
+            }
+          },
+          "CityCode": "SHR",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Sheridan"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Sheridan"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Sheridan"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Sheridan"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Sheridan"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Sheridan"
+              }
+            ]
+          },
+          "UtcOffset": -6,
+          "TimeZoneId": "America\/Denver"
+        },
+        {
+          "AirportCode": "SHV",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 32.44694444,
+              "Longitude": -93.82861111
+            }
+          },
+          "CityCode": "SHV",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Shreveport Regional"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Shreveport Regional"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Shreveport Regional"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Shreveport Regional"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Shreveport Regional"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Shreveport Regional"
+              }
+            ]
+          },
+          "UtcOffset": -5,
+          "TimeZoneId": "America\/Chicago"
+        },
+        {
+          "AirportCode": "SIA",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 34.3,
+              "Longitude": 108.9333333
+            }
+          },
+          "CityCode": "SIA",
+          "CountryCode": "CN",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Xi'An - Xiguan"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Xi'An - Xiguan"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Xi'An - Xiguan"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Xi'An - Xiguan"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Xi'An - Xiguan"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Xi'An - Xiguan"
+              }
+            ]
+          },
+          "UtcOffset": 8,
+          "TimeZoneId": "Asia\/Shanghai"
+        },
+        {
+          "AirportCode": "SIN",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 1.357777778,
+              "Longitude": 103.9908333
+            }
+          },
+          "CityCode": "SIN",
+          "CountryCode": "SG",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Singapore - Changi International"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Singapur - Changi International"
+              },
+              {
+                "@LanguageCode": "pt",
+                "$": "Singapura - Changi International"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Singapore - Changi International"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Singapore - Changi International"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Singapore - Changi International"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Singapore - Changi International"
+              }
+            ]
+          },
+          "UtcOffset": 8,
+          "TimeZoneId": "Asia\/Singapore"
+        },
+        {
+          "AirportCode": "SIS",
+          "Position": {
+            "Coordinate": {
+              "Latitude": -27.64861111,
+              "Longitude": 22.99916667
+            }
+          },
+          "CityCode": "SIS",
+          "CountryCode": "ZA",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Sishen"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Sishen"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Sishen"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Sishen"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Sishen"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Sishen"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Africa\/Johannesburg"
+        },
+        {
+          "AirportCode": "SIT",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 57.04861111,
+              "Longitude": -135.3616667
+            }
+          },
+          "CityCode": "SIT",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Sitka"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Sitka"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Sitka"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Sitka"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Sitka"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Sitka"
+              }
+            ]
+          },
+          "UtcOffset": -8,
+          "TimeZoneId": "America\/Anchorage"
+        },
+        {
+          "AirportCode": "SJC",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 37.36111111,
+              "Longitude": -121.9255556
+            }
+          },
+          "CityCode": "SJC",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "San Jose International"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "San Jose, California"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "San Jose, Californien"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "San Jose International"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "San Jose International"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "San Jose International"
+              }
+            ]
+          },
+          "UtcOffset": -7,
+          "TimeZoneId": "America\/Los_Angeles"
+        },
+        {
+          "AirportCode": "SJD",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 23.15527778,
+              "Longitude": -109.725
+            }
+          },
+          "CityCode": "SJD",
+          "CountryCode": "MX",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "San Jose del Cabo - Los Cabos"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "San Jose del Cabo - Los Cabos"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "San Jose del Cabo - Los Cabos"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "San Jose del Cabo - Los Cabos"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "San Jose del Cabo - Los Cabos"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "San Jose del Cabo - Los Cabos"
+              }
+            ]
+          },
+          "UtcOffset": -6,
+          "TimeZoneId": "America\/Mazatlan"
+        },
+        {
+          "AirportCode": "SJJ",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 43.81472222,
+              "Longitude": 18.33638889
+            }
+          },
+          "CityCode": "SJJ",
+          "CountryCode": "BA",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Sarajevo"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Sarajevo"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Sarajevo"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Sarajevo"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Sarajevo"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Sarajevo"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Europe\/Sarajevo"
+        },
+        {
+          "AirportCode": "SJO",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 9.9925,
+              "Longitude": -84.21111111
+            }
+          },
+          "CityCode": "SJO",
+          "CountryCode": "CR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "San Jose - Juan Santamaria International"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "San Jose - Juan Santamaria International"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "San Jose - Juan Santamaria International"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "San Jose - Juan Santamaria International"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "San Jose - Juan Santamaria International"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "San Jose - Juan Santamaria International"
+              }
+            ]
+          },
+          "UtcOffset": -6,
+          "TimeZoneId": "America\/Costa_Rica"
+        },
+        {
+          "AirportCode": "SJP",
+          "Position": {
+            "Coordinate": {
+              "Latitude": -20.81666667,
+              "Longitude": -49.40638889
+            }
+          },
+          "CityCode": "SJP",
+          "CountryCode": "BR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Sao Jose Do Rio Preto"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Sao Jose Do Rio Preto"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Sao Jose Do Rio Preto"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Sao Jose Do Rio Preto"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Sao Jose Do Rio Preto"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Sao Jose Do Rio Preto"
+              }
+            ]
+          },
+          "UtcOffset": -3,
+          "TimeZoneId": "America\/Sao_Paulo"
+        },
+        {
+          "AirportCode": "SJU",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 18.44138889,
+              "Longitude": -66.00222222
+            }
+          },
+          "CityCode": "SJU",
+          "CountryCode": "PR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "San Juan - Luis Munoz Marin International"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "San Juan - Luis Munoz Marin International"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Сан-Хуан Luis Munoz Marin International"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "San Juan - Luis Munoz Marin International"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "San Juan - Luis Munoz Marin International"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "San Juan - Luis Munoz Marin International"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "San Juan - Luis Munoz Marin International"
+              }
+            ]
+          },
+          "UtcOffset": -4,
+          "TimeZoneId": "America\/Puerto_Rico"
+        },
+        {
+          "AirportCode": "SKG",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 40.52083333,
+              "Longitude": 22.97222222
+            }
+          },
+          "CityCode": "SKG",
+          "CountryCode": "GR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Thessaloniki"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Thessaloniki"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Thessaloniki"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Salonicco"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Thessaloniki"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Thessaloniki"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Europe\/Athens"
+        },
+        {
+          "AirportCode": "SKP",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 41.96138889,
+              "Longitude": 21.62166667
+            }
+          },
+          "CityCode": "SKP",
+          "CountryCode": "MK",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Skopje"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Skopje"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Skopje"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Skopje"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Skopje"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Skopje"
+              }
+            ]
+          },
+          "UtcOffset": 2,
+          "TimeZoneId": "Europe\/Skopje"
+        },
+        {
+          "AirportCode": "SLA",
+          "Position": {
+            "Coordinate": {
+              "Latitude": -24.855,
+              "Longitude": -65.47222222
+            }
+          },
+          "CityCode": "SLA",
+          "CountryCode": "AR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Salta"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Salta"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Сальта"
+              },
+              {
+                "@LanguageCode": "ko",
+                "$": "살타"
+              },
+              {
+                "@LanguageCode": "ka",
+                "$": "薩爾塔"
+              },
+              {
+                "@LanguageCode": "ja",
+                "$": "サルタ"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Salta"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Salta"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Salta"
+              },
+              {
+                "@LanguageCode": "mi",
+                "$": "萨尔塔"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Salta"
+              }
+            ]
+          },
+          "UtcOffset": -3,
+          "TimeZoneId": "America\/Argentina\/Buenos_Aires"
+        },
+        {
+          "AirportCode": "SLC",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 40.78694444,
+              "Longitude": -111.9688889
+            }
+          },
+          "CityCode": "SLC",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Salt Lake City International"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Salt Lake City International, UT"
+              },
+              {
+                "@LanguageCode": "ru",
+                "$": "Солт-Лейк-Сити"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Salt Lake City International, UT"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Salt Lake City International, UT"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Salt Lake City International, UT"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Salt Lake City International, UT"
+              }
+            ]
+          },
+          "UtcOffset": -6,
+          "TimeZoneId": "America\/Denver"
+        },
+        {
+          "AirportCode": "SLP",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 22.17722222,
+              "Longitude": -100.9883333
+            }
+          },
+          "CityCode": "SLP",
+          "CountryCode": "MX",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "San Luis Potosi"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "San Luis Potosi"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "San Luis Potosi"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "San Luis Potosi"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "San Luis Potosi"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "San Luis Potosi"
+              }
+            ]
+          },
+          "UtcOffset": -5,
+          "TimeZoneId": "America\/Mexico_City"
+        },
+        {
+          "AirportCode": "SLW",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 25.54944444,
+              "Longitude": -100.9286111
+            }
+          },
+          "CityCode": "SLW",
+          "CountryCode": "MX",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Saltillo"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Saltillo"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Saltillo"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Saltillo"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Saltillo"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Saltillo"
+              }
+            ]
+          },
+          "UtcOffset": -5,
+          "TimeZoneId": "America\/Mexico_City"
+        },
+        {
+          "AirportCode": "SLZ",
+          "Position": {
+            "Coordinate": {
+              "Latitude": -2.585277778,
+              "Longitude": -44.23416667
+            }
+          },
+          "CityCode": "SLZ",
+          "CountryCode": "BR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Sao Luiz"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Sao Luiz"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Sao Luiz"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Sao Luiz"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Sao Luiz"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Sao Luiz"
+              }
+            ]
+          },
+          "UtcOffset": -3,
+          "TimeZoneId": "America\/Belem"
+        },
+        {
+          "AirportCode": "SMF",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 38.69555556,
+              "Longitude": -121.5897222
+            }
+          },
+          "CityCode": "SAC",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Sacramento Metropolitan"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Sacramento Metropolitan, CA"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Sacramento Metropolitan, CA"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Sacramento Metropolitan, CA"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Sacramento Metropolitan, CA"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Sacramento Metropolitan, CA"
+              }
+            ]
+          },
+          "UtcOffset": -7,
+          "TimeZoneId": "America\/Los_Angeles"
+        },
+        {
+          "AirportCode": "SMI",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 37.68888889,
+              "Longitude": 26.91388889
+            }
+          },
+          "CityCode": "SMI",
+          "CountryCode": "GR",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Samos"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Samos"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Samos"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Samos"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Samos"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Samos"
+              }
+            ]
+          },
+          "UtcOffset": 3,
+          "TimeZoneId": "Europe\/Athens"
+        },
+        {
+          "AirportCode": "SMR",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 11.12222222,
+              "Longitude": -74.22861111
+            }
+          },
+          "CityCode": "SMR",
+          "CountryCode": "CO",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Santa Marta"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Santa Marta"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Santa Marta"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Santa Marta"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Santa Marta"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Santa Marta"
+              }
+            ]
+          },
+          "UtcOffset": -5,
+          "TimeZoneId": "America\/Bogota"
+        },
+        {
+          "AirportCode": "SMX",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 34.905,
+              "Longitude": -120.4577778
+            }
+          },
+          "CityCode": "SMX",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Santa Maria"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Santa Maria"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Santa Maria"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Santa Maria"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Santa Maria"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Santa Maria"
+              }
+            ]
+          },
+          "UtcOffset": -7,
+          "TimeZoneId": "America\/Los_Angeles"
+        },
+        {
+          "AirportCode": "SNA",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 33.67555556,
+              "Longitude": -117.8672222
+            }
+          },
+          "CityCode": "SNA",
+          "CountryCode": "US",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Santa Ana (Orange County) - John Wayne\nInternational"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Santa Ana (Orange County) - John Wayne\nInternational, CA"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Santa Ana (Orange County) - John Wayne\nInternational, CA"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Santa Ana (Orange County) - John Wayne\nInternational, CA"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Santa Ana (Orange County) - John Wayne\nInternational, CA"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Santa Ana (Orange County) - John Wayne\nInternational, CA\nInternational, CA"
+              }
+            ]
+          },
+          "UtcOffset": -7,
+          "TimeZoneId": "America\/Los_Angeles"
+        },
+        {
+          "AirportCode": "SNN",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 52.70055556,
+              "Longitude": -8.918611111
+            }
+          },
+          "CityCode": "SNN",
+          "CountryCode": "IE",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Shannon"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Shannon"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Shannon"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Shannon"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Shannon"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Shannon"
+              }
+            ]
+          },
+          "UtcOffset": 1,
+          "TimeZoneId": "Europe\/Dublin"
+        },
+        {
+          "AirportCode": "SNU",
+          "Position": {
+            "Coordinate": {
+              "Latitude": 22.49222222,
+              "Longitude": -79.94361111
+            }
+          },
+          "CityCode": "SNU",
+          "CountryCode": "CU",
+          "LocationType": "Airport",
+          "Names": {
+            "Name": [
+              {
+                "@LanguageCode": "xx",
+                "$": "Santa Clara"
+              },
+              {
+                "@LanguageCode": "de",
+                "$": "Santa Clara"
+              },
+              {
+                "@LanguageCode": "en",
+                "$": "Santa Clara"
+              },
+              {
+                "@LanguageCode": "it",
+                "$": "Santa Clara"
+              },
+              {
+                "@LanguageCode": "fr",
+                "$": "Santa Clara"
+              },
+              {
+                "@LanguageCode": "es",
+                "$": "Santa Clara"
+              }
+            ]
+          },
+          "UtcOffset": -4,
+          "TimeZoneId": "America\/Havana"
+        }
+      ]
+    },
+    "Meta": {
+      "@Version": "1.0.0",
+      "Link": [
+        {
+          "@Href": "https:\/\/api.lufthansa.com\/v1\/references\/airports?limit=100&offset=900",
+          "@Rel": "self"
+        },
+        {
+          "@Href": "https:\/\/api.lufthansa.com\/v1\/references\/airports?limit=100&offset=0",
+          "@Rel": "first"
+        },
+        {
+          "@Href": "https:\/\/api.lufthansa.com\/v1\/references\/airports?limit=100&offset=800",
+          "@Rel": "previous"
+        },
+        {
+          "@Href": "https:\/\/api.lufthansa.com\/v1\/references\/airports?limit=100&offset=1000",
+          "@Rel": "next"
+        },
+        {
+          "@Href": "https:\/\/api.lufthansa.com\/v1\/references\/airports?limit=100&offset=1200",
+          "@Rel": "last"
+        },
+        {
+          "@Href": "https:\/\/api.lufthansa.com\/v1\/references\/cities\/{cityCode}",
+          "@Rel": "related"
+        },
+        {
+          "@Href": "https:\/\/api.lufthansa.com\/v1\/references\/countries\/{countryCode}",
+          "@Rel": "related"
+        }
+      ],
+      "TotalCount": 1263
+    }
+  }
+}
