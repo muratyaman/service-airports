@@ -11,9 +11,13 @@ Airports service/API, international airport codes, IATA codes
 Check Postman collection for sample usage.
 
 `GET /api/airports`
+
 `GET /api/airports?name=London`
+
 `GET /api/airports?city=LON`
+
 `GET /api/airports?country=GB`
+
 
 Sample response:
 
